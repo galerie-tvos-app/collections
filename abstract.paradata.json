@@ -1,0 +1,364 @@
+{
+  "collectionId": "abstract",
+  "collectionName": "Abstract & Modern",
+  "description": "A journey through the birth of abstraction — from Kandinsky's explosive color to Mondrian's serene geometry — curated for wide-format displays.",
+  "version": "2026.02.12",
+  "lastUpdated": "2026-02-12T12:00:00Z",
+
+  "subThemes": [
+
+    {
+      "subThemeId": "kandinsky",
+      "subThemeName": "Vasily Kandinsky",
+      "description": "The pioneer of pure abstraction — color as music, form as feeling.",
+      "items": [
+        {
+          "id": "aic-8983",
+          "museumId": "aic",
+          "sourceObjectId": "8983",
+
+          "title": "Painting with Troika",
+          "artist": "Vasily Kandinsky",
+          "date": "1911",
+          "medium": "Oil on cardboard",
+          "classification": "Painting",
+          "subjects": ["Abstract", "Expressionism"],
+
+          "imageURL": null,
+          "thumbnailURL": null,
+
+          "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+          "embeddedThumbnailFormat": "image/webp"
+        },
+        {
+          "id": "aic-8980",
+          "museumId": "aic",
+          "sourceObjectId": "8980",
+
+          "title": "Landscape with Two Poplars",
+          "artist": "Vasily Kandinsky",
+          "date": "1912",
+          "medium": "Oil on canvas",
+          "classification": "Painting",
+          "subjects": ["Abstract", "Landscape"],
+
+          "imageURL": null,
+          "thumbnailURL": null,
+
+          "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+          "embeddedThumbnailFormat": "image/webp"
+        },
+        {
+          "id": "met-483380",
+          "museumId": "met",
+          "sourceObjectId": "483380",
+
+          "title": "Garden of Love (Improvisation Number 27)",
+          "artist": "Vasily Kandinsky",
+          "date": "1912",
+          "medium": "Oil on canvas",
+          "classification": "Painting",
+          "subjects": ["Abstract", "Expressionism"],
+
+          "imageURL": null,
+          "thumbnailURL": null,
+
+          "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+          "embeddedThumbnailFormat": "image/webp"
+        },
+        {
+          "id": "aic-8986",
+          "museumId": "aic",
+          "sourceObjectId": "8986",
+
+          "title": "Painting with Green Center",
+          "artist": "Vasily Kandinsky",
+          "date": "1913",
+          "medium": "Oil on canvas",
+          "classification": "Painting",
+          "subjects": ["Abstract"],
+
+          "imageURL": null,
+          "thumbnailURL": null,
+
+          "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+          "embeddedThumbnailFormat": "image/webp"
+        }
+      ]
+    },
+
+    {
+      "subThemeId": "klee",
+      "subThemeName": "Paul Klee",
+      "description": "Whimsy, geometry, and secret landscapes — Klee's playful abstractions glow like stained glass.",
+      "items": [
+        {
+          "id": "met-484870",
+          "museumId": "met",
+          "sourceObjectId": "484870",
+
+          "title": "Temple Gardens",
+          "artist": "Paul Klee",
+          "date": "1920",
+          "medium": "Gouache and ink on paper",
+          "classification": "Drawing",
+          "subjects": ["Abstract", "Architecture"],
+
+          "imageURL": null,
+          "thumbnailURL": null,
+
+          "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+          "embeddedThumbnailFormat": "image/webp"
+        },
+        {
+          "id": "met-490325",
+          "museumId": "met",
+          "sourceObjectId": "490325",
+
+          "title": "Fire in the Evening",
+          "artist": "Paul Klee",
+          "date": "1929",
+          "medium": "Oil on cardboard",
+          "classification": "Painting",
+          "subjects": ["Abstract", "Landscape"],
+
+          "imageURL": null,
+          "thumbnailURL": null,
+
+          "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+          "embeddedThumbnailFormat": "image/webp"
+        },
+        {
+          "id": "met-489079",
+          "museumId": "met",
+          "sourceObjectId": "489079",
+
+          "title": "Highway and Byways",
+          "artist": "Paul Klee",
+          "date": "1929",
+          "medium": "Oil on canvas",
+          "classification": "Painting",
+          "subjects": ["Abstract", "Landscape"],
+
+          "imageURL": null,
+          "thumbnailURL": null,
+
+          "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+          "embeddedThumbnailFormat": "image/webp"
+        }
+      ]
+    },
+
+    {
+      "subThemeId": "mondrian",
+      "subThemeName": "Piet Mondrian",
+      "description": "Pure lines, primary colors, perfect balance — Mondrian's Neo-Plasticism reduced painting to its essence.",
+      "items": [
+        {
+          "id": "met-490012",
+          "museumId": "met",
+          "sourceObjectId": "490012",
+
+          "title": "Composition",
+          "artist": "Piet Mondrian",
+          "date": "1921",
+          "medium": "Oil on canvas",
+          "classification": "Painting",
+          "subjects": ["Abstract", "Geometric"],
+
+          "imageURL": null,
+          "thumbnailURL": null,
+
+          "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+          "embeddedThumbnailFormat": "image/webp"
+        },
+        {
+          "id": "nga-66397",
+          "museumId": "nga",
+          "sourceObjectId": "66397",
+
+          "title": "Tableau No. IV; Lozenge Composition with Red, Gray, Blue, Yellow, and Black",
+          "artist": "Piet Mondrian",
+          "date": "c. 1924/1925",
+          "medium": "Oil on canvas",
+          "classification": "Painting",
+          "subjects": ["Abstract", "Geometric"],
+
+          "imageURL": null,
+          "thumbnailURL": null,
+
+          "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+          "embeddedThumbnailFormat": "image/webp"
+        }
+      ]
+    },
+
+    {
+      "subThemeId": "delaunay",
+      "subThemeName": "Robert & Sonia Delaunay",
+      "description": "Orphism in full bloom — pure color contrasts that vibrate with cosmic energy.",
+      "items": [
+        {
+          "id": "aic-20684",
+          "museumId": "aic",
+          "sourceObjectId": "20684",
+
+          "title": "Champs de Mars: La Tour Rouge",
+          "artist": "Robert Delaunay",
+          "date": "1911/23",
+          "medium": "Oil on canvas",
+          "classification": "Painting",
+          "subjects": ["Abstract", "Architecture"],
+
+          "imageURL": null,
+          "thumbnailURL": null,
+
+          "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+          "embeddedThumbnailFormat": "image/webp"
+        },
+        {
+          "id": "met-489168",
+          "museumId": "met",
+          "sourceObjectId": "489168",
+
+          "title": "Portuguese Woman (The Large Portuguese)",
+          "artist": "Sonia Delaunay",
+          "date": "1916",
+          "medium": "Oil and wax on canvas",
+          "classification": "Painting",
+          "subjects": ["Abstract", "Figure"],
+
+          "imageURL": null,
+          "thumbnailURL": null,
+
+          "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+          "embeddedThumbnailFormat": "image/webp"
+        }
+      ]
+    },
+
+    {
+      "subThemeId": "malevich-suprematism",
+      "subThemeName": "Suprematism & De Stijl",
+      "description": "The radical zero point of painting — pure geometric form floating in infinite space.",
+      "items": [
+        {
+          "id": "met-488410",
+          "museumId": "met",
+          "sourceObjectId": "488410",
+
+          "title": "Suprematist Composition: Airplane Flying",
+          "artist": "Kazimir Malevich",
+          "date": "1915",
+          "medium": "Oil on canvas",
+          "classification": "Painting",
+          "subjects": ["Abstract", "Suprematism"],
+
+          "imageURL": null,
+          "thumbnailURL": null,
+
+          "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+          "embeddedThumbnailFormat": "image/webp"
+        },
+        {
+          "id": "met-486277",
+          "museumId": "met",
+          "sourceObjectId": "486277",
+
+          "title": "Composition in Red, Blue, and Yellow",
+          "artist": "Piet Mondrian",
+          "date": "1930",
+          "medium": "Oil on canvas",
+          "classification": "Painting",
+          "subjects": ["Abstract", "Geometric"],
+
+          "imageURL": null,
+          "thumbnailURL": null,
+
+          "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+          "embeddedThumbnailFormat": "image/webp"
+        },
+        {
+          "id": "aic-119058",
+          "museumId": "aic",
+          "sourceObjectId": "119058",
+
+          "title": "Untitled (Composition with Grey Background)",
+          "artist": "Vasily Kandinsky",
+          "date": "1941",
+          "medium": "Oil on canvas",
+          "classification": "Painting",
+          "subjects": ["Abstract", "Geometric"],
+
+          "imageURL": null,
+          "thumbnailURL": null,
+
+          "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+          "embeddedThumbnailFormat": "image/webp"
+        }
+      ]
+    },
+
+    {
+      "subThemeId": "blue-rider",
+      "subThemeName": "Der Blaue Reiter",
+      "description": "The Blue Rider group believed color could speak directly to the soul — expressionist abstraction at its most vivid.",
+      "items": [
+        {
+          "id": "aic-8991",
+          "museumId": "aic",
+          "sourceObjectId": "8991",
+
+          "title": "Improvisation No. 30 (Cannons)",
+          "artist": "Vasily Kandinsky",
+          "date": "1913",
+          "medium": "Oil on canvas",
+          "classification": "Painting",
+          "subjects": ["Abstract", "Expressionism"],
+
+          "imageURL": null,
+          "thumbnailURL": null,
+
+          "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+          "embeddedThumbnailFormat": "image/webp"
+        },
+        {
+          "id": "met-488491",
+          "museumId": "met",
+          "sourceObjectId": "488491",
+
+          "title": "The Dark Mountain, No. 1",
+          "artist": "Marsden Hartley",
+          "date": "1909",
+          "medium": "Oil on composition board",
+          "classification": "Painting",
+          "subjects": ["Abstract", "Landscape"],
+
+          "imageURL": null,
+          "thumbnailURL": null,
+
+          "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+          "embeddedThumbnailFormat": "image/webp"
+        },
+        {
+          "id": "met-488490",
+          "museumId": "met",
+          "sourceObjectId": "488490",
+
+          "title": "Landscape, New Mexico",
+          "artist": "Marsden Hartley",
+          "date": "1919–20",
+          "medium": "Oil on canvas",
+          "classification": "Painting",
+          "subjects": ["Abstract", "Landscape"],
+
+          "imageURL": null,
+          "thumbnailURL": null,
+
+          "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+          "embeddedThumbnailFormat": "image/webp"
+        }
+      ]
+    }
+  ]
+}
