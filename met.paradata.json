@@ -1,0 +1,266 @@
+{
+  "collectionId": "the-met",
+  "collectionName": "The Met",
+  "description": "A curated exploration of The Metropolitan Museum of Art, blending its iconic masterpieces with cross-museum complements where appropriate.",
+  "version": "2026.02.07",
+  "lastUpdated": "2026-02-07T14:30:00Z",
+
+  "subThemes": [
+
+    {
+      "subThemeId": "masters-at-the-met",
+      "subThemeName": "Masters at the Met",
+      "description": "Iconic works by master artists represented in The Met’s collection.",
+      "items": [
+        {
+          "id": "met-436121",
+          "museumId": "met",
+          "sourceObjectId": "436121",
+
+          "title": "Wheat Field with Cypresses",
+          "artist": "Vincent van Gogh",
+          "date": "1889",
+          "medium": "Oil on canvas",
+          "classification": "Painting",
+          "subjects": ["Landscape"],
+
+          "imageURL": null,
+          "thumbnailURL": null,
+
+          "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+          "embeddedThumbnailFormat": "image/webp"
+        },
+        {
+          "id": "met-437853",
+          "museumId": "met",
+          "sourceObjectId": "437853",
+
+          "title": "Bridge over a Pond of Water Lilies",
+          "artist": "Claude Monet",
+          "date": "1899",
+          "medium": "Oil on canvas",
+          "classification": "Painting",
+          "subjects": ["Landscape", "Water"],
+
+          "imageURL": null,
+          "thumbnailURL": null,
+
+          "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+          "embeddedThumbnailFormat": "image/webp"
+        },
+        {
+          "id": "met-437133",
+          "museumId": "met",
+          "sourceObjectId": "437133",
+
+          "title": "The Dance Class",
+          "artist": "Edgar Degas",
+          "date": "1874",
+          "medium": "Oil on canvas",
+          "classification": "Painting",
+          "subjects": ["Dance", "Ballet"],
+
+          "imageURL": null,
+          "thumbnailURL": null,
+
+          "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+          "embeddedThumbnailFormat": "image/webp"
+        },
+        {
+          "id": "met-436839",
+          "museumId": "met",
+          "sourceObjectId": "436839",
+
+          "title": "Madame X (Madame Pierre Gautreau)",
+          "artist": "John Singer Sargent",
+          "date": "1883–84",
+          "medium": "Oil on canvas",
+          "classification": "Painting",
+          "subjects": ["Portrait"],
+
+          "imageURL": null,
+          "thumbnailURL": null,
+
+          "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+          "embeddedThumbnailFormat": "image/webp"
+        }
+      ]
+    },
+
+    {
+      "subThemeId": "american-art",
+      "subThemeName": "American Art",
+      "description": "A celebration of American creativity from the 18th to early 20th century.",
+      "items": [
+        {
+          "id": "met-436121b",
+          "museumId": "met",
+          "sourceObjectId": "436121b",
+
+          "title": "Washington Crossing the Delaware",
+          "artist": "Emanuel Leutze",
+          "date": "1851",
+          "medium": "Oil on canvas",
+          "classification": "Painting",
+          "subjects": ["History"],
+
+          "imageURL": null,
+          "thumbnailURL": null,
+
+          "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+          "embeddedThumbnailFormat": "image/webp"
+        },
+        {
+          "id": "met-437430b",
+          "museumId": "met",
+          "sourceObjectId": "437430b",
+
+          "title": "The Gulf Stream",
+          "artist": "Winslow Homer",
+          "date": "1899",
+          "medium": "Oil on canvas",
+          "classification": "Painting",
+          "subjects": ["Seascape"],
+
+          "imageURL": null,
+          "thumbnailURL": null,
+
+          "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+          "embeddedThumbnailFormat": "image/webp"
+        }
+      ]
+    },
+
+    {
+      "subThemeId": "impressionism-at-the-met",
+      "subThemeName": "Impressionism at the Met",
+      "description": "Light, color, and atmosphere from the Impressionist masters.",
+      "items": [
+        {
+          "id": "met-436532",
+          "museumId": "met",
+          "sourceObjectId": "436532",
+
+          "title": "Self-Portrait with a Straw Hat",
+          "artist": "Vincent van Gogh",
+          "date": "1887",
+          "medium": "Oil on canvas",
+          "classification": "Painting",
+          "subjects": ["Portrait"],
+
+          "imageURL": null,
+          "thumbnailURL": null,
+
+          "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+          "embeddedThumbnailFormat": "image/webp"
+        },
+        {
+          "id": "met-437853",
+          "museumId": "met",
+          "sourceObjectId": "437853",
+
+          "title": "Bridge over a Pond of Water Lilies",
+          "artist": "Claude Monet",
+          "date": "1899",
+          "medium": "Oil on canvas",
+          "classification": "Painting",
+          "subjects": ["Landscape"],
+
+          "imageURL": null,
+          "thumbnailURL": null,
+
+          "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+          "embeddedThumbnailFormat": "image/webp"
+        }
+      ]
+    },
+
+    {
+      "subThemeId": "dutch-golden-age",
+      "subThemeName": "Dutch Golden Age",
+      "description": "Masterworks of light, realism, and domestic intimacy.",
+      "items": [
+        {
+          "id": "met-437430",
+          "museumId": "met",
+          "sourceObjectId": "437430",
+
+          "title": "Young Woman with a Water Pitcher",
+          "artist": "Johannes Vermeer",
+          "date": "1662",
+          "medium": "Oil on canvas",
+          "classification": "Painting",
+          "subjects": ["Interior"],
+
+          "imageURL": null,
+          "thumbnailURL": null,
+
+          "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+          "embeddedThumbnailFormat": "image/webp"
+        },
+        {
+          "id": "met-436535",
+          "museumId": "met",
+          "sourceObjectId": "436535",
+
+          "title": "The Harvesters",
+          "artist": "Pieter Bruegel the Elder",
+          "date": "1565",
+          "medium": "Oil on wood",
+          "classification": "Painting",
+          "subjects": ["Landscape"],
+
+          "imageURL": null,
+          "thumbnailURL": null,
+
+          "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+          "embeddedThumbnailFormat": "image/webp"
+        }
+      ]
+    },
+
+    {
+      "subThemeId": "the-met-after-dark",
+      "subThemeName": "The Met After Dark",
+      "description": "Moody, atmospheric, and tastefully sensual works — a Gen‑X wink in the halls of the Met.",
+      "items": [
+        {
+          "id": "met-436839",
+          "museumId": "met",
+          "sourceObjectId": "436839",
+
+          "title": "Madame X",
+          "artist": "John Singer Sargent",
+          "date": "1883–84",
+          "medium": "Oil on canvas",
+          "classification": "Painting",
+          "subjects": ["Portrait", "Elegance"],
+
+          "imageURL": null,
+          "thumbnailURL": null,
+
+          "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+          "embeddedThumbnailFormat": "image/webp"
+        },
+        {
+          "id": "met-436155",
+          "museumId": "met",
+          "sourceObjectId": "436155",
+
+          "title": "The Rehearsal of the Ballet Onstage",
+          "artist": "Edgar Degas",
+          "date": "ca. 1874",
+          "medium": "Oil colors mixed with turpentine, with traces of watercolor and pastel over pen-and-ink drawing on cream-colored wove paper, laid down on bristol board and mounted on canvas",
+          "classification": "Painting",
+          "subjects": ["Dance", "Ballet", "Rehearsal"],
+
+          "imageURL": null,
+          "thumbnailURL": null,
+
+          "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+          "embeddedThumbnailFormat": "image/webp"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "collectionId": "impressionism",
+  "collectionName": "Impressionism",
+  "description": "A luminous journey through Impressionism and Post-Impressionism, curated for emotional resonance and visual beauty.",
+  "version": "2026.02.07",
+  "lastUpdated": "2026-02-07T14:30:00Z",
+
+  "subThemes": [
+
+    {
+      "subThemeId": "monet",
+      "subThemeName": "Claude Monet",
+      "description": "Light, water, and atmosphere — Monet’s world dissolves into color.",
+      "items": [
+        {
+          "id": "met-437853",
+          "museumId": "met",
+          "sourceObjectId": "437853",
+
+          "title": "Bridge over a Pond of Water Lilies",
+          "artist": "Claude Monet",
+          "date": "1899",
+          "medium": "Oil on canvas",
+          "classification": "Painting",
+          "subjects": ["Landscape", "Water"],
+
+          "imageURL": null,
+          "thumbnailURL": null,
+
+          "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+          "embeddedThumbnailFormat": "image/webp"
+        },
+        {
+          "id": "nga-61379",
+          "museumId": "nga",
+          "sourceObjectId": "99758d9d-c10b-4d02-a198-7e49afb1f3a6",
+
+          "title": "Woman with a Parasol",
+          "artist": "Claude Monet",
+          "date": "1875",
+          "medium": "Oil on canvas",
+          "classification": "Painting",
+          "subjects": ["Portrait", "Landscape"],
+
+          "imageURL": null,
+          "thumbnailURL": null,
+
+          "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+          "embeddedThumbnailFormat": "image/webp"
+        }
+      ]
+    },
+
+    {
+      "subThemeId": "renoir",
+      "subThemeName": "Pierre-Auguste Renoir",
+      "description": "Warmth, softness, and sensual light — Renoir’s world glows.",
+      "items": [
+        {
+          "id": "aic-11132",
+          "museumId": "aic",
+          "sourceObjectId": "11132",
+
+          "title": "Two Sisters (On the Terrace)",
+          "artist": "Pierre-Auguste Renoir",
+          "date": "1881",
+          "medium": "Oil on canvas",
+          "classification": "Painting",
+          "subjects": ["Portrait"],
+
+          "imageURL": null,
+          "thumbnailURL": null,
+
+          "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+          "embeddedThumbnailFormat": "image/webp"
+        },
+        {
+          "id": "nga-46681",
+          "museumId": "nga",
+          "sourceObjectId": "bcc517e0-84c3-4e21-8c08-c9a0181ced29",
+
+          "title": "Girl with a Watering Can",
+          "artist": "Pierre-Auguste Renoir",
+          "date": "1876",
+          "medium": "Oil on canvas",
+          "classification": "Painting",
+          "subjects": ["Portrait"],
+
+          "imageURL": null,
+          "thumbnailURL": null,
+
+          "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+          "embeddedThumbnailFormat": "image/webp"
+        }
+      ]
+    },
+
+    {
+      "subThemeId": "degas",
+      "subThemeName": "Edgar Degas",
+      "description": "Movement, rehearsal, and the quiet drama of backstage life.",
+      "items": [
+        {
+          "id": "met-437133",
+          "museumId": "met",
+          "sourceObjectId": "437133",
+
+          "title": "The Dance Class",
+          "artist": "Edgar Degas",
+          "date": "1874",
+          "medium": "Oil on canvas",
+          "classification": "Painting",
+          "subjects": ["Dance", "Ballet"],
+
+          "imageURL": null,
+          "thumbnailURL": null,
+
+          "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+          "embeddedThumbnailFormat": "image/webp"
+        },
+        {
+          "id": "met-436155",
+          "museumId": "met",
+          "sourceObjectId": "436155",
+
+          "title": "The Rehearsal of the Ballet Onstage",
+          "artist": "Edgar Degas",
+          "date": "ca. 1874",
+          "medium": "Oil colors mixed with turpentine, with traces of watercolor and pastel over pen-and-ink drawing on cream-colored wove paper, laid down on bristol board and mounted on canvas",
+          "classification": "Painting",
+          "subjects": ["Dance", "Ballet", "Rehearsal"],
+
+          "imageURL": null,
+          "thumbnailURL": null,
+
+          "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+          "embeddedThumbnailFormat": "image/webp"
+        }
+      ]
+    },
+
+    {
+      "subThemeId": "pissarro",
+      "subThemeName": "Camille Pissarro",
+      "description": "Village streets, soft light, and the poetry of everyday life.",
+      "items": [
+        {
+          "id": "nga-52198",
+          "museumId": "nga",
+          "sourceObjectId": "e291058c-0769-493c-a5f3-8e0e64e9ea46",
+
+          "title": "The Artist's Garden at Eragny",
+          "artist": "Camille Pissarro",
+          "date": "1898",
+          "medium": "Oil on canvas",
+          "classification": "Painting",
+          "subjects": ["Landscape", "Garden"],
+
+          "imageURL": null,
+          "thumbnailURL": null,
+
+          "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+          "embeddedThumbnailFormat": "image/webp"
+        },
+        {
+          "id": "nga-46673",
+          "museumId": "nga",
+          "sourceObjectId": "1921981a-82c4-46ee-8cec-185aa18e2538",
+
+          "title": "Boulevard des Italiens, Morning, Sunlight",
+          "artist": "Camille Pissarro",
+          "date": "1897",
+          "medium": "Oil on canvas",
+          "classification": "Painting",
+          "subjects": ["Cityscape", "Paris"],
+
+          "imageURL": null,
+          "thumbnailURL": null,
+
+          "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+          "embeddedThumbnailFormat": "image/webp"
+        }
+      ]
+    },
+
+    {
+      "subThemeId": "morisot",
+      "subThemeName": "Berthe Morisot",
+      "description": "Lightness, femininity, and the Impressionist interior.",
+      "items": [
+        {
+          "id": "nga-46660",
+          "museumId": "nga",
+          "sourceObjectId": "ea8beda4-8914-4648-aa98-6358279fc362",
+
+          "title": "In the Dining Room",
+          "artist": "Berthe Morisot",
+          "date": "1886",
+          "medium": "Oil on canvas",
+          "classification": "Painting",
+          "subjects": ["Interior", "Domestic"],
+
+          "imageURL": null,
+          "thumbnailURL": null,
+
+          "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+          "embeddedThumbnailFormat": "image/webp"
+        }
+      ]
+    },
+
+    {
+      "subThemeId": "cassatt",
+      "subThemeName": "Mary Cassatt",
+      "description": "Intimacy, motherhood, and the quiet power of domestic life.",
+      "items": [
+        {
+          "id": "nga-5910",
+          "museumId": "nga",
+          "sourceObjectId": "ac656593-1dee-4545-b297-4620b45eadbc",
+
+          "title": "The Bath",
+          "artist": "Mary Cassatt",
+          "date": "1891",
+          "medium": "Drypoint and aquatint",
+          "classification": "Print",
+          "subjects": ["Intimacy"],
+
+          "imageURL": null,
+          "thumbnailURL": null,
+
+          "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+          "embeddedThumbnailFormat": "image/webp"
+        }
+      ]
+    },
+
+    {
+      "subThemeId": "paris-was-a-mood",
+      "subThemeName": "Paris Was a Mood",
+      "description": "Cabarets, cafés, dancers, and the nightlife that shaped modern art.",
+      "items": [
+        {
+          "id": "aic-28560",
+          "museumId": "aic",
+          "sourceObjectId": "28560",
+
+          "title": "At the Moulin Rouge",
+          "artist": "Henri de Toulouse-Lautrec",
+          "date": "1892–95",
+          "medium": "Oil on canvas",
+          "classification": "Painting",
+          "subjects": ["Nightlife", "Cabaret"],
+
+          "imageURL": null,
+          "thumbnailURL": null,
+
+          "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+          "embeddedThumbnailFormat": "image/webp"
+        },
+        {
+          "id": "aic-61057",
+          "museumId": "aic",
+          "sourceObjectId": "61057",
+
+          "title": "Paris Street; Rainy Day",
+          "artist": "Gustave Caillebotte",
+          "date": "1877",
+          "medium": "Oil on canvas",
+          "classification": "Painting",
+          "subjects": ["Cityscape"],
+
+          "imageURL": null,
+          "thumbnailURL": null,
+
+          "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+          "embeddedThumbnailFormat": "image/webp"
+        }
+      ]
+    }
+  ]
+}
