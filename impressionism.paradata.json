@@ -91,6 +91,24 @@
 
           "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
           "embeddedThumbnailFormat": "image/webp"
+        },
+        {
+          "id": "nga-52202",
+          "museumId": "nga",
+          "sourceObjectId": "52202",
+
+          "title": "Pont Neuf",
+          "artist": "Pierre-Auguste Renoir",
+          "date": "1872",
+          "medium": "Oil on canvas",
+          "classification": "Painting",
+          "subjects": ["Landscape"],
+
+          "imageURL": null,
+          "thumbnailURL": null,
+
+          "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+          "embeddedThumbnailFormat": "image/webp"
         }
       ]
     },
