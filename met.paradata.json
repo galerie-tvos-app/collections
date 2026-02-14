@@ -1,7 +1,7 @@
-{
+precated{
   "collectionId": "the-met",
-  "collectionName": "The Met",
-  "description": "A curated exploration of The Metropolitan Museum of Art, blending its iconic masterpieces with cross-museum complements where appropriate.",
+  "collectionName": "The Met Deprecated",
+  "description": "OLD JSON APPROACH",
   "version": "2026.02.07",
   "lastUpdated": "2026-02-07T14:30:00Z",
 
