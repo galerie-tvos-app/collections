@@ -1089,69 +1089,6 @@
     "description": "American painters who absorbed French Impressionism and transplanted it to New England coastlines and Manhattan avenues. Childe Hassam, the movement's most prolific champion, captured the energy of turn-of-the-century New York and the luminous clarity of Gloucester's rocky shores.",
     "items": [
       {
-        "id": "met-11038",
-        "museumId": "met",
-        "sourceObjectId": "11038",
-        "title": "Spring Morning in the Heart of the City",
-        "artist": "Childe Hassam",
-        "date": "1890",
-        "medium": "Oil on canvas",
-        "classification": "Painting",
-        "subjects": [
-          "Cityscape",
-          "Genre",
-          "Urban"
-        ],
-        "imageURL": null,
-        "thumbnailURL": null,
-        "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
-        "embeddedThumbnailFormat": "image/webp",
-        "license": "CC0",
-        "source": "The Metropolitan Museum of Art"
-      },
-      {
-        "id": "met-16881",
-        "museumId": "met",
-        "sourceObjectId": "16881",
-        "title": "Winter in Union Square",
-        "artist": "Childe Hassam",
-        "date": "1889–1890",
-        "medium": "Oil on canvas",
-        "classification": "Painting",
-        "subjects": [
-          "Cityscape",
-          "Winter",
-          "Snow"
-        ],
-        "imageURL": null,
-        "thumbnailURL": null,
-        "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
-        "embeddedThumbnailFormat": "image/webp",
-        "license": "CC0",
-        "source": "The Metropolitan Museum of Art"
-      },
-      {
-        "id": "met-14871",
-        "museumId": "met",
-        "sourceObjectId": "14871",
-        "title": "The Water Garden",
-        "artist": "Childe Hassam",
-        "date": "1909",
-        "medium": "Oil on canvas",
-        "classification": "Painting",
-        "subjects": [
-          "Garden",
-          "Landscape",
-          "Water"
-        ],
-        "imageURL": null,
-        "thumbnailURL": null,
-        "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
-        "embeddedThumbnailFormat": "image/webp",
-        "license": "CC0",
-        "source": "The Metropolitan Museum of Art"
-      },
-      {
         "id": "aic-5349",
         "museumId": "aic",
         "sourceObjectId": "5349",
@@ -1193,6 +1130,65 @@
         "artist": "John Singer Sargent",
         "date": "1913",
         "medium": "Watercolor",
+        "classification": "Painting",
+        "subjects": [
+          "Garden",
+          "Landscape",
+          "Water"
+        ],
+        "imageURL": null,
+        "thumbnailURL": null,
+        "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+        "embeddedThumbnailFormat": "image/webp",
+        "license": "CC0",
+        "source": "The Metropolitan Museum of Art"
+      },
+      {
+        "id": "met-11038",
+        "museumId": "met",
+        "sourceObjectId": "11038",
+        "title": "Spring Morning in the Heart of the City",
+        "artist": "Childe Hassam",
+        "date": "1890",
+        "medium": "Oil on canvas",
+        "classification": "Painting",
+        "subjects": ["Cityscape", "Genre", "Urban"],
+        "imageURL": null,
+        "thumbnailURL": null,
+        "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+        "embeddedThumbnailFormat": "image/webp",
+        "license": "CC0",
+        "source": "The Metropolitan Museum of Art"
+      },
+      {
+        "id": "met-16881",
+        "museumId": "met",
+        "sourceObjectId": "16881",
+        "title": "Winter in Union Square",
+        "artist": "Childe Hassam",
+        "date": "1889–1890",
+        "medium": "Oil on canvas",
+        "classification": "Painting",
+        "subjects": [
+          "Cityscape",
+          "Winter",
+          "Snow"
+        ],
+        "imageURL": null,
+        "thumbnailURL": null,
+        "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+        "embeddedThumbnailFormat": "image/webp",
+        "license": "CC0",
+        "source": "The Metropolitan Museum of Art"
+      },
+      {
+        "id": "met-14871",
+        "museumId": "met",
+        "sourceObjectId": "14871",
+        "title": "The Water Garden",
+        "artist": "Childe Hassam",
+        "date": "1909",
+        "medium": "Oil on canvas",
         "classification": "Painting",
         "subjects": [
           "Garden",
