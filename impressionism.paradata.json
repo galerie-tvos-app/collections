@@ -464,6 +464,23 @@
           "embeddedThumbnailFormat": "image/webp",
           "license": "Public Domain",
           "source": "National Gallery, London (via Wikimedia Commons)"
+        },
+        {
+          "id": "wikimedia-luncheon-boating",
+          "museumId": "wikimedia",
+          "sourceObjectId": "Pierre-Auguste_Renoir_-_Luncheon_of_the_Boating_Party_-_Google_Art_Project.jpg",
+          "title": "Luncheon of the Boating Party",
+          "artist": "Pierre-Auguste Renoir",
+          "date": "1880–81",
+          "medium": "Oil on canvas",
+          "classification": "Painting",
+          "subjects": ["Genre", "Leisure", "Dining"],
+          "imageURL": null,
+          "thumbnailURL": null,
+          "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+          "embeddedThumbnailFormat": "image/webp",
+          "license": "Public Domain",
+          "source": "The Phillips Collection, Washington DC (via Wikimedia Commons)"
         }
       ]
     },
