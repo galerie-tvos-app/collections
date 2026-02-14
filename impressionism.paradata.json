@@ -1121,7 +1121,8 @@
         "subjects": ["Landscape", "Leisure", "Figure"],
         "license": "Public Domain",
         "source": "Private Collection (via Wikimedia Commons)"
-      ,
+      }
+        ,
       {
         "id": "met-12045",
         "museumId": "met",
