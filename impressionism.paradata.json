@@ -775,6 +775,188 @@
           "embeddedThumbnailFormat": "image/webp"
         }
       ]
-    }
+    },
+    {
+    "subThemeId": "german-impressionism",
+    "subThemeName": "German Impressionism",
+    "description": "The great triumvirate of German Impressionism — Liebermann, Corinth, and Slevogt — brought plein-air light and bold brushwork to the Berlin Secession. Liebermann's sun-drenched Dutch beach scenes and luminous Wannsee gardens anchor a tradition that bridged French influence with a distinctly Northern European sensibility.",
+    "items": [
+      {
+        "id": "met-436886",
+        "museumId": "met",
+        "sourceObjectId": "436886",
+        "title": "The Ropewalk in Edam",
+        "artist": "Max Liebermann",
+        "date": "1904",
+        "medium": "Oil on canvas",
+        "classification": "Painting",
+        "subjects": [
+          "Landscape",
+          "Genre",
+          "Labor"
+        ],
+        "imageURL": null,
+        "thumbnailURL": null,
+        "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+        "embeddedThumbnailFormat": "image/webp",
+        "license": "CC0",
+        "source": "The Metropolitan Museum of Art"
+      },
+      {
+        "id": "wiki-liebermann-gartenbank",
+        "museumId": "wikimedia",
+        "sourceObjectId": "Liebermann, Max - Die Gartenbank - Alte Nationalgalerie.jpg",
+        "title": "Die Gartenbank",
+        "artist": "Max Liebermann",
+        "date": "1916",
+        "medium": "Oil on canvas",
+        "classification": "Painting",
+        "subjects": [
+          "Garden",
+          "Figure",
+          "Leisure"
+        ],
+        "imageURL": null,
+        "thumbnailURL": null,
+        "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+        "embeddedThumbnailFormat": "image/webp",
+        "license": "Public Domain",
+        "source": "Alte Nationalgalerie, Berlin"
+      },
+      {
+        "id": "wiki-liebermann-noordwijk",
+        "museumId": "wikimedia",
+        "sourceObjectId": "Liebermann, Max - Landschaft bei Noordwijk - Alte Nationalgalerie.jpg",
+        "title": "Landschaft bei Noordwijk",
+        "artist": "Max Liebermann",
+        "date": "ca. 1905–1913",
+        "medium": "Oil on canvas",
+        "classification": "Painting",
+        "subjects": [
+          "Landscape",
+          "Seascape",
+          "Dunes"
+        ],
+        "imageURL": null,
+        "thumbnailURL": null,
+        "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+        "embeddedThumbnailFormat": "image/webp",
+        "license": "Public Domain",
+        "source": "Alte Nationalgalerie, Berlin"
+      },
+      {
+        "id": "wiki-corinth-walchensee",
+        "museumId": "wikimedia",
+        "sourceObjectId": "Corinth - Walchensee mit Bergkette in den Wolken PA291344.jpg",
+        "title": "Walchensee mit Bergkette in den Wolken",
+        "artist": "Lovis Corinth",
+        "date": "ca. 1920–1924",
+        "medium": "Oil on canvas",
+        "classification": "Painting",
+        "subjects": [
+          "Landscape",
+          "Mountain",
+          "Lake"
+        ],
+        "imageURL": null,
+        "thumbnailURL": null,
+        "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+        "embeddedThumbnailFormat": "image/webp",
+        "license": "Public Domain",
+        "source": "Private collection"
+      }
+    ]
+  },
+  {
+    "subThemeId": "american-impressionism",
+    "subThemeName": "American Impressionism",
+    "description": "American painters who absorbed French Impressionism and transplanted it to New England coastlines and Manhattan avenues. Childe Hassam, the movement's most prolific champion, captured the energy of turn-of-the-century New York and the luminous clarity of Gloucester's rocky shores.",
+    "items": [
+      {
+        "id": "met-11038",
+        "museumId": "met",
+        "sourceObjectId": "11038",
+        "title": "Spring Morning in the Heart of the City",
+        "artist": "Childe Hassam",
+        "date": "1890",
+        "medium": "Oil on canvas",
+        "classification": "Painting",
+        "subjects": [
+          "Cityscape",
+          "Genre",
+          "Urban"
+        ],
+        "imageURL": null,
+        "thumbnailURL": null,
+        "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+        "embeddedThumbnailFormat": "image/webp",
+        "license": "CC0",
+        "source": "The Metropolitan Museum of Art"
+      },
+      {
+        "id": "met-16881",
+        "museumId": "met",
+        "sourceObjectId": "16881",
+        "title": "Winter in Union Square",
+        "artist": "Childe Hassam",
+        "date": "1889–1890",
+        "medium": "Oil on canvas",
+        "classification": "Painting",
+        "subjects": [
+          "Cityscape",
+          "Winter",
+          "Snow"
+        ],
+        "imageURL": null,
+        "thumbnailURL": null,
+        "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+        "embeddedThumbnailFormat": "image/webp",
+        "license": "CC0",
+        "source": "The Metropolitan Museum of Art"
+      },
+      {
+        "id": "met-14871",
+        "museumId": "met",
+        "sourceObjectId": "14871",
+        "title": "The Water Garden",
+        "artist": "Childe Hassam",
+        "date": "1909",
+        "medium": "Oil on canvas",
+        "classification": "Painting",
+        "subjects": [
+          "Garden",
+          "Landscape",
+          "Water"
+        ],
+        "imageURL": null,
+        "thumbnailURL": null,
+        "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+        "embeddedThumbnailFormat": "image/webp",
+        "license": "CC0",
+        "source": "The Metropolitan Museum of Art"
+      },
+      {
+        "id": "aic-5349",
+        "museumId": "aic",
+        "sourceObjectId": "5349",
+        "title": "New England Headlands",
+        "artist": "Childe Hassam",
+        "date": "1899",
+        "medium": "Oil on canvas",
+        "classification": "Painting",
+        "subjects": [
+          "Seascape",
+          "Landscape",
+          "Coast"
+        ],
+        "imageURL": null,
+        "thumbnailURL": null,
+        "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+        "embeddedThumbnailFormat": "image/webp",
+        "license": "CC0",
+        "source": "The Art Institute of Chicago"
+      }
+    ]
+  }
   ]
 }
