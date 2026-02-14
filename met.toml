@@ -9,18 +9,22 @@ name = "Masters at the Met"
 description = "Iconic works by master artists represented in The Met's collection."
 
 [[sub.masters-at-the-met.items]]
+# --- van Gogh Wheat Field with Cypresses
 museum = "met"
 object = "436121"
 
 [[sub.masters-at-the-met.items]]
+# --- monet bridge over pond of water lillies
 museum = "met"
 object = "437853"
 
 [[sub.masters-at-the-met.items]]
+# --- degas The Dance Class
 museum = "met"
 object = "437133"
 
 [[sub.masters-at-the-met.items]]
+# --- John Singer Sargent Madame X 
 museum = "met"
 object = "436839"
 
@@ -31,10 +35,12 @@ name = "American Art"
 description = "A celebration of American creativity from the 18th to early 20th century."
 
 [[sub.american-art.items]]
+# --- Emanuel Leutze Washington Crossing the Delaware
 museum = "met"
 object = "436121b"
 
 [[sub.american-art.items]]
+# --- Winslow Homer The Gulf Stream
 museum = "met"
 object = "437430b"
 
@@ -45,12 +51,19 @@ name = "Impressionism at the Met"
 description = "Light, color, and atmosphere from the Impressionist masters."
 
 [[sub.impressionism-at-the-met.items]]
+# --- Vincent van Gogh  Self-Portrait with a Straw Hat
 museum = "met"
 object = "436532"
 
 [[sub.impressionism-at-the-met.items]]
+# --- Monet Bridge over a Pond of Water Lilies
 museum = "met"
 object = "437853"
+
+[[sub.impressionism-at-the-met.items]]
+# --- Edgar Degas  The Rehearsal of the Ballet Onstage
+museum = "met"
+object = "436155"
 
 # --- Dutch Golden Age ---
 
@@ -59,23 +72,11 @@ name = "Dutch Golden Age"
 description = "Masterworks of light, realism, and domestic intimacy."
 
 [[sub.dutch-golden-age.items]]
+# --- Johannes Vermeer Young Woman with a Water Pitcher
 museum = "met"
 object = "437430"
 
 [[sub.dutch-golden-age.items]]
+# --- Pieter Bruegel the Elder The Harvesters
 museum = "met"
 object = "436535"
-
-# --- The Met After Dark ---
-
-[sub.the-met-after-dark]
-name = "The Met After Dark"
-description = "Moody, atmospheric, and tastefully sensual works — a Gen-X wink in the halls of the Met."
-
-[[sub.the-met-after-dark.items]]
-museum = "met"
-object = "436839"
-
-[[sub.the-met-after-dark.items]]
-museum = "met"
-object = "436155"
