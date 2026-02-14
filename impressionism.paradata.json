@@ -552,6 +552,114 @@
 
           "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
           "embeddedThumbnailFormat": "image/webp"
+        },
+        {
+          "id": "nga-66430",
+          "museumId": "nga",
+          "sourceObjectId": "b4419dc5-cea3-4a69-9c48-60a896901ca1",
+
+          "title": "Charing Cross Bridge, London",
+          "artist": "Camille Pissarro",
+          "date": "1890",
+          "medium": "Oil on canvas",
+          "classification": "Painting",
+          "subjects": ["Cityscape", "London"],
+
+          "imageURL": null,
+          "thumbnailURL": null,
+
+          "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+          "embeddedThumbnailFormat": "image/webp"
+        },
+        {
+          "id": "nga-195850",
+          "museumId": "nga",
+          "sourceObjectId": "f7896300-10dd-4eec-ae25-bf689ce99015",
+
+          "title": "The Louvre, Afternoon, Rainy Weather",
+          "artist": "Camille Pissarro",
+          "date": "1900",
+          "medium": "Oil on canvas",
+          "classification": "Painting",
+          "subjects": ["Cityscape", "Paris"],
+
+          "imageURL": null,
+          "thumbnailURL": null,
+
+          "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+          "embeddedThumbnailFormat": "image/webp"
+        },
+        {
+          "id": "nga-52199",
+          "museumId": "nga",
+          "sourceObjectId": "2f61c3b8-00ff-41d4-941a-9d639c291472",
+
+          "title": "Place du Carrousel, Paris",
+          "artist": "Camille Pissarro",
+          "date": "1900",
+          "medium": "Oil on canvas",
+          "classification": "Painting",
+          "subjects": ["Cityscape", "Paris"],
+
+          "imageURL": null,
+          "thumbnailURL": null,
+
+          "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+          "embeddedThumbnailFormat": "image/webp"
+        },
+        {
+          "id": "nga-46673",
+          "museumId": "nga",
+          "sourceObjectId": "1921981a-82c4-46ee-8cec-185aa18e2538",
+
+          "title": "Boulevard des Italiens, Morning, Sunlight",
+          "artist": "Camille Pissarro",
+          "date": "1897",
+          "medium": "Oil on canvas",
+          "classification": "Painting",
+          "subjects": ["Cityscape", "Italy"],
+
+          "imageURL": null,
+          "thumbnailURL": null,
+
+          "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+          "embeddedThumbnailFormat": "image/webp"
+        },
+        {
+          "id": "nga-66429",
+          "museumId": "nga",
+          "sourceObjectId": "94413b0f-688f-4cf4-9a08-f52e836faab4",
+
+          "title": "The Fence",
+          "artist": "Camille Pissarro",
+          "date": "1872",
+          "medium": "Oil on canvas",
+          "classification": "Painting",
+          "subjects": ["Landscape"],
+
+          "imageURL": null,
+          "thumbnailURL": null,
+
+          "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+          "embeddedThumbnailFormat": "image/webp"
+        },
+        {
+          "id": "nga-66428",
+          "museumId": "nga",
+          "sourceObjectId": "fdfa01c4-7334-4a34-a1fa-64429773e96e",
+
+          "title": "Two Women Chatting by the Sea, St. Thomas",
+          "artist": "Camille Pissarro",
+          "date": "1897",
+          "medium": "Oil on canvas",
+          "classification": "Painting",
+          "subjects": ["Landscape", "St. Thomas"],
+
+          "imageURL": null,
+          "thumbnailURL": null,
+
+          "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+          "embeddedThumbnailFormat": "image/webp"
         }
       ]
     },
