@@ -1184,6 +1184,27 @@
         "subjects": ["Landscape", "Leisure", "Figure"],
         "license": "Public Domain",
         "source": "Private Collection (via Wikimedia Commons)"
+      ,
+      {
+        "id": "met-12045",
+        "museumId": "met",
+        "sourceObjectId": "12045",
+        "title": "Boats",
+        "artist": "John Singer Sargent",
+        "date": "1913",
+        "medium": "Watercolor",
+        "classification": "Painting",
+        "subjects": [
+          "Garden",
+          "Landscape",
+          "Water"
+        ],
+        "imageURL": null,
+        "thumbnailURL": null,
+        "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+        "embeddedThumbnailFormat": "image/webp",
+        "license": "CC0",
+        "source": "The Metropolitan Museum of Art"
       }
     ]
   }
