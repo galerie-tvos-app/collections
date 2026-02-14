@@ -1171,6 +1171,19 @@
         "embeddedThumbnailFormat": "image/webp",
         "license": "CC0",
         "source": "The Art Institute of Chicago"
+      },
+      {
+        "id": "wiki-sargent-siesta",
+        "museumId": "wikimedia",
+        "sourceObjectId": "Sargent-The-Siesta.jpg",
+        "title": "The Siesta",
+        "artist": "John Singer Sargent",
+        "date": "c. 1905",
+        "medium": "Watercolor on paper",
+        "classification": "Painting",
+        "subjects": ["Landscape", "Leisure", "Figure"],
+        "license": "Public Domain",
+        "source": "Private Collection (via Wikimedia Commons)"
       }
     ]
   }
