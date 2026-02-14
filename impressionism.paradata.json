@@ -2,7 +2,7 @@
   "collectionId": "impressionism",
   "collectionName": "Impressionism",
   "description": "A luminous journey through Impressionism and Post-Impressionism, curated for emotional resonance and visual beauty.",
-  "version": "1.0.04",
+  "version": "1.0.5",
   "lastUpdated": "2026-02-13T14:30:00Z",
 
   "subThemes": [
@@ -464,23 +464,6 @@
           "embeddedThumbnailFormat": "image/webp",
           "license": "Public Domain",
           "source": "National Gallery, London (via Wikimedia Commons)"
-        },
-        {
-          "id": "wikimedia-luncheon-boating",
-          "museumId": "wikimedia",
-          "sourceObjectId": "Pierre-Auguste_Renoir_-_Luncheon_of_the_Boating_Party_-_Google_Art_Project.jpg",
-          "title": "Luncheon of the Boating Party",
-          "artist": "Pierre-Auguste Renoir",
-          "date": "1880–81",
-          "medium": "Oil on canvas",
-          "classification": "Painting",
-          "subjects": ["Genre", "Leisure", "Dining"],
-          "imageURL": null,
-          "thumbnailURL": null,
-          "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
-          "embeddedThumbnailFormat": "image/webp",
-          "license": "Public Domain",
-          "source": "The Phillips Collection, Washington DC (via Wikimedia Commons)"
         }
       ]
     },
@@ -617,24 +600,6 @@
           "medium": "Oil on canvas",
           "classification": "Painting",
           "subjects": ["Cityscape", "Paris"],
-
-          "imageURL": null,
-          "thumbnailURL": null,
-
-          "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
-          "embeddedThumbnailFormat": "image/webp"
-        },
-        {
-          "id": "nga-46673",
-          "museumId": "nga",
-          "sourceObjectId": "1921981a-82c4-46ee-8cec-185aa18e2538",
-
-          "title": "Boulevard des Italiens, Morning, Sunlight",
-          "artist": "Camille Pissarro",
-          "date": "1897",
-          "medium": "Oil on canvas",
-          "classification": "Painting",
-          "subjects": ["Cityscape", "Italy"],
 
           "imageURL": null,
           "thumbnailURL": null,
