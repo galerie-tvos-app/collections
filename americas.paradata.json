@@ -1,0 +1,162 @@
+{
+  "collectionId": "americas",
+  "collectionName": "Americas",
+  "description": "From the unflinching gaze of American Realism to the moonlit visions of the Symbolists — the painters who forged a distinctly American voice.",
+  "version": "1.0.0",
+  "lastUpdated": "2026-02-13T23:00:00Z",
+
+  "subThemes": [
+
+    {
+      "subThemeId": "american-realism",
+      "subThemeName": "American Realism",
+      "description": "Uncompromising truth — Homer's untamed seas, Eakins' athletes, Sargent's society, and Whistler's elegant arrangements.",
+      "items": [
+        {
+          "id": "met-11122",
+          "museumId": "met",
+          "sourceObjectId": "11122",
+          "title": "The Gulf Stream",
+          "artist": "Winslow Homer",
+          "date": "1899",
+          "medium": "Oil on canvas",
+          "classification": "Painting",
+          "subjects": ["Seascape", "Figure", "Narrative"],
+          "imageURL": null,
+          "thumbnailURL": null,
+          "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+          "embeddedThumbnailFormat": "image/webp",
+          "license": "CC0",
+          "source": "The Metropolitan Museum of Art"
+        },
+        {
+          "id": "met-10819",
+          "museumId": "met",
+          "sourceObjectId": "10819",
+          "title": "The Champion Single Sculls (Max Schmitt in a Single Scull)",
+          "artist": "Thomas Eakins",
+          "date": "1871",
+          "medium": "Oil on canvas",
+          "classification": "Painting",
+          "subjects": ["Sport", "Landscape", "Portrait"],
+          "imageURL": null,
+          "thumbnailURL": null,
+          "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+          "embeddedThumbnailFormat": "image/webp",
+          "license": "CC0",
+          "source": "The Metropolitan Museum of Art"
+        },
+        {
+          "id": "met-12127",
+          "museumId": "met",
+          "sourceObjectId": "12127",
+          "title": "Madame X (Madame Pierre Gautreau)",
+          "artist": "John Singer Sargent",
+          "date": "1883–84",
+          "medium": "Oil on canvas",
+          "classification": "Painting",
+          "subjects": ["Portrait", "Fashion"],
+          "imageURL": null,
+          "thumbnailURL": null,
+          "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+          "embeddedThumbnailFormat": "image/webp",
+          "license": "CC0",
+          "source": "The Metropolitan Museum of Art"
+        },
+        {
+          "id": "met-13211",
+          "museumId": "met",
+          "sourceObjectId": "13211",
+          "title": "Arrangement in Flesh Colour and Black: Portrait of Theodore Duret",
+          "artist": "James McNeill Whistler",
+          "date": "1883",
+          "medium": "Oil on canvas",
+          "classification": "Painting",
+          "subjects": ["Portrait", "Aestheticism"],
+          "imageURL": null,
+          "thumbnailURL": null,
+          "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+          "embeddedThumbnailFormat": "image/webp",
+          "license": "CC0",
+          "source": "The Metropolitan Museum of Art"
+        }
+      ]
+    },
+
+    {
+      "subThemeId": "american-symbolism",
+      "subThemeName": "American Symbolism",
+      "description": "Dreamers and visionaries — Vedder's celestial mythologies and Ryder's haunted moonlit seas.",
+      "items": [
+        {
+          "id": "met-13070",
+          "museumId": "met",
+          "sourceObjectId": "13070",
+          "title": "The Pleiades",
+          "artist": "Elihu Vedder",
+          "date": "1885",
+          "medium": "Oil on canvas",
+          "classification": "Painting",
+          "subjects": ["Mythology", "Figure", "Celestial"],
+          "imageURL": null,
+          "thumbnailURL": null,
+          "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+          "embeddedThumbnailFormat": "image/webp",
+          "license": "CC0",
+          "source": "The Metropolitan Museum of Art"
+        },
+        {
+          "id": "met-13065",
+          "museumId": "met",
+          "sourceObjectId": "13065",
+          "title": "Lair of the Sea Serpent",
+          "artist": "Elihu Vedder",
+          "date": "ca. 1899",
+          "medium": "Oil on canvas",
+          "classification": "Painting",
+          "subjects": ["Mythology", "Seascape", "Fantasy"],
+          "imageURL": null,
+          "thumbnailURL": null,
+          "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+          "embeddedThumbnailFormat": "image/webp",
+          "license": "CC0",
+          "source": "The Metropolitan Museum of Art"
+        },
+        {
+          "id": "met-11981",
+          "museumId": "met",
+          "sourceObjectId": "11981",
+          "title": "The Toilers of the Sea",
+          "artist": "Albert Pinkham Ryder",
+          "date": "ca. 1880–85",
+          "medium": "Oil on wood",
+          "classification": "Painting",
+          "subjects": ["Seascape", "Moonlight", "Narrative"],
+          "imageURL": null,
+          "thumbnailURL": null,
+          "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+          "embeddedThumbnailFormat": "image/webp",
+          "license": "CC0",
+          "source": "The Metropolitan Museum of Art"
+        },
+        {
+          "id": "met-11979",
+          "museumId": "met",
+          "sourceObjectId": "11979",
+          "title": "Moonlight Marine",
+          "artist": "Albert Pinkham Ryder",
+          "date": "1870–90",
+          "medium": "Oil on wood",
+          "classification": "Painting",
+          "subjects": ["Seascape", "Moonlight", "Nocturne"],
+          "imageURL": null,
+          "thumbnailURL": null,
+          "embeddedThumbnail": "BASE64_WEBP_THUMBNAIL",
+          "embeddedThumbnailFormat": "image/webp",
+          "license": "CC0",
+          "source": "The Metropolitan Museum of Art"
+        }
+      ]
+    }
+  ]
+}
