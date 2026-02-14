@@ -1,0 +1,127 @@
+[collection]
+name = "Masters"
+description = "A cross-museum celebration of humanity's most influential artists, curated for emotional resonance and visual power."
+
+# --- Vincent van Gogh ---
+
+[sub.van-gogh]
+name = "Vincent van Gogh"
+description = "Intensity, color, and emotion — Van Gogh's works radiate from the wall."
+default_artist = "Vincent van Gogh"
+
+[[sub.van-gogh.items]]
+museum = "met"
+object = "436121"
+
+[[sub.van-gogh.items]]
+museum = "aic"
+object = "27992"
+
+[[sub.van-gogh.items]]
+museum = "nga"
+object = "54ee6643-e0f9-4b92-a1d2-441e5108724d"
+title = "Self-Portrait"
+date = "1889"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Portrait"]
+
+# --- Pierre-Auguste Renoir ---
+
+[sub.renoir]
+name = "Pierre-Auguste Renoir"
+description = "Warmth, softness, and sensual light — Renoir at his most luminous."
+default_artist = "Pierre-Auguste Renoir"
+
+[[sub.renoir.items]]
+museum = "aic"
+object = "11132"
+
+[[sub.renoir.items]]
+museum = "nga"
+object = "bcc517e0-84c3-4e21-8c08-c9a0181ced29"
+title = "Girl with a Watering Can"
+date = "1876"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Portrait"]
+
+[[sub.renoir.items]]
+museum = "mfab"
+object = "32592"
+title = "Dance at Bougival"
+date = "1883"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Portrait", "Dance", "Social Scene"]
+
+[[sub.renoir.items]]
+museum = "aic"
+object = "16584"
+
+[[sub.renoir.items]]
+museum = "met"
+object = "436965"
+
+# --- Claude Monet ---
+
+[sub.monet]
+name = "Claude Monet"
+description = "Light, water, and atmosphere — the poetry of perception."
+default_artist = "Claude Monet"
+
+[[sub.monet.items]]
+museum = "met"
+object = "437853"
+
+[[sub.monet.items]]
+museum = "nga"
+object = "99758d9d-c10b-4d02-a198-7e49afb1f3a6"
+title = "Woman with a Parasol"
+date = "1875"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Portrait", "Landscape"]
+
+# --- Johannes Vermeer ---
+
+[sub.vermeer]
+name = "Johannes Vermeer"
+description = "Quiet light, intimate interiors, and the stillness of Dutch domestic life."
+default_artist = "Johannes Vermeer"
+
+[[sub.vermeer.items]]
+museum = "met"
+object = "437430"
+
+# --- Rembrandt ---
+
+[sub.rembrandt]
+name = "Rembrandt"
+description = "Humanity, drama, and the deepest shadows in Western art."
+default_artist = "Rembrandt"
+
+[[sub.rembrandt.items]]
+museum = "met"
+object = "436839"
+
+# --- The Masters Who Knew Desire ---
+
+[sub.the-masters-who-knew-desire]
+name = "The Masters Who Knew Desire"
+description = "Tasteful sensuality, intimate light, and the human form — a Gen-X wink across centuries."
+
+[[sub.the-masters-who-knew-desire.items]]
+museum = "met"
+object = "436839"
+artist = "John Singer Sargent"
+
+[[sub.the-masters-who-knew-desire.items]]
+museum = "nga"
+object = "ac656593-1dee-4545-b297-4620b45eadbc"
+title = "The Bath"
+artist = "Mary Cassatt"
+date = "1891"
+medium = "Drypoint and aquatint"
+classification = "Print"
+subjects = ["Intimacy"]

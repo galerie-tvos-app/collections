@@ -1,0 +1,81 @@
+[collection]
+name = "The Met"
+description = "A curated exploration of The Metropolitan Museum of Art, blending its iconic masterpieces with cross-museum complements where appropriate."
+
+# --- Masters at the Met ---
+
+[sub.masters-at-the-met]
+name = "Masters at the Met"
+description = "Iconic works by master artists represented in The Met's collection."
+
+[[sub.masters-at-the-met.items]]
+museum = "met"
+object = "436121"
+
+[[sub.masters-at-the-met.items]]
+museum = "met"
+object = "437853"
+
+[[sub.masters-at-the-met.items]]
+museum = "met"
+object = "437133"
+
+[[sub.masters-at-the-met.items]]
+museum = "met"
+object = "436839"
+
+# --- American Art ---
+
+[sub.american-art]
+name = "American Art"
+description = "A celebration of American creativity from the 18th to early 20th century."
+
+[[sub.american-art.items]]
+museum = "met"
+object = "436121b"
+
+[[sub.american-art.items]]
+museum = "met"
+object = "437430b"
+
+# --- Impressionism at the Met ---
+
+[sub.impressionism-at-the-met]
+name = "Impressionism at the Met"
+description = "Light, color, and atmosphere from the Impressionist masters."
+
+[[sub.impressionism-at-the-met.items]]
+museum = "met"
+object = "436532"
+
+[[sub.impressionism-at-the-met.items]]
+museum = "met"
+object = "437853"
+
+# --- Dutch Golden Age ---
+
+[sub.dutch-golden-age]
+name = "Dutch Golden Age"
+description = "Masterworks of light, realism, and domestic intimacy."
+
+[[sub.dutch-golden-age.items]]
+museum = "met"
+object = "437430"
+
+[[sub.dutch-golden-age.items]]
+museum = "met"
+object = "436535"
+
+# --- The Met After Dark ---
+
+[sub.the-met-after-dark]
+name = "The Met After Dark"
+description = "Moody, atmospheric, and tastefully sensual works — a Gen-X wink in the halls of the Met."
+
+[[sub.the-met-after-dark.items]]
+museum = "met"
+object = "436839"
+
+[[sub.the-met-after-dark.items]]
+museum = "met"
+object = "436155"
