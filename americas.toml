@@ -1,0 +1,59 @@
+[collection]
+name = "Americas"
+description = "From the unflinching gaze of American Realism to the moonlit visions of the Symbolists — the painters who forged a distinctly American voice."
+
+[sub.american-realism]
+name = "American Realism"
+description = "Uncompromising truth — Homer's untamed seas, Eakins' athletes, Sargent's society, and Whistler's elegant arrangements."
+
+[[sub.american-realism.items]]
+museum = "met"
+object = "11122"
+title = "The Gulf Stream"
+artist = "Winslow Homer"
+
+[[sub.american-realism.items]]
+museum = "met"
+object = "10819"
+title = "The Champion Single Sculls (Max Schmitt in a Single Scull)"
+artist = "Thomas Eakins"
+
+[[sub.american-realism.items]]
+museum = "met"
+object = "12127"
+title = "Madame X (Madame Pierre Gautreau)"
+artist = "John Singer Sargent"
+
+[[sub.american-realism.items]]
+museum = "met"
+object = "13211"
+title = "Arrangement in Flesh Colour and Black: Portrait of Theodore Duret"
+artist = "James McNeill Whistler"
+
+[sub.american-symbolism]
+name = "American Symbolism"
+description = "Dreamers and visionaries — Vedder's celestial mythologies and Ryder's haunted moonlit seas."
+
+[[sub.american-symbolism.items]]
+museum = "met"
+object = "13070"
+title = "The Pleiades"
+artist = "Elihu Vedder"
+
+[[sub.american-symbolism.items]]
+museum = "met"
+object = "13065"
+title = "Lair of the Sea Serpent"
+artist = "Elihu Vedder"
+
+[[sub.american-symbolism.items]]
+museum = "met"
+object = "11981"
+title = "The Toilers of the Sea"
+artist = "Albert Pinkham Ryder"
+
+[[sub.american-symbolism.items]]
+museum = "met"
+object = "11979"
+title = "Moonlight Marine"
+artist = "Albert Pinkham Ryder"
