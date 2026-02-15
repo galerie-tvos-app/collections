@@ -10,10 +10,6 @@ description = "Light, water, and atmosphere — Monet's world dissolves into col
 default_artist = "Claude Monet"
 
 [[sub.monet.items]]
-museum = "met"
-object = "437853"
-
-[[sub.monet.items]]
 museum = "nga"
 object = "99758d9d-c10b-4d02-a198-7e49afb1f3a6"
 title = "Woman with a Parasol"
