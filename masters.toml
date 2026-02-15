@@ -10,10 +10,12 @@ description = "Intensity, color, and emotion — Van Gogh's works radiate from t
 default_artist = "Vincent van Gogh"
 
 [[sub.van-gogh.items]]
+# --- Wheat Field with Cypresses
 museum = "met"
 object = "436121"
 
 [[sub.van-gogh.items]]
+# --- the bedroom
 museum = "aic"
 object = "27992"
 
@@ -34,6 +36,7 @@ description = "Warmth, softness, and sensual light — Renoir at his most lumino
 default_artist = "Pierre-Auguste Renoir"
 
 [[sub.renoir.items]]
+# --- Pierre-Auguste Renoir Two Sisters ---
 museum = "aic"
 object = "11132"
 
@@ -56,10 +59,12 @@ classification = "Painting"
 subjects = ["Portrait", "Dance", "Social Scene"]
 
 [[sub.renoir.items]]
+# --- By the Water
 museum = "aic"
 object = "16584"
 
 [[sub.renoir.items]]
+# --- Woman with a Parasol in a Garden
 museum = "met"
 object = "436965"
 
@@ -73,6 +78,7 @@ default_artist = "Claude Monet"
 [[sub.monet.items]]
 museum = "met"
 object = "437853"
+title = "Bridge over a Pond of Water Lilies"
 
 [[sub.monet.items]]
 museum = "nga"
@@ -93,6 +99,7 @@ default_artist = "Johannes Vermeer"
 [[sub.vermeer.items]]
 museum = "met"
 object = "437430"
+title = "Young Woman with a Water Pitcher"
 
 # --- Rembrandt ---
 
@@ -104,16 +111,18 @@ default_artist = "Rembrandt"
 [[sub.rembrandt.items]]
 museum = "met"
 object = "436839"
+title = "Aristotle with a Bust of Homer" 
 
 # --- The Masters Who Knew Desire ---
 
 [sub.the-masters-who-knew-desire]
 name = "The Masters Who Knew Desire"
-description = "Tasteful sensuality, intimate light, and the human form — a Gen-X wink across centuries."
+description = "Tasteful sensuality, intimate light, and the human form."
 
 [[sub.the-masters-who-knew-desire.items]]
 museum = "met"
 object = "436839"
+title = "Madame X"
 artist = "John Singer Sargent"
 
 [[sub.the-masters-who-knew-desire.items]]
