@@ -50,13 +50,15 @@ classification = "Painting"
 subjects = ["Portrait"]
 
 [[sub.renoir.items]]
-museum = "mfab"
-object = "32592"
+museum = "wikimedia"
+object = "Dance-At-Bougival.jpg"
 title = "Dance at Bougival"
+artist = "Pierre-Auguste Renoir"
 date = "1883"
 medium = "Oil on canvas"
 classification = "Painting"
-subjects = ["Portrait", "Dance", "Social Scene"]
+subjects = ["Dance", "Genre"]
+style = "Impressionism"
 
 [[sub.renoir.items]]
 # --- By the Water
