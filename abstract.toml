@@ -1,0 +1,113 @@
+[collection]
+name = "Abstract & Modern"
+description = "A journey through the birth of abstraction — from Kandinsky's explosive color to Mondrian's serene geometry."
+
+[sub.kandinsky-blue-rider]
+name = "Kandinsky & Der Blaue Reiter"
+description = "The pioneer of pure abstraction — color as music, form as feeling."
+default_artist = "Vasily Kandinsky"
+
+[[sub.kandinsky-blue-rider.items]]
+museum = "aic"
+object = "8983"
+title = "Painting with Troika"
+
+[[sub.kandinsky-blue-rider.items]]
+museum = "aic"
+object = "8980"
+title = "Landscape with Two Poplars"
+
+[[sub.kandinsky-blue-rider.items]]
+museum = "aic"
+object = "8991"
+title = "Improvisation No. 30 (Cannons)"
+
+[[sub.kandinsky-blue-rider.items]]
+museum = "aic"
+object = "8987"
+title = "Painting with Green Center"
+
+[[sub.kandinsky-blue-rider.items]]
+museum = "aic"
+object = "129849"
+title = "Houses at Murnau"
+
+[sub.mondrian-de-stijl]
+name = "Mondrian & De Stijl"
+description = "Pure lines, primary colors, perfect balance — from early Dutch landscape to the serene geometry of Neo-Plasticism."
+default_artist = "Piet Mondrian"
+
+[[sub.mondrian-de-stijl.items]]
+museum = "aic"
+object = "109819"
+title = "Lozenge Composition with Yellow, Black, Blue, Red, and Gray"
+
+[[sub.mondrian-de-stijl.items]]
+museum = "aic"
+object = "65821"
+title = "Composition (No. 1) Gray-Red"
+
+[[sub.mondrian-de-stijl.items]]
+museum = "aic"
+object = "144467"
+title = "Farm near Duivendrecht"
+
+[[sub.mondrian-de-stijl.items]]
+museum = "aic"
+object = "142570"
+title = "Study for a Composition"
+
+[sub.orphism-cubism]
+name = "Orphism & Cubism"
+description = "Where Cubism meets pure prismatic color — the fragmentary energy of early modernism breaks the world into dazzling geometric rhythms."
+default_artist = "Robert Delaunay"
+
+[[sub.orphism-cubism.items]]
+museum = "aic"
+object = "9503"
+title = "Champs de Mars: The Red Tower"
+
+[[sub.orphism-cubism.items]]
+museum = "aic"
+object = "9505"
+title = "Saint-Séverin"
+
+[sub.met-modern]
+name = "The Met: Modern Visions"
+description = "Masterworks from the Metropolitan Museum of Art's Stieglitz Collection."
+
+[[sub.met-modern.items]]
+museum = "met"
+object = "488319"
+title = "Improvisation 27 (Garden of Love II)"
+artist = "Vasily Kandinsky"
+
+[[sub.met-modern.items]]
+museum = "met"
+object = "484870"
+title = "Temple Gardens"
+artist = "Paul Klee"
+
+[[sub.met-modern.items]]
+museum = "met"
+object = "490012"
+title = "Composition"
+artist = "Piet Mondrian"
+
+[[sub.met-modern.items]]
+museum = "met"
+object = "488410"
+title = "Suprematist Composition: Airplane Flying"
+artist = "Kazimir Malevich"
+
+[[sub.met-modern.items]]
+museum = "met"
+object = "490325"
+title = "Fire in the Evening"
+artist = "Paul Klee"
+
+[[sub.met-modern.items]]
+museum = "met"
+object = "489079"
+title = "Highway and Byways"
+artist = "Paul Klee"
