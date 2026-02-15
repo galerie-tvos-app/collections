@@ -11,6 +11,8 @@ description = "Soft light, shimmering color, and the poetry of perception."
 [[sub.impressionist-landscapes.items]]
 museum = "met"
 object = "437853"
+artist = "Claude Monet"
+title = "Bridge over a Pond of Water Lilies"
 
 [[sub.impressionist-landscapes.items]]
 museum = "nga"
@@ -31,6 +33,8 @@ description = "Crisp light, deep skies, and the drama of 17th-century Holland."
 [[sub.dutch-golden-age-landscapes.items]]
 museum = "met"
 object = "436535"
+title = "The Harvesters"
+artist = "Pieter Bruegel the Elder"
 
 # --- Japanese Ukiyo-e Landscapes ---
 
@@ -41,10 +45,14 @@ description = "Bold lines, iconic compositions, and the spirit of Edo Japan."
 [[sub.ukiyoe-landscapes.items]]
 museum = "met"
 object = "454"
+title = "The Great Wave off Kanagawa"
+artist = "Katsushika Hokusai"
 
 [[sub.ukiyoe-landscapes.items]]
 museum = "met"
 object = "123"
+title = "Sudden Shower over Shin-Ōhashi Bridge and Atake"
+artist = "Utagawa Hiroshige"
 
 # --- Hudson River School ---
 
@@ -55,6 +63,8 @@ description = "Epic American wilderness — luminous, vast, and cinematic."
 [[sub.hudson-river-school.items]]
 museum = "met"
 object = "9.95"
+title = "The Heart of the Andes"
+artist = "Frederic Edwin Church"
 
 # --- Romantic Era Landscapes ---
 
@@ -81,14 +91,16 @@ description = "Water as emotion — calm, wild, and everything in between."
 [[sub.seascapes.items]]
 museum = "met"
 object = "437430"
+title = "The Gulf Stream"
+artist = "Winslow Homer"
 
-# --- Storms That Match My 90s Mood ---
+# --- Stormy Mood ---
 
-[sub.storms-that-match-my-90s-mood]
-name = "Storms That Match My 90s Mood"
-description = "Dramatic skies, crashing waves, and emotional weather — a tasteful Gen-X wink."
+[sub.stormy-mood]
+name = "Stormy Mood"
+description = "Dramatic skies, crashing waves, and emotional weather."
 
-[[sub.storms-that-match-my-90s-mood.items]]
+[[sub.stormy-mood.items]]
 museum = "nga"
 object = "c1e33e8d-ffe4-4d20-a267-87ffcf94f7ce"
 title = "Keelmen Heaving in Coals by Moonlight"
