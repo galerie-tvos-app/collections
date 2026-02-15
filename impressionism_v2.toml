@@ -1,0 +1,549 @@
+[collection]
+name = "Impressionism"
+description = "A luminous journey through Impressionism and Post-Impressionism, curated for emotional resonance and visual beauty."
+
+# ─────────────────────────────────────────────
+# Claude Monet
+# ─────────────────────────────────────────────
+
+[sub.monet]
+name = "Claude Monet"
+description = "Light, water, and atmosphere — Monet's world dissolves into color."
+default_artist = "Claude Monet"
+
+[[sub.monet.items]]
+museum = "met"
+object = "437853"
+# Bridge over a Pond of Water Lilies, 1899
+
+[[sub.monet.items]]
+museum = "aic"
+object = "16584"
+# Houses of Parliament, London, 1900–1901
+
+[[sub.monet.items]]
+museum = "aic"
+object = "97933"
+# Water Lily Pond, 1917–1919
+
+[[sub.monet.items]]
+museum = "wikimedia"
+object = "Claude_Monet,_Impression,_soleil_levant.jpg"
+title = "Impression, Sunrise"
+date = "1872"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Seascape", "Harbor", "Sunrise"]
+
+[[sub.monet.items]]
+museum = "aic"
+object = "87088"
+# Water Lily Pond, 1900
+
+[[sub.monet.items]]
+museum = "nga"
+object = "99758d9d-c10b-4d02-a198-7e49afb1f3a6"
+title = "Woman with a Parasol — Madame Monet and Her Son"
+date = "1875"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Portrait", "Landscape"]
+
+[[sub.monet.items]]
+museum = "met"
+object = "437127"
+# Bridge over a Pond of Water Lilies, 1899
+
+[[sub.monet.items]]
+museum = "met"
+object = "437137"
+# Water Lilies, 1919
+
+# DUPLICATE: met-437133 also appears under sub.degas — the JSON had this object ID
+# mapped to "Garden at Sainte-Adresse" (Monet) here and "The Dance Class" (Degas) there.
+# These are different artworks; one of the sourceObjectIds is wrong in the original JSON.
+# Verify correct Met object IDs before shipping.
+[[sub.monet.items]]
+museum = "met"
+object = "437133"
+# Garden at Sainte-Adresse, 1867
+
+[[sub.monet.items]]
+museum = "met"
+object = "437135"
+# La Grenouillère, 1869
+
+[[sub.monet.items]]
+museum = "met"
+object = "437122"
+# Haystacks (Effect of Snow and Sun), 1891
+
+[[sub.monet.items]]
+museum = "met"
+object = "437128"
+# The Houses of Parliament (Effect of Fog), 1903–1904
+
+# TODO: nga-46523 uses a numeric objectid, not a IIIF UUID — image resolution won't work.
+# Look up the IIIF UUID in published_images.csv via depictstmsobjectid = 46523.
+[[sub.monet.items]]
+museum = "nga"
+object = "46523"
+title = "The Houses of Parliament, Sunset"
+date = "1903"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Cityscape", "London", "Sunset"]
+
+# NOTE: The original JSON had a duplicate entry for nga-61379 (Woman with a Parasol)
+# in this section. The second occurrence has been removed.
+
+# ─────────────────────────────────────────────
+# Pierre-Auguste Renoir
+# ─────────────────────────────────────────────
+
+[sub.renoir]
+name = "Pierre-Auguste Renoir"
+description = "Warmth, softness, and sensual light — Renoir's world glows."
+default_artist = "Pierre-Auguste Renoir"
+
+[[sub.renoir.items]]
+museum = "nga"
+object = "bcc517e0-84c3-4e21-8c08-c9a0181ced29"
+title = "Girl with a Watering Can"
+date = "1876"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Portrait"]
+
+[[sub.renoir.items]]
+museum = "nga"
+object = "56303f18-6101-4d5d-9b03-20b58d657afa"
+title = "Pont Neuf"
+date = "1872"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Landscape"]
+
+[[sub.renoir.items]]
+museum = "wikimedia"
+object = "Pierre-Auguste_Renoir,_Le_Moulin_de_la_Galette.jpg"
+title = "Bal du moulin de la Galette"
+date = "1876"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Genre", "Leisure", "Dance"]
+
+[[sub.renoir.items]]
+museum = "wikimedia"
+object = "Pierre-Auguste_Renoir_-_Luncheon_of_the_Boating_Party_-_Google_Art_Project.jpg"
+title = "Luncheon of the Boating Party"
+date = "1880–81"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Genre", "Leisure", "Dining"]
+
+[[sub.renoir.items]]
+museum = "wikimedia"
+object = "Pierre-Auguste_Renoir_-_La_Loge_-_Google_Art_Project.jpg"
+title = "La Loge (The Theatre Box)"
+date = "1874"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Genre", "Theatre", "Portrait"]
+
+[[sub.renoir.items]]
+museum = "wikimedia"
+object = "Pierre-Auguste_Renoir_-_La_Balançoire.jpg"
+title = "The Swing (La Balançoire)"
+date = "1876"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Genre", "Leisure", "Garden"]
+
+[[sub.renoir.items]]
+museum = "wikimedia"
+object = "Auguste_Renoir_-_La_Grenouillère_-_Google_Art_Project.jpg"
+title = "La Grenouillère"
+date = "1869"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Landscape", "Water", "Leisure"]
+
+[[sub.renoir.items]]
+museum = "wikimedia"
+object = "Pierre-Auguste_Renoir_-_The_Skiff_(La_Yole).jpg"
+title = "The Skiff (La Yole)"
+date = "ca. 1875"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Landscape", "Water", "Boating"]
+
+[[sub.renoir.items]]
+museum = "wikimedia"
+object = "Pierre-Auguste_Renoir_-_Femme_assise_au_bord_de_la_mer.jpg"
+title = "By the Seashore"
+date = "1883"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Portrait", "Seascape"]
+
+[[sub.renoir.items]]
+museum = "wikimedia"
+object = "Pierre-Auguste_Renoir_-_Claude_Monet_-_Google_Art_Project.jpg"
+title = "Portrait of Claude Monet"
+date = "1875"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Portrait"]
+
+[[sub.renoir.items]]
+museum = "wikimedia"
+object = "Pierre-Auguste_Renoir_-_Dance_at_Bougival_-_Google_Art_Project.jpg"
+title = "Dance at Bougival"
+date = "1883"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Genre", "Dance", "Romance"]
+
+[[sub.renoir.items]]
+museum = "wikimedia"
+object = "Pierre-Auguste_Renoir_-_Danse_à_la_ville.jpg"
+title = "Dance in the City (Danse à la ville)"
+date = "1883"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Genre", "Dance"]
+
+[[sub.renoir.items]]
+museum = "wikimedia"
+object = "Pierre-Auguste_Renoir_-_Danse_à_la_campagne.jpg"
+title = "Dance in the Country (Danse à la campagne)"
+date = "1883"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Genre", "Dance"]
+
+[[sub.renoir.items]]
+museum = "met"
+object = "437431"
+# Madame Georges Charpentier and Her Children, 1878
+
+[[sub.renoir.items]]
+museum = "aic"
+object = "14655"
+# Two Sisters (On the Terrace), 1881
+
+[[sub.renoir.items]]
+museum = "wikimedia"
+object = "Pierre-Auguste_Renoir_-_Portrait_of_the_Actress_Jeanne_Samary.jpg"
+title = "Portrait of Jeanne Samary"
+date = "1877"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Portrait"]
+
+[[sub.renoir.items]]
+museum = "wikimedia"
+object = "Pierre-Auguste_Renoir_-_La_Parisienne.jpg"
+title = "La Parisienne (The Blue Lady)"
+date = "1874"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Portrait", "Fashion"]
+
+[[sub.renoir.items]]
+museum = "wikimedia"
+object = "Pierre-Auguste_Renoir_-_Lise_-_Femme_à_l'ombrelle.jpg"
+title = "Lise with a Parasol"
+date = "1867"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Portrait", "Figure"]
+
+[[sub.renoir.items]]
+museum = "wikimedia"
+object = "Auguste_Renoir_-_Young_Girls_at_the_Piano_-_Google_Art_Project.jpg"
+title = "Young Girls at the Piano"
+date = "1892"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Genre", "Domestic", "Music"]
+
+[[sub.renoir.items]]
+museum = "wikimedia"
+object = "Auguste_Renoir_-_A_Girl_with_a_Watering_Can_-_Google_Art_Project.jpg"
+title = "A Girl with a Watering Can"
+date = "1876"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Portrait", "Childhood", "Garden"]
+
+[[sub.renoir.items]]
+museum = "wikimedia"
+object = "Pierre-Auguste_Renoir_-_The_Large_Bathers.jpg"
+title = "The Large Bathers (Les Grandes Baigneuses)"
+date = "1884–87"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Nude", "Bathers", "Figure"]
+
+[[sub.renoir.items]]
+museum = "wikimedia"
+object = "Pierre-Auguste_Renoir_-_Les_Baigneuses.jpg"
+title = "The Bathers (Les Baigneuses)"
+date = "1918–19"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Nude", "Bathers", "Figure"]
+
+[[sub.renoir.items]]
+museum = "wikimedia"
+object = "Pierre-Auguste_Renoir_-_Torse,_effet_de_soleil.jpg"
+title = "Nude in the Sunlight (Study: Torso, Sunlight Effect)"
+date = "1876"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Nude", "Figure"]
+
+[[sub.renoir.items]]
+museum = "wikimedia"
+object = "Pierre-Auguste_Renoir_-_Les_Parapluies.jpg"
+title = "The Umbrellas (Les Parapluies)"
+date = "ca. 1881–86"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Genre", "Urban"]
+
+# ─────────────────────────────────────────────
+# Edgar Degas
+# ─────────────────────────────────────────────
+
+[sub.degas]
+name = "Edgar Degas"
+description = "Movement, rehearsal, and the quiet drama of backstage life."
+default_artist = "Edgar Degas"
+
+# DUPLICATE: met-437133 also appears under sub.monet as "Garden at Sainte-Adresse".
+# The Met API will resolve this to whichever artwork 437133 actually is — verify
+# and fix the incorrect entry. (Likely Degas's "The Dance Class" is a different object ID.)
+[[sub.degas.items]]
+museum = "met"
+object = "437133"
+# The Dance Class, 1874
+
+[[sub.degas.items]]
+museum = "met"
+object = "436155"
+# The Rehearsal of the Ballet Onstage, ca. 1874
+
+# ─────────────────────────────────────────────
+# Camille Pissarro
+# ─────────────────────────────────────────────
+
+[sub.pissarro]
+name = "Camille Pissarro"
+description = "Village streets, soft light, and the poetry of everyday life."
+default_artist = "Camille Pissarro"
+
+[[sub.pissarro.items]]
+museum = "nga"
+object = "e291058c-0769-493c-a5f3-8e0e64e9ea46"
+title = "The Artist's Garden at Eragny"
+date = "1898"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Landscape", "Garden"]
+
+[[sub.pissarro.items]]
+museum = "nga"
+object = "1921981a-82c4-46ee-8cec-185aa18e2538"
+title = "Boulevard des Italiens, Morning, Sunlight"
+date = "1897"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Cityscape", "Paris"]
+
+[[sub.pissarro.items]]
+museum = "nga"
+object = "b4419dc5-cea3-4a69-9c48-60a896901ca1"
+title = "Charing Cross Bridge, London"
+date = "1890"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Cityscape", "London"]
+
+[[sub.pissarro.items]]
+museum = "nga"
+object = "f7896300-10dd-4eec-ae25-bf689ce99015"
+title = "The Louvre, Afternoon, Rainy Weather"
+date = "1900"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Cityscape", "Paris"]
+
+[[sub.pissarro.items]]
+museum = "nga"
+object = "2f61c3b8-00ff-41d4-941a-9d639c291472"
+title = "Place du Carrousel, Paris"
+date = "1900"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Cityscape", "Paris"]
+
+[[sub.pissarro.items]]
+museum = "nga"
+object = "94413b0f-688f-4cf4-9a08-f52e836faab4"
+title = "The Fence"
+date = "1872"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Landscape"]
+
+[[sub.pissarro.items]]
+museum = "nga"
+object = "fdfa01c4-7334-4a34-a1fa-64429773e96e"
+title = "Two Women Chatting by the Sea, St. Thomas"
+date = "1897"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Landscape", "St. Thomas"]
+
+# ─────────────────────────────────────────────
+# Berthe Morisot
+# ─────────────────────────────────────────────
+
+[sub.morisot]
+name = "Berthe Morisot"
+description = "Lightness, femininity, and the Impressionist interior."
+default_artist = "Berthe Morisot"
+
+[[sub.morisot.items]]
+museum = "nga"
+object = "ea8beda4-8914-4648-aa98-6358279fc362"
+title = "In the Dining Room"
+date = "1886"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Interior", "Domestic"]
+
+# ─────────────────────────────────────────────
+# Mary Cassatt
+# ─────────────────────────────────────────────
+
+[sub.cassatt]
+name = "Mary Cassatt"
+description = "Intimacy, motherhood, and the quiet power of domestic life."
+default_artist = "Mary Cassatt"
+
+[[sub.cassatt.items]]
+museum = "nga"
+object = "ac656593-1dee-4545-b297-4620b45eadbc"
+title = "The Bath"
+date = "1891"
+medium = "Drypoint and aquatint"
+classification = "Print"
+subjects = ["Intimacy"]
+
+# ─────────────────────────────────────────────
+# Paris Was a Mood
+# ─────────────────────────────────────────────
+
+[sub.paris-was-a-mood]
+name = "Paris Was a Mood"
+description = "Cabarets, cafés, dancers, and the nightlife that shaped modern art."
+
+[[sub.paris-was-a-mood.items]]
+museum = "aic"
+object = "28560"
+# Henri de Toulouse-Lautrec — At the Moulin Rouge, 1892–95
+
+[[sub.paris-was-a-mood.items]]
+museum = "aic"
+object = "61057"
+# Gustave Caillebotte — Paris Street; Rainy Day, 1877
+
+# ─────────────────────────────────────────────
+# German Impressionism
+# ─────────────────────────────────────────────
+
+[sub.german-impressionism]
+name = "German Impressionism"
+description = "The great triumvirate of German Impressionism — Liebermann, Corinth, and Slevogt — brought plein-air light and bold brushwork to the Berlin Secession. Liebermann's sun-drenched Dutch beach scenes and luminous Wannsee gardens anchor a tradition that bridged French influence with a distinctly Northern European sensibility."
+
+[[sub.german-impressionism.items]]
+museum = "met"
+object = "436886"
+# Max Liebermann — The Ropewalk in Edam, 1904
+
+[[sub.german-impressionism.items]]
+museum = "wikimedia"
+object = "Liebermann, Max - Die Gartenbank - Alte Nationalgalerie.jpg"
+title = "Die Gartenbank"
+artist = "Max Liebermann"
+date = "1916"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Garden", "Figure", "Leisure"]
+
+[[sub.german-impressionism.items]]
+museum = "wikimedia"
+object = "Liebermann, Max - Landschaft bei Noordwijk - Alte Nationalgalerie.jpg"
+title = "Landschaft bei Noordwijk"
+artist = "Max Liebermann"
+date = "ca. 1905–1913"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Landscape", "Seascape", "Dunes"]
+
+[[sub.german-impressionism.items]]
+museum = "wikimedia"
+object = "Corinth - Walchensee mit Bergkette in den Wolken PA291344.jpg"
+title = "Walchensee mit Bergkette in den Wolken"
+artist = "Lovis Corinth"
+date = "ca. 1920–1924"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Landscape", "Mountain", "Lake"]
+
+# ─────────────────────────────────────────────
+# American Impressionism
+# ─────────────────────────────────────────────
+
+[sub.american-impressionism]
+name = "American Impressionism"
+description = "American painters who absorbed French Impressionism and transplanted it to New England coastlines and Manhattan avenues. Childe Hassam, the movement's most prolific champion, captured the energy of turn-of-the-century New York and the luminous clarity of Gloucester's rocky shores."
+
+[[sub.american-impressionism.items]]
+museum = "aic"
+object = "5349"
+# Childe Hassam — New England Headlands, 1899
+
+[[sub.american-impressionism.items]]
+museum = "wikimedia"
+object = "Sargent-The-Siesta.jpg"
+title = "The Siesta"
+artist = "John Singer Sargent"
+date = "c. 1905"
+medium = "Watercolor on paper"
+classification = "Painting"
+subjects = ["Landscape", "Leisure", "Figure"]
+
+[[sub.american-impressionism.items]]
+museum = "met"
+object = "12045"
+# John Singer Sargent — Boats, 1913
+
+[[sub.american-impressionism.items]]
+museum = "met"
+object = "11038"
+# Childe Hassam — Spring Morning in the Heart of the City, 1890
+
+[[sub.american-impressionism.items]]
+museum = "met"
+object = "16881"
+# Childe Hassam — Winter in Union Square, 1889–1890
+
+[[sub.american-impressionism.items]]
+museum = "met"
+object = "14871"
+# Childe Hassam — The Water Garden, 1909
