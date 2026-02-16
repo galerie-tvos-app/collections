@@ -1,0 +1,75 @@
+[collection]
+name = "Pissaro"
+description = "Tranquil rural landscapes and village scenes with a soft, luminous touch that emphasized everyday country life."
+
+# ─────────────────────────────────────────────
+# Camille Pissarro
+# ─────────────────────────────────────────────
+
+[sub.pissarro]
+name = "Camille Pissarro"
+description = "Village streets, soft light, and the poetry of everyday life."
+default_artist = "Camille Pissarro"
+
+[[sub.pissarro.items]]
+museum = "nga"
+object = "e291058c-0769-493c-a5f3-8e0e64e9ea46"
+title = "The Artist's Garden at Eragny"
+date = "1898"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Landscape", "Garden"]
+
+[[sub.pissarro.items]]
+museum = "nga"
+object = "1921981a-82c4-46ee-8cec-185aa18e2538"
+title = "Boulevard des Italiens, Morning, Sunlight"
+date = "1897"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Cityscape", "Paris"]
+
+[[sub.pissarro.items]]
+museum = "nga"
+object = "b4419dc5-cea3-4a69-9c48-60a896901ca1"
+title = "Charing Cross Bridge, London"
+date = "1890"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Cityscape", "London"]
+
+[[sub.pissarro.items]]
+museum = "nga"
+object = "f7896300-10dd-4eec-ae25-bf689ce99015"
+title = "The Louvre, Afternoon, Rainy Weather"
+date = "1900"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Cityscape", "Paris"]
+
+[[sub.pissarro.items]]
+museum = "nga"
+object = "2f61c3b8-00ff-41d4-941a-9d639c291472"
+title = "Place du Carrousel, Paris"
+date = "1900"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Cityscape", "Paris"]
+
+[[sub.pissarro.items]]
+museum = "nga"
+object = "94413b0f-688f-4cf4-9a08-f52e836faab4"
+title = "The Fence"
+date = "1872"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Landscape"]
+
+[[sub.pissarro.items]]
+museum = "nga"
+object = "fdfa01c4-7334-4a34-a1fa-64429773e96e"
+title = "Two Women Chatting by the Sea, St. Thomas"
+date = "1897"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Landscape", "St. Thomas"]
