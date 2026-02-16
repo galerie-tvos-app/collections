@@ -8,41 +8,16 @@ description = "A luminous journey through Impressionism and Post-Impressionism, 
 name = "Edgar Degas"
 description = "Movement, rehearsal, and the quiet drama of backstage life."
 default_artist = "Edgar Degas"
-
-[[sub.degas.items]]
-museum = "met"
-object = "437133"
+style = "Impressionism"
 
 [[sub.degas.items]]
 museum = "met"
 object = "436155"
+title = "The Rehearsal of the Ballet Onstage"
 
-# --- Camille Pissarro ---
-
-[sub.pissarro]
-name = "Camille Pissarro"
-description = "Village streets, soft light, and the poetry of everyday life."
-default_artist = "Camille Pissarro"
-
-[[sub.pissarro.items]]
-museum = "nga"
-object = "e291058c-0769-493c-a5f3-8e0e64e9ea46"
-title = "The Artist's Garden at Eragny"
-date = "1898"
-medium = "Oil on canvas"
-classification = "Painting"
-subjects = ["Landscape", "Garden"]
-
-[[sub.pissarro.items]]
-museum = "nga"
-object = "1921981a-82c4-46ee-8cec-185aa18e2538"
-title = "Boulevard des Italiens, Morning, Sunlight"
-date = "1897"
-medium = "Oil on canvas"
-classification = "Painting"
-subjects = ["Cityscape", "Paris"]
-
-# --- Berthe Morisot ---
+# ─────────────────────────────────────────────
+# Berthe Morisot
+# ─────────────────────────────────────────────
 
 [sub.morisot]
 name = "Berthe Morisot"
@@ -58,7 +33,9 @@ medium = "Oil on canvas"
 classification = "Painting"
 subjects = ["Interior", "Domestic"]
 
-# --- Mary Cassatt ---
+# ─────────────────────────────────────────────
+# Mary Cassatt
+# ─────────────────────────────────────────────
 
 [sub.cassatt]
 name = "Mary Cassatt"
@@ -74,16 +51,106 @@ medium = "Drypoint and aquatint"
 classification = "Print"
 subjects = ["Intimacy"]
 
-# --- Paris Was a Mood ---
+# ─────────────────────────────────────────────
+# Paris Was a Mood
+# ─────────────────────────────────────────────
 
 [sub.paris-was-a-mood]
 name = "Paris Was a Mood"
-description = "Cabarets, cafes, dancers, and the nightlife that shaped modern art."
+description = "Cabarets, cafés, dancers, and the nightlife that shaped modern art."
 
 [[sub.paris-was-a-mood.items]]
 museum = "aic"
 object = "28560"
+# Henri de Toulouse-Lautrec — At the Moulin Rouge, 1892–95
 
 [[sub.paris-was-a-mood.items]]
 museum = "aic"
 object = "61057"
+# Gustave Caillebotte — Paris Street; Rainy Day, 1877
+
+# ─────────────────────────────────────────────
+# German Impressionism
+# ─────────────────────────────────────────────
+
+[sub.german-impressionism]
+name = "German Impressionism"
+description = "The great triumvirate of German Impressionism — Liebermann, Corinth, and Slevogt — brought plein-air light and bold brushwork to the Berlin Secession. Liebermann's sun-drenched Dutch beach scenes and luminous Wannsee gardens anchor a tradition that bridged French influence with a distinctly Northern European sensibility."
+
+[[sub.german-impressionism.items]]
+museum = "met"
+object = "436886"
+# Max Liebermann — The Ropewalk in Edam, 1904
+
+[[sub.german-impressionism.items]]
+museum = "wikimedia"
+object = "Liebermann, Max - Die Gartenbank - Alte Nationalgalerie.jpg"
+title = "Die Gartenbank"
+artist = "Max Liebermann"
+date = "1916"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Garden", "Figure", "Leisure"]
+
+[[sub.german-impressionism.items]]
+museum = "wikimedia"
+object = "Liebermann, Max - Landschaft bei Noordwijk - Alte Nationalgalerie.jpg"
+title = "Landschaft bei Noordwijk"
+artist = "Max Liebermann"
+date = "ca. 1905–1913"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Landscape", "Seascape", "Dunes"]
+
+[[sub.german-impressionism.items]]
+museum = "wikimedia"
+object = "Corinth - Walchensee mit Bergkette in den Wolken PA291344.jpg"
+title = "Walchensee mit Bergkette in den Wolken"
+artist = "Lovis Corinth"
+date = "ca. 1920–1924"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Landscape", "Mountain", "Lake"]
+
+# ─────────────────────────────────────────────
+# American Impressionism
+# ─────────────────────────────────────────────
+
+[sub.american-impressionism]
+name = "American Impressionism"
+description = "American painters who absorbed French Impressionism and transplanted it to New England coastlines and Manhattan avenues. Childe Hassam, the movement's most prolific champion, captured the energy of turn-of-the-century New York and the luminous clarity of Gloucester's rocky shores."
+
+[[sub.american-impressionism.items]]
+museum = "aic"
+object = "5349"
+# Childe Hassam — New England Headlands, 1899
+
+[[sub.american-impressionism.items]]
+museum = "wikimedia"
+object = "Sargent-The-Siesta.jpg"
+title = "The Siesta"
+artist = "John Singer Sargent"
+date = "c. 1905"
+medium = "Watercolor on paper"
+classification = "Painting"
+subjects = ["Landscape", "Leisure", "Figure"]
+
+[[sub.american-impressionism.items]]
+museum = "met"
+object = "12045"
+# John Singer Sargent — Boats, 1913
+
+[[sub.american-impressionism.items]]
+museum = "met"
+object = "11038"
+# Childe Hassam — Spring Morning in the Heart of the City, 1890
+
+[[sub.american-impressionism.items]]
+museum = "met"
+object = "16881"
+# Childe Hassam — Winter in Union Square, 1889–1890
+
+[[sub.american-impressionism.items]]
+museum = "met"
+object = "14871"
+# Childe Hassam — The Water Garden, 1909
