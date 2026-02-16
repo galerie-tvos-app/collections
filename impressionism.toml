@@ -2,42 +2,6 @@
 name = "Impressionism"
 description = "A luminous journey through Impressionism and Post-Impressionism, curated for emotional resonance and visual beauty."
 
-# --- Claude Monet ---
-
-[sub.monet]
-name = "Claude Monet"
-description = "Light, water, and atmosphere — Monet's world dissolves into color."
-default_artist = "Claude Monet"
-
-[[sub.monet.items]]
-museum = "nga"
-object = "99758d9d-c10b-4d02-a198-7e49afb1f3a6"
-title = "Woman with a Parasol"
-date = "1875"
-medium = "Oil on canvas"
-classification = "Painting"
-subjects = ["Portrait", "Landscape"]
-
-# --- Pierre-Auguste Renoir ---
-
-[sub.renoir]
-name = "Pierre-Auguste Renoir"
-description = "Warmth, softness, and sensual light — Renoir's world glows."
-default_artist = "Pierre-Auguste Renoir"
-
-[[sub.renoir.items]]
-museum = "aic"
-object = "11132"
-
-[[sub.renoir.items]]
-museum = "nga"
-object = "bcc517e0-84c3-4e21-8c08-c9a0181ced29"
-title = "Girl with a Watering Can"
-date = "1876"
-medium = "Oil on canvas"
-classification = "Painting"
-subjects = ["Portrait"]
-
 # --- Edgar Degas ---
 
 [sub.degas]
