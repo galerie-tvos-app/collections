@@ -1,0 +1,220 @@
+[collection]
+name = "Renoir"
+description = "These are Renoirs."
+
+# ─────────────────────────────────────────────
+# Pierre-Auguste Renoir
+# ─────────────────────────────────────────────
+
+[sub.renoir]
+name = "Pierre-Auguste Renoir"
+description = "Warmth, softness, and sensual light — Renoir's world glows."
+default_artist = "Pierre-Auguste Renoir"
+
+[[sub.renoir.items]]
+museum = "nga"
+object = "bcc517e0-84c3-4e21-8c08-c9a0181ced29"
+title = "Girl with a Watering Can"
+date = "1876"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Portrait"]
+
+[[sub.renoir.items]]
+museum = "nga"
+object = "56303f18-6101-4d5d-9b03-20b58d657afa"
+title = "Pont Neuf"
+date = "1872"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Landscape"]
+
+[[sub.renoir.items]]
+museum = "wikimedia"
+object = "Pierre-Auguste_Renoir,_Le_Moulin_de_la_Galette.jpg"
+title = "Bal du moulin de la Galette"
+date = "1876"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Genre", "Leisure", "Dance"]
+
+[[sub.renoir.items]]
+museum = "wikimedia"
+object = "Pierre-Auguste_Renoir_-_Luncheon_of_the_Boating_Party_-_Google_Art_Project.jpg"
+title = "Luncheon of the Boating Party"
+date = "1880–81"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Genre", "Leisure", "Dining"]
+
+[[sub.renoir.items]]
+museum = "wikimedia"
+object = "Pierre-Auguste_Renoir_-_La_Loge_-_Google_Art_Project.jpg"
+title = "La Loge (The Theatre Box)"
+date = "1874"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Genre", "Theatre", "Portrait"]
+
+[[sub.renoir.items]]
+museum = "wikimedia"
+object = "Pierre-Auguste_Renoir_-_La_Balançoire.jpg"
+title = "The Swing (La Balançoire)"
+date = "1876"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Genre", "Leisure", "Garden"]
+
+[[sub.renoir.items]]
+museum = "wikimedia"
+object = "Auguste_Renoir_-_La_Grenouillère_-_Google_Art_Project.jpg"
+title = "La Grenouillère"
+date = "1869"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Landscape", "Water", "Leisure"]
+
+[[sub.renoir.items]]
+museum = "wikimedia"
+object = "Pierre-Auguste_Renoir_-_The_Skiff_(La_Yole).jpg"
+title = "The Skiff (La Yole)"
+date = "ca. 1875"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Landscape", "Water", "Boating"]
+
+[[sub.renoir.items]]
+museum = "wikimedia"
+object = "Pierre-Auguste_Renoir_-_Femme_assise_au_bord_de_la_mer.jpg"
+title = "By the Seashore"
+date = "1883"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Portrait", "Seascape"]
+
+[[sub.renoir.items]]
+museum = "wikimedia"
+object = "Pierre-Auguste_Renoir_-_Claude_Monet_-_Google_Art_Project.jpg"
+title = "Portrait of Claude Monet"
+date = "1875"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Portrait"]
+
+[[sub.renoir.items]]
+museum = "wikimedia"
+object = "Pierre-Auguste_Renoir_-_Dance_at_Bougival_-_Google_Art_Project.jpg"
+title = "Dance at Bougival"
+date = "1883"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Genre", "Dance", "Romance"]
+
+[[sub.renoir.items]]
+museum = "wikimedia"
+object = "Pierre-Auguste_Renoir_-_Danse_à_la_ville.jpg"
+title = "Dance in the City (Danse à la ville)"
+date = "1883"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Genre", "Dance"]
+
+[[sub.renoir.items]]
+museum = "wikimedia"
+object = "Pierre-Auguste_Renoir_-_Danse_à_la_campagne.jpg"
+title = "Dance in the Country (Danse à la campagne)"
+date = "1883"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Genre", "Dance"]
+
+[[sub.renoir.items]]
+museum = "met"
+object = "437431"
+# Madame Georges Charpentier and Her Children, 1878
+
+[[sub.renoir.items]]
+museum = "aic"
+object = "14655"
+# Two Sisters (On the Terrace), 1881
+
+[[sub.renoir.items]]
+museum = "wikimedia"
+object = "Pierre-Auguste_Renoir_-_Portrait_of_the_Actress_Jeanne_Samary.jpg"
+title = "Portrait of Jeanne Samary"
+date = "1877"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Portrait"]
+
+[[sub.renoir.items]]
+museum = "wikimedia"
+object = "Pierre-Auguste_Renoir_-_La_Parisienne.jpg"
+title = "La Parisienne (The Blue Lady)"
+date = "1874"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Portrait", "Fashion"]
+
+[[sub.renoir.items]]
+museum = "wikimedia"
+object = "Pierre-Auguste_Renoir_-_Lise_-_Femme_à_l'ombrelle.jpg"
+title = "Lise with a Parasol"
+date = "1867"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Portrait", "Figure"]
+
+[[sub.renoir.items]]
+museum = "wikimedia"
+object = "Auguste_Renoir_-_Young_Girls_at_the_Piano_-_Google_Art_Project.jpg"
+title = "Young Girls at the Piano"
+date = "1892"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Genre", "Domestic", "Music"]
+
+[[sub.renoir.items]]
+museum = "wikimedia"
+object = "Auguste_Renoir_-_A_Girl_with_a_Watering_Can_-_Google_Art_Project.jpg"
+title = "A Girl with a Watering Can"
+date = "1876"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Portrait", "Childhood", "Garden"]
+
+[[sub.renoir.items]]
+museum = "wikimedia"
+object = "Pierre-Auguste_Renoir_-_The_Large_Bathers.jpg"
+title = "The Large Bathers (Les Grandes Baigneuses)"
+date = "1884–87"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Nude", "Bathers", "Figure"]
+
+[[sub.renoir.items]]
+museum = "wikimedia"
+object = "Pierre-Auguste_Renoir_-_Les_Baigneuses.jpg"
+title = "The Bathers (Les Baigneuses)"
+date = "1918–19"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Nude", "Bathers", "Figure"]
+
+[[sub.renoir.items]]
+museum = "wikimedia"
+object = "Pierre-Auguste_Renoir_-_Torse,_effet_de_soleil.jpg"
+title = "Nude in the Sunlight (Study: Torso, Sunlight Effect)"
+date = "1876"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Nude", "Figure"]
+
+[[sub.renoir.items]]
+museum = "wikimedia"
+object = "Pierre-Auguste_Renoir_-_Les_Parapluies.jpg"
+title = "The Umbrellas (Les Parapluies)"
+date = "ca. 1881–86"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Genre", "Urban"]
