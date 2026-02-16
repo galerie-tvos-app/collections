@@ -52,6 +52,16 @@ museum = "met"
 object = "436839"
 title = "Aristotle with a Bust of Homer" 
 
+[[sub.rembrandt.items]]
+museum = "wikimedia"
+object = "Rembrandt_van_Rijn_-_Danaë_1636-1643.jpg"
+title = "Danae"
+date = "1636–43"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Mythology", "Nude"]
+style = "Baroque"
+
 # --- The Masters Who Knew Desire ---
 
 [sub.the-masters-who-knew-desire]
