@@ -14,11 +14,6 @@ museum = "met"
 object = "436121"
 
 [[sub.masters-at-the-met.items]]
-# --- monet bridge over pond of water lillies
-museum = "met"
-object = "437853"
-
-[[sub.masters-at-the-met.items]]
 # --- degas The Dance Class
 museum = "met"
 object = "437133"
