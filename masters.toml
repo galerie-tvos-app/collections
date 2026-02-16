@@ -28,69 +28,6 @@ medium = "Oil on canvas"
 classification = "Painting"
 subjects = ["Portrait"]
 
-# --- Pierre-Auguste Renoir ---
-
-[sub.renoir]
-name = "Pierre-Auguste Renoir"
-description = "Warmth, softness, and sensual light — Renoir at his most luminous."
-default_artist = "Pierre-Auguste Renoir"
-
-[[sub.renoir.items]]
-# --- Pierre-Auguste Renoir Two Sisters ---
-museum = "aic"
-object = "11132"
-
-[[sub.renoir.items]]
-museum = "nga"
-object = "bcc517e0-84c3-4e21-8c08-c9a0181ced29"
-title = "Girl with a Watering Can"
-date = "1876"
-medium = "Oil on canvas"
-classification = "Painting"
-subjects = ["Portrait"]
-
-[[sub.renoir.items]]
-museum = "wikimedia"
-object = "Dance-At-Bougival.jpg"
-title = "Dance at Bougival"
-artist = "Pierre-Auguste Renoir"
-date = "1883"
-medium = "Oil on canvas"
-classification = "Painting"
-subjects = ["Dance", "Genre"]
-style = "Impressionism"
-
-[[sub.renoir.items]]
-# --- By the Water
-museum = "aic"
-object = "16584"
-
-[[sub.renoir.items]]
-# --- Woman with a Parasol in a Garden
-museum = "met"
-object = "436965"
-
-# --- Claude Monet ---
-
-[sub.monet]
-name = "Claude Monet"
-description = "Light, water, and atmosphere — the poetry of perception."
-default_artist = "Claude Monet"
-
-[[sub.monet.items]]
-museum = "met"
-object = "437853"
-title = "Bridge over a Pond of Water Lilies"
-
-[[sub.monet.items]]
-museum = "nga"
-object = "99758d9d-c10b-4d02-a198-7e49afb1f3a6"
-title = "Woman with a Parasol"
-date = "1875"
-medium = "Oil on canvas"
-classification = "Painting"
-subjects = ["Portrait", "Landscape"]
-
 # --- Johannes Vermeer ---
 
 [sub.vermeer]
