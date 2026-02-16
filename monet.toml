@@ -1,0 +1,95 @@
+[collection]
+name = "Monet"
+description = "Monet's art."
+
+# ─────────────────────────────────────────────
+# Claude Monet
+# ─────────────────────────────────────────────
+
+[sub.monet]
+name = "Claude Monet"
+description = "Light, water, and atmosphere — Monet's world dissolves into color."
+default_artist = "Claude Monet"
+
+[[sub.monet.items]]
+museum = "met"
+object = "437853"
+# Bridge over a Pond of Water Lilies, 1899
+
+[[sub.monet.items]]
+museum = "aic"
+object = "16584"
+# Houses of Parliament, London, 1900–1901
+
+[[sub.monet.items]]
+museum = "aic"
+object = "97933"
+# Water Lily Pond, 1917–1919
+
+[[sub.monet.items]]
+museum = "wikimedia"
+object = "Claude_Monet,_Impression,_soleil_levant.jpg"
+title = "Impression, Sunrise"
+date = "1872"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Seascape", "Harbor", "Sunrise"]
+
+[[sub.monet.items]]
+museum = "aic"
+object = "87088"
+# Water Lily Pond, 1900
+
+[[sub.monet.items]]
+museum = "nga"
+object = "99758d9d-c10b-4d02-a198-7e49afb1f3a6"
+title = "Woman with a Parasol — Madame Monet and Her Son"
+date = "1875"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Portrait", "Landscape"]
+
+[[sub.monet.items]]
+museum = "met"
+object = "437127"
+# Bridge over a Pond of Water Lilies, 1899
+
+[[sub.monet.items]]
+museum = "met"
+object = "437137"
+# Water Lilies, 1919
+
+# DUPLICATE: met-437133 also appears under sub.degas — the JSON had this object ID
+# mapped to "Garden at Sainte-Adresse" (Monet) here and "The Dance Class" (Degas) there.
+# These are different artworks; one of the sourceObjectIds is wrong in the original JSON.
+# Verify correct Met object IDs before shipping.
+[[sub.monet.items]]
+museum = "met"
+object = "437133"
+# Garden at Sainte-Adresse, 1867
+
+[[sub.monet.items]]
+museum = "met"
+object = "437135"
+# La Grenouillère, 1869
+
+[[sub.monet.items]]
+museum = "met"
+object = "437122"
+# Haystacks (Effect of Snow and Sun), 1891
+
+[[sub.monet.items]]
+museum = "met"
+object = "437128"
+# The Houses of Parliament (Effect of Fog), 1903–1904
+
+# TODO: nga-46523 uses a numeric objectid, not a IIIF UUID — image resolution won't work.
+# Look up the IIIF UUID in published_images.csv via depictstmsobjectid = 46523.
+[[sub.monet.items]]
+museum = "nga"
+object = "46523"
+title = "The Houses of Parliament, Sunset"
+date = "1903"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Cityscape", "London", "Sunset"]
