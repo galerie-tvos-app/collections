@@ -192,7 +192,8 @@ subjects = ["Portrait", "Childhood", "Garden"]
 
 [[sub.renoir.items]]
 museum = "wikimedia"
-object = "Pierre-Auguste_Renoir_-_The_Large_Bathers.jpg"
+# object = "Pierre-Auguste_Renoir_-_The_Large_Bathers.jpg"
+object = "Pierre-Auguste_Renoir,_French_-_The_Large_Bathers_-_Google_Art_Project.jpg"
 title = "The Large Bathers (Les Grandes Baigneuses)"
 date = "1884–87"
 medium = "Oil on canvas"
