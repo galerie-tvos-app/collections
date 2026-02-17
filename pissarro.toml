@@ -80,8 +80,9 @@ subjects = ["Landscape", "St. Thomas"]
 # National Gallery, London UK PID NG6493
 
 # Pissarro's Hyde Park (1890)
-# Tokyo Fuji Art Musuem
+# Tokyo Fuji Art Museum
 
+[[sub.pissarro.items]]
 #Piette’s House at Montfoucault: Snow Effect (1874)
 #Clark Art Institute, Williamstown, MA 1955.826
 museum = "wikimedia"
@@ -90,12 +91,14 @@ title = "Piette’s House at Montfoucault: Snow Effect"
 Style = "Impressionism"
 subjects = ["Snow", "Winter"]
 
+[[sub.pissarro.items]]
 # Boulevard Montmartre on a winter morning (1897)
 # met ID 437310
 # https://collectionapi.metmuseum.org/public/collection/v1/objects/[objectID]
 museum = "met"
 object = "437310"
 
+[[sub.pissarro.items]]
 #Boulevard Montmartre in springtime.
 museum = "wikimedia"
 object = "Camille_Pissarro_-_Boulevard_Montmartre,_Spring_-_Google_Art_Project.jpg"
@@ -103,12 +106,14 @@ title = "Boulevard Montmartre in Springtime"
 Style = "Impressionism"
 subjects = ["Street", "Spring", "Cityscape"]
 
+[[sub.pissarro.items]]
 museum = "wikimedia"
-onject = "Camille_Pissarro_-_Boulevard_Montmartre_-_Eremitage.jpg"
+object = "Camille_Pissarro_-_Boulevard_Montmartre_-_Eremitage.jpg"
 Style = "Impressionism"
 title = "Boulevard Montmartre"
 subjects = ["Street", "Fall", "Cityscape"]
 
+[[sub.pissarro.items]]
 # Tuileries Gardens (Winter Afternoon) (1899)
 # MET ID 437314
 museum = "met"
