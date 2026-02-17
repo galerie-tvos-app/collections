@@ -92,14 +92,23 @@ title = "La Grenouillère"
 date = "1869"
 
 [[sub.monet.items]]
-museum = "met"
-object = "437122"
-# Haystacks (Effect of Snow and Sun), 1891
+# museum = "met"
+# object = "437122"
+museum = "wikimedia"
+object = "Haystacks_(Effect_of_Snow_and_Sun)_MET_DT1035.jpg"
+title = "Haystacks (Effect of Snow and Sun)"
+date = "1891"
+style = "Impressionism"
 
 [[sub.monet.items]]
-museum = "met"
-object = "437128"
-# The Houses of Parliament (Effect of Fog), 1903–1904
+# museum = "met"
+# object = "437128"
+museum = "wikimedia"
+object = "The_Houses_of_Parliament_(Effect_of_Fog)_MET_DT1893.jpg"
+title = "The Houses of Parliament (Effect of Fog)"
+date = "1903–1904"
+style = "Impressionism"
+subjects = ["European", "Building"]
 
 # TODO: nga-46523 uses a numeric objectid, not a IIIF UUID — image resolution won't work.
 # Look up the IIIF UUID in published_images.csv via depictstmsobjectid = 46523.
