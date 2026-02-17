@@ -94,7 +94,8 @@ subjects = ["Portrait", "Seascape"]
 
 [[sub.renoir.items]]
 museum = "wikimedia"
-object = "Pierre-Auguste_Renoir_-_Claude_Monet_-_Google_Art_Project.jpg"
+object = "Auguste_Renoir_-_Claude_Monet_-_Google_Art_Project.jpg"
+# object = "Renoir_monet-orsay.jpg"
 title = "Portrait of Claude Monet"
 date = "1875"
 medium = "Oil on canvas"
@@ -103,7 +104,8 @@ subjects = ["Portrait"]
 
 [[sub.renoir.items]]
 museum = "wikimedia"
-object = "Pierre-Auguste_Renoir_-_Dance_at_Bougival_-_Google_Art_Project.jpg"
+object = "Pierre-Auguste_Renoir_-_Suzanne_Valadon_-_Dance_at_Bougival.jpg"
+#object = "Dance-At-Bougival.jpg"
 title = "Dance at Bougival"
 date = "1883"
 medium = "Oil on canvas"
@@ -112,7 +114,8 @@ subjects = ["Genre", "Dance", "Romance"]
 
 [[sub.renoir.items]]
 museum = "wikimedia"
-object = "Pierre-Auguste_Renoir_-_Danse_à_la_ville.jpg"
+# object = "Renoir_dansealaville-orsay.jpg"
+object = "Pierre-Auguste_Renoir_019.jpg"
 title = "Dance in the City (Danse à la ville)"
 date = "1883"
 medium = "Oil on canvas"
