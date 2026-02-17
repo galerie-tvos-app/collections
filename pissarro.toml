@@ -73,3 +73,43 @@ date = "1897"
 medium = "Oil on canvas"
 classification = "Painting"
 subjects = ["Landscape", "St. Thomas"]
+
+
+# Items to add:
+# The Avenue, Sydenham (1871)
+# National Gallery, London UK PID NG6493
+
+# Pissarro's Hyde Park (1890)
+# Tokyo Fuji Art Musuem
+
+#Piette’s House at Montfoucault: Snow Effect (1874)
+#Clark Art Institute, Williamstown, MA 1955.826
+museum = "wikimedia"
+object = "Pissarro_-_Piette%27s_House_at_Montfoucault,_1874.jpg"
+title = "Piette’s House at Montfoucault: Snow Effect"
+Style = "Impressionism"
+subjects = ["Snow", "Winter"]
+
+# Boulevard Montmartre on a winter morning (1897)
+# met ID 437310
+# https://collectionapi.metmuseum.org/public/collection/v1/objects/[objectID]
+museum = "met"
+object = "437310"
+
+#Boulevard Montmartre in springtime.
+museum = "wikimedia"
+object = "Camille_Pissarro_-_Boulevard_Montmartre,_Spring_-_Google_Art_Project.jpg"
+title = "Boulevard Montmartre in Springtime"
+Style = "Impressionism"
+subjects = ["Street", "Spring", "Cityscape"]
+
+museum = "wikimedia"
+onject = "Camille_Pissarro_-_Boulevard_Montmartre_-_Eremitage.jpg"
+Style = "Impressionism"
+title = "Boulevard Montmartre"
+subjects = ["Street", "Fall", "Cityscape"]
+
+# Tuileries Gardens (Winter Afternoon) (1899)
+# MET ID 437314
+museum = "met"
+object = "437314"
