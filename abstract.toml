@@ -1,36 +1,41 @@
 [collection]
 name = "Abstract & Modern"
-description = "A journey through the birth of abstraction — from Kandinsky's explosive color to Mondrian's serene geometry."
+description = "A journey through the birth of Abstraction — from Kandinsky's explosive color to Mondrian's serene geometry."
 
 [sub.kandinsky-blue-rider]
 name = "Kandinsky & Der Blaue Reiter"
-description = "The pioneer of pure abstraction — color as music, form as feeling."
+description = "The pioneer of pure Abstraction — color as music, form as feeling."
 default_artist = "Vasily Kandinsky"
 
 [[sub.kandinsky-blue-rider.items]]
 museum = "aic"
 object = "8983"
 title = "Painting with Troika"
+style = "Abstract"
 
 [[sub.kandinsky-blue-rider.items]]
 museum = "aic"
 object = "8980"
 title = "Landscape with Two Poplars"
+style = "Abstract"
 
 [[sub.kandinsky-blue-rider.items]]
 museum = "aic"
 object = "8991"
 title = "Improvisation No. 30 (Cannons)"
+style = "Abstract"
 
 [[sub.kandinsky-blue-rider.items]]
 museum = "aic"
 object = "8987"
 title = "Painting with Green Center"
+style = "Abstract"
 
 [[sub.kandinsky-blue-rider.items]]
 museum = "aic"
 object = "129849"
 title = "Houses at Murnau"
+style = "Abstract"
 
 [sub.mondrian-de-stijl]
 name = "Mondrian & De Stijl"
@@ -41,64 +46,93 @@ default_artist = "Piet Mondrian"
 museum = "aic"
 object = "109819"
 title = "Lozenge Composition with Yellow, Black, Blue, Red, and Gray"
+style = "Abstract"
 
 [[sub.mondrian-de-stijl.items]]
 museum = "aic"
 object = "65821"
 title = "Composition (No. 1) Gray-Red"
+style = "Abstract"
 
 [[sub.mondrian-de-stijl.items]]
 museum = "aic"
 object = "144467"
 title = "Farm near Duivendrecht"
+style = "Abstract"
 
 [[sub.mondrian-de-stijl.items]]
 museum = "aic"
 object = "142570"
 title = "Study for a Composition"
+style = "Abstract"
 
 [sub.orphism-cubism]
 name = "Orphism & Cubism"
 description = "Where Cubism meets pure prismatic color — the fragmentary energy of early modernism breaks the world into dazzling geometric rhythms."
 default_artist = "Robert Delaunay"
+style = "Abstract"
 
 [[sub.orphism-cubism.items]]
 museum = "aic"
 object = "9503"
 title = "Champs de Mars: The Red Tower"
+style = "Abstract"
 
 [[sub.orphism-cubism.items]]
 museum = "aic"
 object = "9505"
 title = "Saint-Séverin"
+style = "Abstract"
 
 [sub.met-modern]
 name = "The Met: Modern Visions"
 description = "Masterworks from the Metropolitan Museum of Art's Stieglitz Collection."
 
 [[sub.met-modern.items]]
-museum = "met"
-object = "488319"
+# met is public domain false
+# museum = "met"
+# object = "488319"
+museum = "wikimedia"
+object = "Vassily_Kandinsky,_1912_-_Improvisation_27,_Garden_of_Love_II.jpg"
 title = "Improvisation 27 (Garden of Love II)"
 artist = "Vasily Kandinsky"
+date = "1912"
+medium = "Oil on canvas"
+classification = "Painting"
+style = "Abstract"
+subjects = ["Leisure", "Mood"]
 
 [[sub.met-modern.items]]
-museum = "met"
-object = "484870"
+# met is public domain false
+#museum = "met"
+#object = "484870"
+museum = "wikimedia"
+object = "Paul_Klee_-_Tempelgärten.jpg"
 title = "Temple Gardens"
+style = "Abstract"
 artist = "Paul Klee"
 
 [[sub.met-modern.items]]
-museum = "met"
-object = "490012"
+# met is public domain false
+# museum = "met"
+# object = "490012"
+museum = "wikimedia"
+object = "Mondrian,_Compositie_1921.jpg"
 title = "Composition"
 artist = "Piet Mondrian"
+style = "Abstract"
 
 [[sub.met-modern.items]]
-museum = "met"
-object = "488410"
+# met is public domain false
+# museum = "met"
+# object = "488410"
+museum = "wikimedia"
+object = "Suprematist_Composition_-_Airplane_Flying_(Malevich,_1915).jpg"
 title = "Suprematist Composition: Airplane Flying"
+date = "1915"
 artist = "Kazimir Malevich"
+style = "Abstract"
+medium = "Oil on canvas"
 
 [[sub.met-modern.items]]
 museum = "wikimedia"
@@ -112,7 +146,11 @@ subjects = ["Abstract", "Color Field", "Modernism"]
 
 
 [[sub.met-modern.items]]
-museum = "met"
-object = "489079"
+# met is public domain false
+# museum = "met"
+# object = "489079"
+object = "Hauptweg_und_Nebenwege_-_Paul_Klee_-_Museum_Ludwig-7026_(cropped).jpg/2"
 title = "Highway and Byways"
 artist = "Paul Klee"
+style = "Abstract"
+medium = "Oil on canvas"
