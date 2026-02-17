@@ -19,10 +19,16 @@ title = "The Champion Single Sculls (Max Schmitt in a Single Scull)"
 artist = "Thomas Eakins"
 
 [[sub.american-realism.items]]
-museum = "met"
-object = "12127"
+# met is public domain false
+# museum = "met"
+# object = "12127"
+museum = "wikimedia"
+object = "Madame_X_(Madame_Pierre_Gautreau),_John_Singer_Sargent,_1884_(unfree_frame_crop).jpg"
 title = "Madame X (Madame Pierre Gautreau)"
+date = "1884"
 artist = "John Singer Sargent"
+style = "Realism"
+subjects = ["Virginie Amélie Avegno Gautreau", "American", "Modernism"]
 
 [[sub.american-realism.items]]
 museum = "met"
