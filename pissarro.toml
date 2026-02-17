@@ -1,5 +1,5 @@
 [collection]
-name = "Pissaro"
+name = "Pissarro"
 description = "Tranquil rural landscapes and village scenes with a soft, luminous touch that emphasized everyday country life."
 
 # ─────────────────────────────────────────────
@@ -88,7 +88,7 @@ subjects = ["Landscape", "St. Thomas"]
 museum = "wikimedia"
 object = "Pissarro_-_Piette%27s_House_at_Montfoucault,_1874.jpg"
 title = "Piette’s House at Montfoucault: Snow Effect"
-Style = "Impressionism"
+style = "Impressionism"
 subjects = ["Snow", "Winter"]
 
 [[sub.pissarro.items]]
@@ -103,13 +103,13 @@ object = "437310"
 museum = "wikimedia"
 object = "Camille_Pissarro_-_Boulevard_Montmartre,_Spring_-_Google_Art_Project.jpg"
 title = "Boulevard Montmartre in Springtime"
-Style = "Impressionism"
+style = "Impressionism"
 subjects = ["Street", "Spring", "Cityscape"]
 
 [[sub.pissarro.items]]
 museum = "wikimedia"
 object = "Camille_Pissarro_-_Boulevard_Montmartre_-_Eremitage.jpg"
-Style = "Impressionism"
+style = "Impressionism"
 title = "Boulevard Montmartre"
 subjects = ["Street", "Fall", "Cityscape"]
 
