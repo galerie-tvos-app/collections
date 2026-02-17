@@ -49,7 +49,7 @@ subjects = ["Genre", "Leisure", "Dining"]
 
 [[sub.renoir.items]]
 museum = "wikimedia"
-object = "Pierre-Auguste_Renoir_-_La_Loge_-_Google_Art_Project.jpg"
+object = "Pierre-august_renoir,_la_loge,_1874.JPG"
 title = "La Loge (The Theatre Box)"
 date = "1874"
 medium = "Oil on canvas"
