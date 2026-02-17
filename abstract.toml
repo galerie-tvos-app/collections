@@ -101,10 +101,15 @@ title = "Suprematist Composition: Airplane Flying"
 artist = "Kazimir Malevich"
 
 [[sub.met-modern.items]]
-museum = "met"
-object = "490325"
+museum = "wikimedia"
+object = "Fire_in_the_Evening_by_Paul_Klee_in_the_MOMA.jpg"
 title = "Fire in the Evening"
 artist = "Paul Klee"
+date = "1929"
+medium = "Oil on cardboard"
+style = "Abstract"
+subjects = ["Abstract", "Color Field", "Modernism"]
+
 
 [[sub.met-modern.items]]
 museum = "met"
