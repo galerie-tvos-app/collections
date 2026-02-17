@@ -143,30 +143,34 @@ object = "14655"
 
 [[sub.renoir.items]]
 museum = "wikimedia"
-object = "Pierre-Auguste_Renoir_-_Portrait_of_the_Actress_Jeanne_Samary.jpg"
+object = "Pierre-Auguste_Renoir_-_Portrait_de_l'actrice_Jeanne_Samary.jpg"
 title = "Portrait of Jeanne Samary"
 date = "1877"
 medium = "Oil on canvas"
 classification = "Painting"
 subjects = ["Portrait"]
+persons = ["Jeanne Samary"]
 
 [[sub.renoir.items]]
 museum = "wikimedia"
-object = "Pierre-Auguste_Renoir_-_La_Parisienne.jpg"
+object = "Pierre-Auguste_Renoir_089.jpg"
 title = "La Parisienne (The Blue Lady)"
 date = "1874"
 medium = "Oil on canvas"
 classification = "Painting"
 subjects = ["Portrait", "Fashion"]
+persons = ["Henriette Henriot"]
 
 [[sub.renoir.items]]
 museum = "wikimedia"
-object = "Pierre-Auguste_Renoir_-_Lise_-_Femme_à_l'ombrelle.jpg"
+#object = "Pierre-Auguste_Renoir_-_Lise_-_Femme_à_l'ombrelle.jpg"
+object = "Lise_with_a_Parasol.jpg"
 title = "Lise with a Parasol"
 date = "1867"
 medium = "Oil on canvas"
 classification = "Painting"
 subjects = ["Portrait", "Figure"]
+persons = ["Lise Tréhot"]
 
 [[sub.renoir.items]]
 museum = "wikimedia"
@@ -197,7 +201,7 @@ subjects = ["Nude", "Bathers", "Figure"]
 
 [[sub.renoir.items]]
 museum = "wikimedia"
-object = "Pierre-Auguste_Renoir_-_Les_Baigneuses.jpg"
+object = "Pierre_Auguste_Renoir_-_The_Bathers_-_Google_Art_Project.jpg"
 title = "The Bathers (Les Baigneuses)"
 date = "1918–19"
 medium = "Oil on canvas"
