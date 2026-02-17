@@ -50,28 +50,46 @@ classification = "Painting"
 subjects = ["Portrait", "Landscape"]
 
 [[sub.monet.items]]
-museum = "met"
-object = "437127"
-# Bridge over a Pond of Water Lilies, 1899
+# Met not in public domain
+# museum = "met"
+# object = "437127"
+museum = "wikimedia"
+#object = "Bridge_over_a_Pond_of_Water_Lilies_MET_DT1854.jpg"
+object = "The_Water-Lily_Pond_1899_Claude_Monet_Metropolitan.jpg"
+title = "Bridge over a Pond of Water Lilies",
+date = "1899"
+style = "Impressionism"
+subjects = ["Landscape", "European", "Pond", "Bridge"]
 
 [[sub.monet.items]]
-museum = "met"
-object = "437137"
-# Water Lilies, 1919
-
-# DUPLICATE: met-437133 also appears under sub.degas — the JSON had this object ID
-# mapped to "Garden at Sainte-Adresse" (Monet) here and "The Dance Class" (Degas) there.
-# These are different artworks; one of the sourceObjectIds is wrong in the original JSON.
-# Verify correct Met object IDs before shipping.
-[[sub.monet.items]]
-museum = "met"
-object = "437133"
-# Garden at Sainte-Adresse, 1867
+# museum = "met"
+# object = "437137"
+museum = "wikimedia"
+object = "Claude_Monet_-_Water_Lilies,_1917-1919.JPG"
+title = "Water Lilies"
+date = "1919"
+style = "Impressionism"
+subjects = ["Landscape", "European", "Pond"]
 
 [[sub.monet.items]]
-museum = "met"
-object = "437135"
-# La Grenouillère, 1869
+#museum = "met"
+#object = "437133"
+museum = "wikimedia"
+object = "Claude_Monet_-_Jardin_à_Sainte-Adresse.jpg"
+# object = "Garden_at_Sainte-Adresse_MET_DT48.jpg"
+title = "Garden at Sainte-Adresse"
+date = "1867"
+style = "Impressionism"
+subjects = ["European", "Ocean"]
+
+
+[[sub.monet.items]]
+# museum = "met"
+# object = "437135"
+museum = "wikimedia"
+object = "Claude_Monet_La_Grenouillére.jpg"
+title = "La Grenouillère"
+date = "1869"
 
 [[sub.monet.items]]
 museum = "met"
