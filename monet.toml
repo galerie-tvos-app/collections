@@ -72,8 +72,8 @@ style = "Impressionism"
 subjects = ["Landscape", "European", "Pond"]
 
 [[sub.monet.items]]
-#museum = "met"
-#object = "437133"
+# museum = "met"
+# object = "437133"
 museum = "wikimedia"
 object = "Claude_Monet_-_Jardin_à_Sainte-Adresse.jpg"
 # object = "Garden_at_Sainte-Adresse_MET_DT48.jpg"
