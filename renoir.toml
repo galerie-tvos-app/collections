@@ -76,7 +76,7 @@ subjects = ["Landscape", "Water", "Leisure"]
 
 [[sub.renoir.items]]
 museum = "wikimedia"
-object = "Pierre-Auguste_Renoir_-_The_Skiff_(La_Yole).jpg"
+object = "Skiff_hires.jpg"
 title = "The Skiff (La Yole)"
 date = "ca. 1875"
 medium = "Oil on canvas"
