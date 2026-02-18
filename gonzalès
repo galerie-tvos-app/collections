@@ -7,7 +7,7 @@ name = "Eva Gonzalès"
 description = "Manet’s only formal pupil—poised between Salon realism and Impressionist light—depicting modern women, interiors, gardens, and nuanced domestic scenes."
 default_artist = "Eva Gonzalès"
 
-# ——— 1. A Box at the Théâtre des Italiens (1874) — Wikimedia (Musée d’Orsay)
+# ——— 1. A Box at the Théâtre des Italiens (1874) — Impressionism
 [[sub.gonzales.items]]
 museum = "wikimedia"
 object = "Eva_Gonzalès_-_Une_loge_aux_Italiens.jpg"
@@ -17,9 +17,8 @@ medium = "Oil on canvas"
 classification = "Painting"
 style = "Impressionism"
 subjects = ["Theatre", "Modern life", "Fashion", "Interior"]
-# [1](https://www.artchive.com/artwork/the-avenue-sydenham-camille-pissarro-1871/)[2](https://www.fineartphotographyvideoart.com/2017/02/Camille-Pissarro.html)
 
-# ——— 2. Morning Awakening (1876–77) — Wikimedia (Kunsthalle Bremen)
+# ——— 2. Morning Awakening (1876–77) — Impressionism
 [[sub.gonzales.items]]
 museum = "wikimedia"
 object = "Eva_Gonzalès_-_Morning_Awakening.jpg"
@@ -29,9 +28,8 @@ medium = "Oil on canvas"
 classification = "Painting"
 style = "Impressionism"
 subjects = ["Interior", "Domestic life", "Morning light"]
-# [3](https://www.worldhistory.org/collection/149/camille-pissarro-a-gallery-of-30-paintings/19/)[4](https://www.nationalgallery.org.uk/paintings/camille-pissarro-the-avenue-sydenham)
 
-# ——— 3. The Window (La Fenêtre) (c. 1865–70) — Wikimedia (Denver Art Museum)
+# ——— 3. The Window (La Fenêtre) (c. 1865–70) — Realism (early Manet period)
 [[sub.gonzales.items]]
 museum = "wikimedia"
 object = "Eva_Gonzalès_-_The_Window_(La_Fenêtre).jpg"
@@ -41,9 +39,8 @@ medium = "Oil on canvas"
 classification = "Painting"
 style = "Realism"
 subjects = ["Interior", "Reading", "Window light"]
-# [5](https://www.superstock.com/asset/hyde-park-london-camille-pissarro-french-oil-canvas/866-3388)[6](https://www.artchive.com/artwork/hyde-park-london-camille-pissarro-1890/)
 
-# ——— 4. Nanny and Child (1877–78) — NGA
+# ——— 4. Nanny and Child (1877–78) — Impressionism
 [[sub.gonzales.items]]
 museum = "nga"
 object = "2006.72.1"
@@ -53,9 +50,8 @@ medium = "Oil on canvas"
 classification = "Painting"
 style = "Impressionism"
 subjects = ["Domestic life", "Garden", "Motherhood", "Childhood"]
-# [7](https://www.alamy.com/camille-pissarro-the-boulevard-montmartre-on-a-winter-morning-1897-elevated-winter-view-with-hazy-light-carriages-and-pedestrians-image702700166.html)
 
-# ——— 5. Girl with Cherries (c. 1865–75) — AIC
+# ——— 5. Girl with Cherries (c. 1865–75) — Realism
 [[sub.gonzales.items]]
 museum = "aic"
 object = "36678"
@@ -65,9 +61,8 @@ medium = "Oil on canvas"
 classification = "Painting"
 style = "Realism"
 subjects = ["Portrait", "Spanish lighting", "Figure"]
-# [8](https://www.artchive.com/artwork/piette-s-home-on-montfoucault-camille-pissarro-1874/)
 
-# ——— 6. The Milliner (c. 1872–1882) — AIC
+# ——— 6. The Milliner (c. 1872–1882) — Impressionism
 [[sub.gonzales.items]]
 museum = "aic"
 object = "39068"
@@ -75,11 +70,10 @@ title = "The Milliner"
 date = "c. 1872–1882"
 medium = "Pastel on canvas"
 classification = "Drawing"
-style = "Late Impressionism"
+style = "Impressionism"
 subjects = ["Fashion", "Work", "Interior"]
-# [9](https://www.pinterest.com/pin/766034217844422492/)
 
-# ——— 7. The Donkey Ride (c. 1880) — Wikimedia (Bristol)
+# ——— 7. The Donkey Ride (c. 1880) — Impressionism
 [[sub.gonzales.items]]
 museum = "wikimedia"
 object = "Eva_Gonzalès_-_-_The_Donkey_Ride.jpg"
@@ -89,9 +83,8 @@ medium = "Oil on canvas"
 classification = "Painting"
 style = "Impressionism"
 subjects = ["Outdoor leisure", "Animals", "Family"]
-# [10](https://commons.wikimedia.org/wiki/File:Renoir_portrait_of_Jeanne_Samary_1877.jpg)[11](https://artsandculture.google.com/asset/jeanne-samary-auguste-renoir/ZgGqdnJpeZasvQ)
 
-# ——— 8. Enfant de troupe (1870) — Wikimedia (Musée de Gajac)
+# ——— 8. Enfant de troupe (1870) — Realism
 [[sub.gonzales.items]]
 museum = "wikimedia"
 object = "Eva_Gonzales_-_Enfant_de_troupe.JPG"
@@ -101,9 +94,8 @@ medium = "Oil on canvas"
 style = "Realism"
 classification = "Painting"
 subjects = ["Boy", "Military uniform", "Trumpet"]
-# [12](https://www.alamy.com/view-from-louveciennes-museum-national-gallery-london-author-pissarro-camille-image231219215.html)[13](https://www.alamy.com/stock-photo-portrait-of-the-actress-jeanne-samary-by-pierre-auguste-renoir-reproduction-23071267.html)
 
-# ——— 9. Vase of Roses (c. 1880–82) — Wikimedia (Private / MIA variant exists)
+# ——— 9. Vase of Roses (c. 1880–82) — Realism (still life tradition)
 [[sub.gonzales.items]]
 museum = "wikimedia"
 object = "Eva_Gonzalès_-_Roses_dans_un_verre.jpg"
@@ -113,9 +105,8 @@ medium = "Oil on canvas"
 classification = "Painting"
 style = "Realism"
 subjects = ["Still life", "Flowers"]
-# [14](https://www.alamy.com/stock-photo-a-portrait-of-jeanne-samary-by-pierre-auguste-renoir-showcasing-the-132407556.html)
 
-# ——— 10. Children on the Sand Dunes, Grandcamp (1870s) — Wikimedia (NG Ireland)
+# ——— 10. Children on the Sand Dunes, Grandcamp (1870s) — Realism
 [[sub.gonzales.items]]
 museum = "wikimedia"
 object = "Children_on_the_Sand_Dunes_Grandcamp_Eva_Gonzales.jpg"
@@ -125,9 +116,8 @@ medium = "Oil on canvas"
 classification = "Painting"
 style = "Realism"
 subjects = ["Landscape", "Children", "Normandy"]
-# (Filename from NGI + Commons category; from list in Commons) [15](https://commons.wikimedia.org/wiki/File:Camille_Pissarro_-_The_Avenue,_Sydenham_%281871%29.jpg)
 
-# ——— 11. Reading in the Forest (1880) — Wikimedia (Petit Palais)
+# ——— 11. Reading in the Forest (1880) — Impressionism
 [[sub.gonzales.items]]
 museum = "wikimedia"
 object = "Eva_Gonzalès_-_Reading_in_the_Forest.jpg"
@@ -135,11 +125,10 @@ title = "Reading in the Forest"
 date = "c. 1880"
 medium = "Oil on canvas"
 classification = "Painting"
-style = "Realism"
+style = "Impressionism"
 subjects = ["Landscape", "Figure", "Leisure"]
-# (From Commons list of works) [15](https://commons.wikimedia.org/wiki/File:Camille_Pissarro_-_The_Avenue,_Sydenham_%281871%29.jpg)
 
-# ——— 12. White Shoes (1879–80) — Wikimedia (Private collection)
+# ——— 12. White Shoes (1879–80) — Impressionism
 [[sub.gonzales.items]]
 museum = "wikimedia"
 object = "Eva_Gonzalès_-_White_Shoes.jpg"
@@ -147,11 +136,10 @@ title = "White Shoes"
 date = "1879–1880"
 medium = "Oil on canvas"
 classification = "Painting"
-style = "Realism"
+style = "Impressionism"
 subjects = ["Woman", "Fashion", "Interior"]
-# (From Commons master list) 
 
-# ——— 13. L’Indolence (1871–72) — Wikimedia (Monaco Collection)
+# ——— 13. L’Indolence (1871–72) — Realism (early)
 [[sub.gonzales.items]]
 museum = "wikimedia"
 object = "Eva_Gonzalès_-_L'Indolence.jpg"
@@ -161,9 +149,8 @@ medium = "Oil on canvas"
 classification = "Painting"
 style = "Realism"
 subjects = ["Reclining figure", "Interior"]
-# (From Commons + Orsay/Wiki references) 
 
-# ——— 14. L’Alcôve (1870s) — Wikimedia
+# ——— 14. L’Alcôve (1870s) — Realism
 [[sub.gonzales.items]]
 museum = "wikimedia"
 object = "Eva_Gonzalès_-_L'alcôve.jpg"
@@ -173,9 +160,8 @@ medium = "Oil on canvas"
 classification = "Painting"
 style = "Realism"
 subjects = ["Interior", "Bedroom", "Figure"]
-# [16](https://fineartamerica.com/featured/portrait-of-the-actress-jeanne-samary-renoir-pierre-auguste-renoir.html)
 
-# ——— 15. Afternoon Tea (c. 1875) — Wikimedia (Dallas Museum of Art)
+# ——— 15. Afternoon Tea (c. 1875) — Impressionism
 [[sub.gonzales.items]]
 museum = "wikimedia"
 object = "Eva_Gonzalès_-_Afternoon_Tea.jpg"
@@ -183,11 +169,10 @@ title = "Afternoon Tea"
 date = "c. 1875"
 medium = "Oil on canvas"
 classification = "Painting"
-style = "Realism"
+style = "Impressionism"
 subjects = ["Domestic life", "Tea", "Terrace"]
-# (Commons listing) [15](https://commons.wikimedia.org/wiki/File:Camille_Pissarro_-_The_Avenue,_Sydenham_%281871%29.jpg)
 
-# ——— 16. Madam E.G. (Portrait of the Artist’s Mother) (1873) — Wikimedia (Ackland Museum)
+# ——— 16. Madam E.G. (1873) — Realism
 [[sub.gonzales.items]]
 museum = "wikimedia"
 object = "Eva_Gonzalès_-_Madam_EG.jpg"
@@ -197,9 +182,8 @@ medium = "Oil on canvas"
 classification = "Painting"
 style = "Realism"
 subjects = ["Portrait", "Mother", "Interior"]
-# (Commons master list) [15](https://commons.wikimedia.org/wiki/File:Camille_Pissarro_-_The_Avenue,_Sydenham_%281871%29.jpg)
 
-# ——— 17. The Spanish Lady (1882) — Wikimedia (Museo Soumaya)
+# ——— 17. The Spanish Lady (1882) — Impressionism
 [[sub.gonzales.items]]
 museum = "wikimedia"
 object = "Eva_Gonzalès_-_The_Spanish_Lady.jpg"
@@ -207,11 +191,10 @@ title = "The Spanish Lady"
 date = "1882"
 medium = "Oil on canvas"
 classification = "Painting"
-style = "Realism"
+style = "Impressionism"
 subjects = ["Costume", "Portrait", "Spanish theme"]
-# (Commons listing) [15](https://commons.wikimedia.org/wiki/File:Camille_Pissarro_-_The_Avenue,_Sydenham_%281871%29.jpg)
 
-# ——— 18. Sleep (c. 1877–78) — Wikimedia (Artizon Museum)
+# ——— 18. Sleep (c. 1877–78) — Impressionism
 [[sub.gonzales.items]]
 museum = "wikimedia"
 object = "Eva_Gonzalès_-_Sleep.jpg"
@@ -219,11 +202,10 @@ title = "Sleep"
 date = "c. 1877–1878"
 medium = "Oil on canvas"
 classification = "Painting"
-style = "Realism"
+style = "Impressionism"
 subjects = ["Reclining figure", "Interior", "Evening light"]
-# [17](https://artuk.org/discover/artworks/the-avenue-sydenham-115452)
 
-# ——— 19. Portrait of Jeanne Gonzales in Profile (1870s) — Wikimedia
+# ——— 19. Portrait of Jeanne Gonzales in Profile (1870s) — Realism
 [[sub.gonzales.items]]
 museum = "wikimedia"
 object = "Eva_Gonzalès_-_Portrait_of_Jeanne_Gonzales_in_Profile.jpg"
@@ -233,9 +215,8 @@ medium = "Oil on canvas"
 classification = "Painting"
 style = "Realism"
 subjects = ["Portrait", "Sister", "Profile"]
-# (From Commons list) 
 
-# ——— 20. Portrait of a Seated Lady (1879) — Wikimedia (Musée d’Orsay)
+# ——— 20. Portrait of a Seated Lady (1879) — Impressionism
 [[sub.gonzales.items]]
 museum = "wikimedia"
 object = "Eva_Gonzalès_-_Portrait_of_a_Seated_Lady.jpg"
@@ -243,6 +224,5 @@ title = "Portrait of a Seated Lady"
 date = "1879"
 medium = "Oil on canvas"
 classification = "Painting"
-style = "Realism"
+style = "Impressionism"
 subjects = ["Portrait", "Interior"]
-# [15](https://commons.wikimedia.org/wiki/File:Camille_Pissarro_-_The_Avenue,_Sydenham_%281871%29.jpg)
