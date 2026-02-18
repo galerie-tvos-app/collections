@@ -57,14 +57,17 @@ subjects = ["Interior", "Figure", "Modern life"]
 # — The Met (Metropolitan Museum of Art, New York) —
 # The Met object id: 437160
 [[sub.morisot.items]]
-museum = "met"
-object = "437160"
+#museum = "met"
+#object = "437160"
+museum = "wikimedia"
+object = "Morisot_-_Young_Woman_Seated_on_a_Sofa,_ca._1879.jpg"
 title = "Young Woman Seated on a Sofa"
 date = "c. 1879"
 medium = "Oil on canvas"
 classification = "Painting"
 style = "Impressionism"
 subjects = ["Portrait", "Interior", "Paris"]
+# https://collectionapi.metmuseum.org/public/collection/v1/objects/437160
 # ref: https://www.metmuseum.org/art/collection/search/437160
 
 # ─────────────────────────────────────────────
@@ -113,7 +116,7 @@ subjects = ["Portrait", "Interior", "Isle of Wight", "Honeymoon"]
 
 # 9) Julie Daydreaming (1894) — Private Collection
 [[sub.morisot.items]]
-museum = "wikimedia"                   # private collection
+museum = "wikimedia"                  
 object = "Morisot_-_julie-daydreaming.jpg"
 title = "Julie Daydreaming"
 date = "1894"
