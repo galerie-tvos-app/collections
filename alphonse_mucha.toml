@@ -86,16 +86,6 @@ classification = "Poster"
 subjects = ["Theatre", "Sarah Bernhardt", "Renaissance"]
 style = "Art Nouveau"
 
-[[sub.theatre-posters.items]]
-museum = "wikimedia"
-object = "Alfons Mucha - 1898 - Medee.jpg"
-title = "Médée"
-date = "1898"
-medium = "Color lithograph"
-classification = "Poster"
-subjects = ["Theatre", "Sarah Bernhardt", "Mythology"]
-style = "Art Nouveau"
-
 # ── Decorative Panels & Commercial Art ──────────────────────────────
 
 [sub.decorative]
