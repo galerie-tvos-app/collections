@@ -2,36 +2,36 @@
 name = "Abstract & Modern"
 description = "A journey through the birth of Abstraction — from Kandinsky's explosive color to Mondrian's serene geometry."
 
-[sub.kandinsky-blue-rider]
+[sub.kandinsky]
 name = "Kandinsky & Der Blaue Reiter"
 description = "The pioneer of pure Abstraction — color as music, form as feeling."
 default_artist = "Vasily Kandinsky"
 
-[[sub.kandinsky-blue-rider.items]]
+[[sub.kandinsky.items]]
 museum = "aic"
 object = "8983"
 title = "Painting with Troika"
 style = "Abstract"
 
-[[sub.kandinsky-blue-rider.items]]
+[[sub.kandinsky.items]]
 museum = "aic"
 object = "8980"
 title = "Landscape with Two Poplars"
 style = "Abstract"
 
-[[sub.kandinsky-blue-rider.items]]
+[[sub.kandinsky.items]]
 museum = "aic"
 object = "8991"
 title = "Improvisation No. 30 (Cannons)"
 style = "Abstract"
 
-[[sub.kandinsky-blue-rider.items]]
+[[sub.kandinsky.items]]
 museum = "aic"
 object = "8987"
 title = "Painting with Green Center"
 style = "Abstract"
 
-[[sub.kandinsky-blue-rider.items]]
+[[sub.kandinsky.items]]
 museum = "aic"
 object = "129849"
 title = "Houses at Murnau"
@@ -149,6 +149,7 @@ subjects = ["Abstract", "Color Field", "Modernism"]
 # met is public domain false
 # museum = "met"
 # object = "489079"
+museum = "wikimedia"
 object = "Hauptweg_und_Nebenwege_-_Paul_Klee_-_Museum_Ludwig-7026_(cropped).jpg/2"
 title = "Highway and Byways"
 artist = "Paul Klee"
