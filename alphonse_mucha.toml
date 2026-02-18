@@ -1,0 +1,209 @@
+[collection]
+name = "Alphonse Mucha"
+description = "The defining artist of Art Nouveau — posters, decorative panels, and paintings"
+
+# ── The Seasons (1896) ──────────────────────────────────────────────
+
+[sub.the-seasons]
+name = "The Seasons (1896)"
+description = "Four women in decorative floral settings evoking each season"
+default_artist = "Alphonse Mucha"
+
+[[sub.the-seasons.items]]
+museum = "wikimedia"
+object = "Alfons Mucha - The Seasons - Spring (1896).jpg"
+title = "The Seasons: Spring"
+date = "1896"
+medium = "Color lithograph"
+classification = "Print"
+subjects = ["Allegory", "Seasons", "Woman", "Flowers"]
+style = "Art Nouveau"
+
+[[sub.the-seasons.items]]
+museum = "wikimedia"
+object = "Alfons Mucha - The Seasons - Summer (1896).jpg"
+title = "The Seasons: Summer"
+date = "1896"
+medium = "Color lithograph"
+classification = "Print"
+subjects = ["Allegory", "Seasons", "Woman", "Nature"]
+style = "Art Nouveau"
+
+[[sub.the-seasons.items]]
+museum = "wikimedia"
+object = "Alfons Mucha - The Seasons - Autumn (1896).jpg"
+title = "The Seasons: Autumn"
+date = "1896"
+medium = "Color lithograph"
+classification = "Print"
+subjects = ["Allegory", "Seasons", "Woman", "Harvest"]
+style = "Art Nouveau"
+
+[[sub.the-seasons.items]]
+museum = "wikimedia"
+object = "Alfons Mucha - The Seasons - Winter (1896).jpg"
+title = "The Seasons: Winter"
+date = "1896"
+medium = "Color lithograph"
+classification = "Print"
+subjects = ["Allegory", "Seasons", "Woman", "Snow"]
+style = "Art Nouveau"
+
+# ── Theatre Posters ─────────────────────────────────────────────────
+
+[sub.theatre-posters]
+name = "Theatre Posters"
+description = "The posters for Sarah Bernhardt that launched le style Mucha"
+default_artist = "Alphonse Mucha"
+
+[[sub.theatre-posters.items]]
+museum = "wikimedia"
+object = "Alfons Mucha - Gismonda.jpg"
+title = "Gismonda"
+date = "1894"
+medium = "Color lithograph"
+classification = "Poster"
+subjects = ["Theatre", "Sarah Bernhardt", "Byzantine"]
+style = "Art Nouveau"
+
+[[sub.theatre-posters.items]]
+museum = "wikimedia"
+object = "Alfons Mucha - 1896 - La Dame aux Camélias - Sarah Bernhardt.jpg"
+title = "La Dame aux Camélias"
+date = "1896"
+medium = "Color lithograph"
+classification = "Poster"
+subjects = ["Theatre", "Sarah Bernhardt", "Woman"]
+style = "Art Nouveau"
+
+[[sub.theatre-posters.items]]
+museum = "wikimedia"
+object = "Alfons Mucha - 1896 - Lorenzaccio.jpg"
+title = "Lorenzaccio"
+date = "1896"
+medium = "Color lithograph"
+classification = "Poster"
+subjects = ["Theatre", "Sarah Bernhardt", "Renaissance"]
+style = "Art Nouveau"
+
+[[sub.theatre-posters.items]]
+museum = "wikimedia"
+object = "Alfons Mucha - 1898 - Medee.jpg"
+title = "Médée"
+date = "1898"
+medium = "Color lithograph"
+classification = "Poster"
+subjects = ["Theatre", "Sarah Bernhardt", "Mythology"]
+style = "Art Nouveau"
+
+# ── Decorative Panels & Commercial Art ──────────────────────────────
+
+[sub.decorative]
+name = "Decorative Panels"
+description = "Ornamental works, calendars, and advertising posters"
+default_artist = "Alphonse Mucha"
+
+[[sub.decorative.items]]
+museum = "wikimedia"
+object = "Alphonse Mucha - Zodiac, 1869.jpg"
+title = "Zodiac"
+date = "1896"
+medium = "Color lithograph"
+classification = "Print"
+subjects = ["Zodiac", "Astrology", "Woman", "Calendar"]
+style = "Art Nouveau"
+
+[[sub.decorative.items]]
+museum = "wikimedia"
+object = "Alphonse Mucha - Job Cigarettes 1.jpg"
+title = "Job Cigarettes"
+date = "1896"
+medium = "Color lithograph"
+classification = "Poster"
+subjects = ["Advertising", "Woman", "Smoke"]
+style = "Art Nouveau"
+
+[[sub.decorative.items]]
+museum = "wikimedia"
+object = "Alfons Mucha - F. Champenois Imprimeur-Éditeur.jpg"
+title = "F. Champenois Imprimeur-Éditeur"
+date = "1897"
+medium = "Color lithograph"
+classification = "Print"
+subjects = ["Woman", "Flowers", "Decorative"]
+style = "Art Nouveau"
+
+[[sub.decorative.items]]
+museum = "wikimedia"
+object = "Alfons Mucha - Cognac Bisquit, 1899.jpg"
+title = "Cognac Bisquit"
+date = "1899"
+medium = "Color lithograph"
+classification = "Poster"
+subjects = ["Advertising", "Woman", "Drink"]
+style = "Art Nouveau"
+
+[[sub.decorative.items]]
+museum = "wikimedia"
+object = "Alfons Mucha - Monaco-Monte Carlo.jpg"
+title = "Monaco Monte Carlo"
+date = "1897"
+medium = "Color lithograph"
+classification = "Poster"
+subjects = ["Travel", "Woman", "Flowers"]
+style = "Art Nouveau"
+
+# ── Byzantine & Spiritual Works ─────────────────────────────────────
+
+[sub.spiritual]
+name = "Byzantine & Spiritual Works"
+description = "Sacred and devotional paintings blending Art Nouveau with Byzantine tradition"
+default_artist = "Alphonse Mucha"
+
+[[sub.spiritual.items]]
+museum = "wikimedia"
+object = "Tête Byzantine, Blonde 2).jpeg"
+title = "Tête Byzantine: The Blonde"
+date = "1897"
+medium = "Color lithograph"
+classification = "Print"
+subjects = ["Portrait", "Byzantine", "Woman"]
+style = "Art Nouveau"
+
+[[sub.spiritual.items]]
+museum = "wikimedia"
+object = "Tête Byzantine, Brunette).jpeg"
+title = "Tête Byzantine: The Brunette"
+date = "1897"
+medium = "Color lithograph"
+classification = "Print"
+subjects = ["Portrait", "Byzantine", "Woman"]
+style = "Art Nouveau"
+
+[[sub.spiritual.items]]
+museum = "wikimedia"
+object = "Alfons Mucha - Madonna of the Lilies (1905).jpg"
+title = "Madonna of the Lilies"
+date = "1905"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Religious", "Madonna", "Lilies", "Slavic"]
+style = "Art Nouveau"
+focus_y = 30
+
+# ── The Slav Epic (selections) ──────────────────────────────────────
+
+[sub.slav-epic]
+name = "The Slav Epic"
+description = "Monumental canvases depicting the history of the Slavic peoples"
+default_artist = "Alphonse Mucha"
+
+[[sub.slav-epic.items]]
+museum = "wikimedia"
+object = "Alfons Mucha - La Lumière de l'Espoir 01.jpg"
+title = "The Light of Hope"
+date = "1933"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Slavic", "History", "Hope", "Allegory"]
+style = "Art Nouveau"
