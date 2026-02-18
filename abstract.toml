@@ -154,6 +154,8 @@ object = "Hauptweg_und_Nebenwege_-_Paul_Klee_-_Museum_Ludwig-7026_(cropped).jpg"
 title = "Highway and Byways"
 artist = "Paul Klee"
 style = "Abstract"
+date = "1929"
+subjects = ["Abstract", "Geometry"]
 medium = "Oil on canvas"
 
 [sub.hilma-af-klint]
