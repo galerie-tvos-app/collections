@@ -170,3 +170,13 @@ medium = "Tempera on paper mounted on canvas"
 classification = "Painting"
 subjects = ["Abstract", "Spiritualism", "Life Cycle"]
 style = "Abstract"
+
+[[sub.hilma-af-klint.items]]
+museum = "wikimedia"
+object = "Hilma af Klint - Group IX UW No. 25, The Dove, No. 1 (13912).jpg"
+title = "Group IX/UW, The Dove, No. 1"
+date = "1915"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Abstract", "Spiritualism", "Duality"]
+style = "Abstract"
