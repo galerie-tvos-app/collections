@@ -154,3 +154,18 @@ title = "Highway and Byways"
 artist = "Paul Klee"
 style = "Abstract"
 medium = "Oil on canvas"
+
+[sub.hilma-af-klint]
+name = "Hilma af Klint"
+description = "Spiritual visions rendered in monumental abstract form"
+default_artist = "Hilma af Klint"
+
+[[sub.hilma-af-klint.items]]
+museum = "wikimedia"
+object = "Hilma af Klint — The Ten Largest — Number 7 Adulthood.jpg"
+title = "Group IV, The Ten Largest, No. 7, Adulthood"
+date = "1907"
+medium = "Tempera on paper mounted on canvas"
+classification = "Painting"
+subjects = ["Abstract", "Spiritualism", "Life Cycle"]
+style = "Abstract"
