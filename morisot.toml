@@ -1,5 +1,9 @@
+[collection]
+name = "Morisot"
+description = "Tntimate, everyday moments of women, children, and domestic life through luminous color, swift brushwork, and a uniquely sensitive Impressionist eye."
+
 # ─────────────────────────────────────────────
-# Berthe Morisot — NGA / The Met / AIC only
+# Berthe Morisot — NGA / The Met / AIC 
 # ─────────────────────────────────────────────
 
 [sub.morisot]
@@ -19,6 +23,7 @@ title = "The Harbor at Lorient"
 date = "1869"
 medium = "Oil on canvas"
 classification = "Painting"
+style = "Impressionism"
 subjects = ["Harbor", "Seascape", "Brittany", "Figure"]
 # ref: https://www.nga.gov/artworks/52192-harbor-lorient
 
@@ -32,6 +37,7 @@ title = "Hanging the Laundry out to Dry"
 date = "1875"
 medium = "Oil on canvas"
 classification = "Painting"
+style = "Impressionism"
 subjects = ["Domestic life", "Landscape", "Gennevilliers", "Work"]
 # ref: https://www.nga.gov/artworks/66426-hanging-laundry-out-dry
 
@@ -44,6 +50,7 @@ title = "Woman at Her Toilette"
 date = "1875–1880"
 medium = "Oil on canvas"
 classification = "Painting"
+style = "Impressionism"
 subjects = ["Interior", "Figure", "Modern life"]
 # ref: https://www.artic.edu/artworks/11723/woman-at-her-toilette
 
@@ -56,6 +63,7 @@ title = "Young Woman Seated on a Sofa"
 date = "c. 1879"
 medium = "Oil on canvas"
 classification = "Painting"
+style = "Impressionism"
 subjects = ["Portrait", "Interior", "Paris"]
 # ref: https://www.metmuseum.org/art/collection/search/437160
 
@@ -75,6 +83,7 @@ title = "The Cradle"
 date = "1872"
 medium = "Oil on canvas"
 classification = "Painting"
+style = "Impressionism"
 subjects = ["Motherhood", "Interior", "Infancy", "Family"]
 
 # 2) Summer’s Day (1879) — National Gallery, London (NG3264)
@@ -87,6 +96,7 @@ title = "Summer’s Day"
 date = "1879"
 medium = "Oil on canvas"
 classification = "Painting"
+style = "Impressionism"
 subjects = ["Leisure", "Boating", "Paris", "Bois de Boulogne"]
 
 # 8) Eugène Manet on the Isle of Wight (1875) — Musée Marmottan Monet
@@ -98,6 +108,7 @@ title = "Eugène Manet on the Isle of Wight"
 date = "1875"
 medium = "Oil on canvas"
 classification = "Painting"
+style = "Impressionism"
 subjects = ["Portrait", "Interior", "Isle of Wight", "Honeymoon"]
 
 # 9) Julie Daydreaming (1894) — Private Collection
@@ -108,6 +119,7 @@ title = "Julie Daydreaming"
 date = "1894"
 medium = "Oil on canvas"
 classification = "Painting"
+style = "Impressionism"
 subjects = ["Portrait", "Julie Manet", "Interior", "Late work"]
 
 # 10) Girl in a Boat with Geese (c. 1889) — National Gallery of Art (NGA)
@@ -120,6 +132,7 @@ title = "Girl in a Boat with Geese"
 date = "1889"
 medium = "Oil on canvas"
 classification = "Painting"
+style = "Impressionism"
 subjects = ["Landscape", "Boating", "Waterfowl", "Outdoor leisure"]
 
 # ——— Requested NGA items to add explicitly ———
@@ -134,6 +147,7 @@ title = "The Artist’s Sister at a Window"
 date = "1869"
 medium = "Oil on canvas"
 classification = "Painting"
+style = "Impressionism"
 subjects = ["Portrait", "Interior", "Edma Pontillon"]
 
 # The Mother and Sister of the Artist (1869–1870) — NGA
@@ -146,5 +160,6 @@ title = "The Mother and Sister of the Artist"
 date = "1869–1870"
 medium = "Oil on canvas"
 classification = "Painting"
+style = "Impressionism"
 subjects = ["Portrait", "Family", "Interior"]
 ``
