@@ -1,0 +1,164 @@
+# ─────────────────────────────────────────────
+# Berthe Morisot — NGA / The Met / AIC only
+# ─────────────────────────────────────────────
+
+[sub.morisot]
+name = "Berthe Morisot"
+description = "Intimate modern life—women, children, interiors and gardens—rendered with luminous, economical brushwork."
+default_artist = "Berthe Morisot"
+
+# — NGA (National Gallery of Art, Washington) —
+# Source page shows artwork id 52192 (“The Harbor at Lorient”).
+# Map this to NGA’s persistent UUID using their CSV (GitHub Open Data).
+# Docs: https://github.com/NationalGalleryOfArt/opendata
+[[sub.morisot.items]]
+museum = "nga"
+object = "bf6c7c73-82e8-4ef7-8ac8-71920c8eb2b9"
+object_source_id = "52192"
+title = "The Harbor at Lorient"
+date = "1869"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Harbor", "Seascape", "Brittany", "Figure"]
+# ref: https://www.nga.gov/artworks/52192-harbor-lorient
+
+# Source page shows artwork id 66426 (“Hanging the Laundry out to Dry”).
+# Map this to NGA’s persistent UUID using their CSV.
+[[sub.morisot.items]]
+museum = "nga"
+object = "16d3f97b-02d2-4b95-a6c6-41385098d873"
+object_source_id = "66426"
+title = "Hanging the Laundry out to Dry"
+date = "1875"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Domestic life", "Landscape", "Gennevilliers", "Work"]
+# ref: https://www.nga.gov/artworks/66426-hanging-laundry-out-dry
+
+# — AIC (Art Institute of Chicago) —
+# AIC object (artic.edu) id: 11723
+[[sub.morisot.items]]
+museum = "aic"
+object = "11723"
+title = "Woman at Her Toilette"
+date = "1875–1880"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Interior", "Figure", "Modern life"]
+# ref: https://www.artic.edu/artworks/11723/woman-at-her-toilette
+
+# — The Met (Metropolitan Museum of Art, New York) —
+# The Met object id: 437160
+[[sub.morisot.items]]
+museum = "met"
+object = "437160"
+title = "Young Woman Seated on a Sofa"
+date = "c. 1879"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Portrait", "Interior", "Paris"]
+# ref: https://www.metmuseum.org/art/collection/search/437160
+
+# ─────────────────────────────────────────────
+# Berthe Morisot — Woman at Her Toilette
+# ─────────────────────────────────────────────
+
+[[sub.morisot.items]]
+museum = "aic"
+object = "11723"
+title = "Woman at Her Toilette"
+date = "1875–1880"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Interior", "Figure", "Modern life"]
+# ref: https://www.artic.edu/artworks/11723/woman-at-her-toilette
+
+# ─────────────────────────────────────────────
+# Berthe Morisot — additions beyond NGA/AIC/Met + requested NGA items
+# Museum codes added: dor (Musée d’Orsay), ngl (National Gallery London), marmottan (Musée Marmottan Monet), other (private/other)
+# ─────────────────────────────────────────────
+
+# 1) The Cradle (1872) — Musée d’Orsay (RF 2849)
+[[sub.morisot.items]]
+
+# museum = "dor"
+museum = "wikimedia"
+museum_object = "RF 2849"                 # Musée d’Orsay accession
+object = "Berthe_Morisot_-_The_Cradle_-_Google_Art_Project.jpg"
+title = "The Cradle"
+date = "1872"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Motherhood", "Interior", "Infancy", "Family"]
+
+# 2) Summer’s Day (1879) — National Gallery, London (NG3264)
+[[sub.morisot.items]]
+museum = "wikimedia"
+object - "A_summers_day_by_Berthe_Morisot.jpg"
+source_museum = "ngl"
+museum_object = "NG3264"                  # National Gallery inventory
+title = "Summer’s Day"
+date = "1879"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Leisure", "Boating", "Paris", "Bois de Boulogne"]
+
+# 8) Eugène Manet on the Isle of Wight (1875) — Musée Marmottan Monet
+[[sub.morisot.items]]
+museum "wikimedia"
+object = "Berthe_Morisot_-_Eugène_Manet_à_l'île_de_Wight.jpg"
+source_museum = "marmottan"
+title = "Eugène Manet on the Isle of Wight"
+date = "1875"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Portrait", "Interior", "Isle of Wight", "Honeymoon"]
+
+# 9) Julie Daydreaming (1894) — Private Collection
+[[sub.morisot.items]]
+museum = "wikimedia"                   # private collection
+object = "Morisot_-_julie-daydreaming.jpg"
+title = "Julie Daydreaming"
+date = "1894"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Portrait", "Julie Manet", "Interior", "Late work"]
+
+# 10) Girl in a Boat with Geese (c. 1889) — National Gallery of Art (NGA)
+# NGA page id: 52194 → map to your persistent NGA UUID
+[[sub.morisot.items]]
+museum = "nga"
+#object = "<NGA_UUID_for_52194>"    # replace with your resolved NGA UUID
+object = "5568ca30-4751-4861-b31a-9515a6114398"
+title = "Girl in a Boat with Geese"
+date = "1889"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Landscape", "Boating", "Waterfowl", "Outdoor leisure"]
+
+# ——— Requested NGA items to add explicitly ———
+
+# Edma Pontillon at a Window (The Artist’s Sister at a Window) (1869) — NGA
+# NGA page id: 52191 → map to your persistent NGA UUID
+[[sub.morisot.items]]
+museum = "nga"
+#object = "<NGA_UUID_for_52191>"    # replace with your resolved NGA UUID
+object = "26c52279-c2f8-409c-b7b4-467a38de2453"
+title = "The Artist’s Sister at a Window"
+date = "1869"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Portrait", "Interior", "Edma Pontillon"]
+
+# The Mother and Sister of the Artist (1869–1870) — NGA
+# On NGA site under that title; accession 1963.10.186 → map to your persistent NGA UUID if you’ve created one
+[[sub.morisot.items]]
+museum = "nga"
+#object = "<NGA_UUID_for_46661>"  # replace with your resolved NGA UUID
+object = "0eb31cfb-ddba-41c2-a0a5-b6b2e41efadf"
+title = "The Mother and Sister of the Artist"
+date = "1869–1870"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Portrait", "Family", "Interior"]
+``
