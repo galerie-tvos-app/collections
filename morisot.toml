@@ -60,20 +60,6 @@ subjects = ["Portrait", "Interior", "Paris"]
 # ref: https://www.metmuseum.org/art/collection/search/437160
 
 # ─────────────────────────────────────────────
-# Berthe Morisot — Woman at Her Toilette
-# ─────────────────────────────────────────────
-
-[[sub.morisot.items]]
-museum = "aic"
-object = "11723"
-title = "Woman at Her Toilette"
-date = "1875–1880"
-medium = "Oil on canvas"
-classification = "Painting"
-subjects = ["Interior", "Figure", "Modern life"]
-# ref: https://www.artic.edu/artworks/11723/woman-at-her-toilette
-
-# ─────────────────────────────────────────────
 # Berthe Morisot — additions beyond NGA/AIC/Met + requested NGA items
 # Museum codes added: dor (Musée d’Orsay), ngl (National Gallery London), marmottan (Musée Marmottan Monet), other (private/other)
 # ─────────────────────────────────────────────
@@ -94,7 +80,7 @@ subjects = ["Motherhood", "Interior", "Infancy", "Family"]
 # 2) Summer’s Day (1879) — National Gallery, London (NG3264)
 [[sub.morisot.items]]
 museum = "wikimedia"
-object - "A_summers_day_by_Berthe_Morisot.jpg"
+object = "A_summers_day_by_Berthe_Morisot.jpg"
 source_museum = "ngl"
 museum_object = "NG3264"                  # National Gallery inventory
 title = "Summer’s Day"
@@ -105,7 +91,7 @@ subjects = ["Leisure", "Boating", "Paris", "Bois de Boulogne"]
 
 # 8) Eugène Manet on the Isle of Wight (1875) — Musée Marmottan Monet
 [[sub.morisot.items]]
-museum "wikimedia"
+museum = "wikimedia"
 object = "Berthe_Morisot_-_Eugène_Manet_à_l'île_de_Wight.jpg"
 source_museum = "marmottan"
 title = "Eugène Manet on the Isle of Wight"
