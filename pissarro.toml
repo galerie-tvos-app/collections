@@ -84,10 +84,17 @@ subjects = ["Landscape", "St. Thomas"]
 
 [[sub.pissarro.items]]
 #Piette’s House at Montfoucault: Snow Effect (1874)
-#Clark Art Institute, Williamstown, MA 1955.826
+#Fitzwilliam Museum, Cambridge
 museum = "wikimedia"
 object = "Pissarro_-_Piette%27s_House_at_Montfoucault,_1874.jpg"
 title = "Piette’s House at Montfoucault: Snow Effect"
+style = "Impressionism"
+subjects = ["Snow", "Winter"]
+
+[[sub.pissarro.items]]
+museum = "wikimedia"
+object = "Camille_Pissarro,_La_Maison_de_la_Piette,_Montfoucault,_effet_de_neige,_1874,_PD.10-1966,_The_Fitzwilliam_Museum.jpg"
+title = "La Nausib de la Piette, Montfoucault, effet de neige"
 style = "Impressionism"
 subjects = ["Snow", "Winter"]
 
