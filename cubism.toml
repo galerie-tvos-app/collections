@@ -58,12 +58,6 @@ default_artist = "Pable Picasso"
 
 #style = "Cubism"
 
-#Self-Portrait "Yo" (1900): 488213
-[[sub.picasso.items]]
-museum = "met"
-object = "482499"
-style = "Cubism"
-
 # Jardin de Paris (1901): 333903
 [[sub.picasso.items]]
 museum = "met"
