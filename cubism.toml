@@ -1,0 +1,59 @@
+[collection]
+name = "cubism"
+description = "Objects from multiple viewpoints simultaneously in fragmented, geometric planes."
+# ─────────────────────────────────────────────
+# Camille Picasso
+# ─────────────────────────────────────────────
+
+[sub.picasso]
+name = "Pablo Picasso"
+description = "Not used."
+default_artist = "Pable Picasso"
+
+# The Actor: 488690 (Accession: 52.175)
+[[sub.picasso.items]]
+museum = "met"
+object = "488690"
+style = "Cubism"
+
+# At the Lapin Agile: 486162 (Accession: 1992.391)
+[[sub.picasso.items]]
+museum = "met"
+object = "486162"
+style = "Cubism"
+
+# Gertrude Stein: 488221 (Accession: 47.106)
+[[sub.picasso.items]]
+museum = "met"
+object = "488221"
+style = "Cubism"
+
+# The Blind Man's Meal: 488214 (Accession: 50.188)
+[[sub.picasso.items]]
+museum = "met"
+object = "488214"
+style = "Cubism"
+
+# Woman in White: 488220 (Accession: 53.140)
+[[sub.picasso.items]]
+museum = "met"
+object = "488220"
+style = "Cubism"
+
+#Reading at a Table: 489972 (Accession: 1994.405)
+[[sub.picasso.items]]
+museum = "met"
+object = "489972"
+style = "Cubism"
+
+# Woman in an Armchair: 488292 (Accession: 1996.403.5)
+[[sub.picasso.items]]
+museum = "met"
+object = "488292"
+style = "Cubism"
+
+# Still Life with a Bottle of Rum: 488291
+[[sub.picasso.items]]
+museum = "met"
+object = "488291"
+style = "Cubism"
