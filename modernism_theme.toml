@@ -10,7 +10,7 @@ name = "Cubism"
 description = "Objects from multiple viewpoints simultaneously in fragmented, geometric planes."
 
 [sub.cubism.criteria]
-style = ["Cubism","cubism"]
+style = ["Cubism"]
 
 # --- Art Nouveau ---
 
@@ -19,7 +19,7 @@ name = "Art Nouveau"
 description = "Organic, flowing, floral	beauty through nature and craft."
 
 [sub.artnouveau.criteria]
-style = ["Art Nouveau", "art nouveau"]
+style = ["Art Nouveau"]
 
 # --- Abstract ---
 
@@ -28,4 +28,4 @@ name = "Abstract"
 description = "Geometric or fluid, non-literal, emotional or spiritual expression via pure color/form.."
 
 [sub.abstract.criteria]
-style = ["Abstract", "abstract"]
+style = ["Abstract"]
