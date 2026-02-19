@@ -52,57 +52,36 @@ default_artist = "Pable Picasso"
 #object = "488292"
 #style = "Cubism"
 
-# Still Life with a Bottle of Rum: 488291
+# Still Life with a Bottle of Rum: 
 #[[sub.picasso.items]]
 #museum = "met"
-#object = "488291"
+
 #style = "Cubism"
 
 #Self-Portrait "Yo" (1900): 488213
 [[sub.picasso.items]]
 museum = "met"
-object = "488213"
+object = "482499"
 style = "Cubism"
 
-#Carles Casagemas (1900): 488211
-[[sub.picasso.items]]
-museum = "met"
-object = "488211"
-style = "Cubism"
-
-#Hermen Anglada-Camarasa (1900): 488212
-[[sub.picasso.items]]
-museum = "met"
-object = "488212"
-style = "Cubism"
-
-#Woman in Green (1901): 488215
-[[sub.picasso.items]]
-museum = "met"
-object = "488215"
-style = "Cubism"
-
-#Mother and Child by a Fountain (1901): 488217
-[[sub.picasso.items]]
-museum = "met"
-object = "488217"
-style = "Cubism"
-
-#Jardin de Paris (Poster Design) (1901): 333903
+# Jardin de Paris (1901): 333903
 [[sub.picasso.items]]
 museum = "met"
 object = "333903"
 style = "Cubism"
 
+#Carles Casagemas (1900): 488211
+
+#Hermen Anglada-Camarasa (1900): 488212
+
+#Woman in Green (1901): 488215
+
+#Mother and Child by a Fountain (1901): 488217
+
+#Jardin de Paris (Poster Design) (1901): 333903
+
 #Mother and Child on a Bench (1901): 488216
-[[sub.picasso.items]]
-museum = "met"
-object = "488216"
-style = "Cubism"
 
 #The Frugal Repast (1904): 360057
-[[sub.picasso.items]]
-museum = "met"
-object = "360057"
-style = "Cubism"
+
 
