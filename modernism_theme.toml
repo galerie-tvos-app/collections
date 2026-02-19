@@ -1,0 +1,31 @@
+[theme]
+name = "Modernism"
+description = "A global movement that rejected traditional styles in favor of radical experimentation."
+
+# --- Cubism ---
+# Led by Pablo Picasso and Georges Braque
+
+[sub.cubism]
+name = "Cubism"
+description = "Objects from multiple viewpoints simultaneously in fragmented, geometric planes."
+
+[sub.cubism.criteria]
+style = ["Cubism","cubism"]
+
+# --- Art Nouveau ---
+
+[sub.artnouveau]
+name = "Art Nouveau"
+description = "Organic, flowing, floral	beauty through nature and craft."
+
+[sub.artnouveau.criteria]
+style = ["Art Nouveau", "art nouveau"]
+
+# --- Abstract ---
+
+[sub.abstract]
+name = "Abstract"
+description = "Geometric or fluid, non-literal, emotional or spiritual expression via pure color/form.."
+
+[sub.abstract.criteria]
+style = ["Abstract", "abstract]
