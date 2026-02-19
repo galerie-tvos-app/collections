@@ -109,7 +109,8 @@ subjects = ["Still life", "Flowers"]
 # ——— 10. Children on the Sand Dunes, Grandcamp (1870s) — Realism
 [[sub.gonzales.items]]
 museum = "wikimedia"
-object = "Children_on_the_Sand_Dunes_Grandcamp_Eva_Gonzales.jpg"
+#object = "Children_on_the_Sand_Dunes_Grandcamp_Eva_Gonzales.jpg"
+object = "Children_on_the_Sand_Dunes,_Grandcamp_.PNG"
 title = "Children on the Sand Dunes, Grandcamp"
 date = "1870s"
 medium = "Oil on canvas"
@@ -164,7 +165,8 @@ subjects = ["Interior", "Bedroom", "Figure"]
 # ——— 15. Afternoon Tea (c. 1875) — Impressionism
 [[sub.gonzales.items]]
 museum = "wikimedia"
-object = "Eva_Gonzalès_-_Afternoon_Tea.jpg"
+#object = "Eva_Gonzalès_-_Afternoon_Tea.jpg"
+object = "Eva_Gonzalès_-_Afternoon_Tea_-_2018.5.McD_-_Dallas_Museum_of_Art.jpg"
 title = "Afternoon Tea"
 date = "c. 1875"
 medium = "Oil on canvas"
@@ -175,7 +177,8 @@ subjects = ["Domestic life", "Tea", "Terrace"]
 # ——— 16. Madam E.G. (1873) — Realism
 [[sub.gonzales.items]]
 museum = "wikimedia"
-object = "Eva_Gonzalès_-_Madam_EG.jpg"
+#object = "Eva_Gonzalès_-_Madam_EG.jpg"
+object = "Gonzales_-_Madam_E.G._(Madame_Emmanuel_Gonzalès,_the_Artist’s_Mother),_c._1873-1874,_76.20.1.jpg"
 title = "Madam E.G. (The Artist’s Mother)"
 date = "1873"
 medium = "Oil on canvas"
@@ -186,7 +189,8 @@ subjects = ["Portrait", "Mother", "Interior"]
 # ——— 17. The Spanish Lady (1882) — Impressionism
 [[sub.gonzales.items]]
 museum = "wikimedia"
-object = "Eva_Gonzalès_-_The_Spanish_Lady.jpg"
+#object = "Eva_Gonzalès_-_The_Spanish_Lady.jpg"
+object = "Eva_Gonzalès_-_L%27Espangole_(Portrait_de_la_modiste).jpg"
 title = "The Spanish Lady"
 date = "1882"
 medium = "Oil on canvas"
@@ -197,7 +201,8 @@ subjects = ["Costume", "Portrait", "Spanish theme"]
 # ——— 18. Sleep (c. 1877–78) — Impressionism
 [[sub.gonzales.items]]
 museum = "wikimedia"
-object = "Eva_Gonzalès_-_Sleep.jpg"
+#object = "Eva_Gonzalès_-_Sleep.jpg"
+object = "Eva_Gonzales_Le_Sommeil.jpg"
 title = "Sleep"
 date = "c. 1877–1878"
 medium = "Oil on canvas"
