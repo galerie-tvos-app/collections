@@ -18,7 +18,7 @@ medium = "Color lithograph"
 classification = "Print"
 subjects = ["Allegory", "Seasons", "Woman", "Flowers"]
 style = "Art Nouveau"
-focusY = 60
+focusY = 35
 
 [[sub.the-seasons.items]]
 museum = "wikimedia"
