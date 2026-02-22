@@ -180,7 +180,7 @@ medium = "Oil on canvas"
 classification = "Painting"
 subjects = ["Religious", "Madonna", "Lilies", "Slavic"]
 style = "Art Nouveau"
-focus_y = 30
+focusY = 30
 
 # ── The Slav Epic (selections) ──────────────────────────────────────
 
