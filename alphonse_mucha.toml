@@ -29,6 +29,7 @@ medium = "Color lithograph"
 classification = "Print"
 subjects = ["Allegory", "Seasons", "Woman", "Nature"]
 style = "Art Nouveau"
+focusY = 15
 
 [[sub.the-seasons.items]]
 museum = "wikimedia"
@@ -50,6 +51,7 @@ medium = "Color lithograph"
 classification = "Print"
 subjects = ["Allegory", "Seasons", "Woman", "Snow"]
 style = "Art Nouveau"
+focusY = 40
 
 # ── Theatre Posters ─────────────────────────────────────────────────
 
@@ -78,7 +80,7 @@ medium = "Color lithograph"
 classification = "Poster"
 subjects = ["Theatre", "Sarah Bernhardt", "Woman"]
 style = "Art Nouveau"
-focusY = 40
+focusY = 35
 
 [[sub.theatre-posters.items]]
 museum = "wikimedia"
@@ -137,7 +139,7 @@ medium = "Color lithograph"
 classification = "Poster"
 subjects = ["Advertising", "Woman", "Drink"]
 style = "Art Nouveau"
-focusY = 30
+focusY = 27
 
 [[sub.decorative.items]]
 museum = "wikimedia"
