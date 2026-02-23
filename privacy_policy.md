@@ -13,11 +13,11 @@ We built Galerie to help people enjoy art on their own devices — not to collec
 
 **Museum Art** — Artwork and related information accessed through museum and website APIs (for example, images, titles, artists, and descriptions provided by museums and cultural institutions).
 
-**Art Styles** — Categories, movements, or aesthetic groupings used to organize and describe artwork (for example, "Impressionism," "Abstract Expressionism," or "Minimalism").
+**Art Styles** — Categories, movements, subjects, museum sources, aesthetic categories, or other groupings used to organize and describe artwork (for example, "Impressionism," "Abstract Expressionism," or "Landscapes").
 
 **Community Ratings** — Ratings, preferences, or feedback that you and other Galerie users provide about Museum Art and Art Styles.
 
-**App Analytics** — Anonymous, technical data about how the app is performing. This includes crash reports, bug diagnostics, memory and CPU usage, screen load times, network latency, error logs, usability issues (such as unresponsive UI elements or failed user actions), and aggregate feature usage counts.
+**App Analytics** — Anonymous, technical data about how the app is performing. This includes crash reports, bug diagnostics, memory and CPU usage, screen load times, network latency, error logs, device types, OS versions, usability issues (such as unresponsive UI elements or failed user actions), aggregate feature usage counts, and other application related performance measures.
 
 ---
 
@@ -25,23 +25,25 @@ We built Galerie to help people enjoy art on their own devices — not to collec
 
 ### Your Art never leaves your device
 
-Your Art stays on your device. Period. We never upload, transfer, copy, or store Your Art on our servers. The app works with Your Art locally — it never passes through us.
+Your Art stays within your iCloud account. We never upload, transfer, copy, or store Your Art on our servers. The app works with Your Art on your devices and within your iCloud account.  
+
+### Art Styles
+
+We categorize Your Art on to help you discover your art through the Galarie interface.  Your Art's styles remain within your devices and your iCloud account.
 
 ### We never collect direct or indirect identifiers about you
 
-We do not collect your name, email address, phone number, physical address, IP address, device ID, or any other information that directly or indirectly identifies who you are. We don't build profiles, track you across apps, or use advertising identifiers.
+We do not collect your name, email address, phone number, physical address, IP address, device ID, or any other information that directly or indirectly identifies who you are. 
 
 ### Community Ratings are never tied to you
 
-When you submit a Community Rating, it is stored anonymously. We have no way to connect a rating back to you or your device. Ratings exist only as part of the broader community's collective feedback.
+When you submit a Community Rating, it is stored anonymously. We have no way to connect a rating back to you. Ratings exist only as part of the broader community's collective feedback.
 
 ---
 
-## What We Do Collect
-
 ### Community Ratings
 
-We collect Community Ratings to help surface artwork and styles that the community finds interesting. These ratings are anonymous — they are not linked to any individual user, device, or account.
+We collect Community Ratings regarding Museum Art and Art Styles to help surface artwork and styles that the community finds interesting. These ratings are anonymous — they are not linked to any individual user.
 
 ### App Analytics
 
