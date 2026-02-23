@@ -18,7 +18,7 @@ medium = "Color lithograph"
 classification = "Print"
 subjects = ["Allegory", "Seasons", "Woman", "Flowers"]
 style = "Art Nouveau"
-focusY = 25
+focusY = 30
 
 [[sub.the-seasons.items]]
 museum = "wikimedia"
@@ -39,6 +39,7 @@ medium = "Color lithograph"
 classification = "Print"
 subjects = ["Allegory", "Seasons", "Woman", "Harvest"]
 style = "Art Nouveau"
+focusY = 30
 
 [[sub.the-seasons.items]]
 museum = "wikimedia"
@@ -66,6 +67,7 @@ medium = "Color lithograph"
 classification = "Poster"
 subjects = ["Theatre", "Sarah Bernhardt", "Byzantine"]
 style = "Art Nouveau"
+focusY = 30
 
 [[sub.theatre-posters.items]]
 museum = "wikimedia"
@@ -76,6 +78,7 @@ medium = "Color lithograph"
 classification = "Poster"
 subjects = ["Theatre", "Sarah Bernhardt", "Woman"]
 style = "Art Nouveau"
+focusY = 40
 
 [[sub.theatre-posters.items]]
 museum = "wikimedia"
@@ -86,6 +89,7 @@ medium = "Color lithograph"
 classification = "Poster"
 subjects = ["Theatre", "Sarah Bernhardt", "Renaissance"]
 style = "Art Nouveau"
+focusY = 30
 
 # ── Decorative Panels & Commercial Art ──────────────────────────────
 
@@ -133,6 +137,7 @@ medium = "Color lithograph"
 classification = "Poster"
 subjects = ["Advertising", "Woman", "Drink"]
 style = "Art Nouveau"
+focusY = 30
 
 [[sub.decorative.items]]
 museum = "wikimedia"
