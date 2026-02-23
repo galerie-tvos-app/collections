@@ -15,7 +15,7 @@ We built Galerie to help people enjoy art on their own devices — not to collec
 
 **Art Styles** — Categories, movements, subjects, museum sources, aesthetic categories, or other groupings used to organize and describe artwork (for example, "Impressionism," "Abstract Expressionism," or "Landscapes").
 
-**Community Ratings** — Ratings, preferences, or feedback that you and other Galerie users provide about Museum Art and Art Styles.
+**Community Ratings** — Ratings, preferences, art selections, or feedback that you and other Galerie users provide about Museum Art and Art Styles.
 
 **App Analytics** — Anonymous, technical data about how the app is performing. This includes crash reports, bug diagnostics, memory and CPU usage, screen load times, network latency, error logs, device types, OS versions, usability issues (such as unresponsive UI elements or failed user actions), aggregate feature usage counts, and other application related performance measures.
 
