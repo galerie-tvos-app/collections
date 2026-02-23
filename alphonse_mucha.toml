@@ -29,7 +29,7 @@ medium = "Color lithograph"
 classification = "Print"
 subjects = ["Allegory", "Seasons", "Woman", "Nature"]
 style = "Art Nouveau"
-focusY = 20
+focusY = 21
 
 [[sub.the-seasons.items]]
 museum = "wikimedia"
@@ -40,7 +40,7 @@ medium = "Color lithograph"
 classification = "Print"
 subjects = ["Allegory", "Seasons", "Woman", "Harvest"]
 style = "Art Nouveau"
-focusY = 30
+focusY = 29
 
 [[sub.the-seasons.items]]
 museum = "wikimedia"
@@ -139,7 +139,7 @@ medium = "Color lithograph"
 classification = "Poster"
 subjects = ["Advertising", "Woman", "Drink"]
 style = "Art Nouveau"
-focusY = 27
+focusY = 26
 
 [[sub.decorative.items]]
 museum = "wikimedia"
