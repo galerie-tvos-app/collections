@@ -1,0 +1,318 @@
+[collection]
+name = "Degas"
+description = "Movement, modernity and unflinching observation — Degas captures fleeting moments of Parisian life through dancers, racehorses, laundresses, and bathers with radical compositions and masterful draftsmanship."
+
+# ─────────────────────────────────────────────
+# Edgar Degas
+# ─────────────────────────────────────────────
+
+[sub.degas]
+name = "Edgar Degas"
+description = "Unflinching eye, radical composition, and the poetry of movement — Degas redefines modern life."
+default_artist = "Edgar Degas"
+
+# ═════════════════════════════════════════════
+# DANCE & BALLET
+# ═════════════════════════════════════════════
+
+[[sub.degas.items]]
+museum = "met"
+object = "438817"
+# The Dance Class, 1874
+
+# Bundled with the app
+#[[sub.degas.items]]
+#museum = "met"
+#object = "436155"
+# The Rehearsal of the Ballet Onstage, ca. 1874
+
+[[sub.degas.items]]
+museum = "met"
+object = "436140"
+# Dancers, Pink and Green, ca. 1890
+
+[[sub.degas.items]]
+museum = "met"
+object = "436139"
+# Dancers Practicing at the Barre, 1877
+
+[[sub.degas.items]]
+museum = "nga"
+#object = "46597"
+object = "8677586b-668f-42c9-b76c-f4ab7bdac80d"
+title = "Four Dancers"
+date = "c. 1899"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Dance", "Ballet"]
+
+[[sub.degas.items]]
+museum = "nga"
+object = "165300"
+title = "The Dance Class"
+date = "c. 1873"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Dance", "Ballet"]
+
+[[sub.degas.items]]
+museum = "nga"
+object = "93045"
+title = "The Dance Lesson"
+date = "c. 1879"
+medium = "Oil on panel"
+classification = "Painting"
+subjects = ["Dance", "Ballet"]
+
+[[sub.degas.items]]
+museum = "aic"
+object = "81531"
+# On the Stage, 1876–77
+
+[[sub.degas.items]]
+museum = "aic"
+object = "14574"
+# Henri Degas and His Niece Lucie Degas, 1875–76
+
+[[sub.degas.items]]
+museum = "wikimedia"
+object = "Ballet_(L'Étoile),_Edgar_Degas.jpg"
+title = "L'Étoile (The Star)"
+date = "c. 1876–77"
+medium = "Pastel over monotype on paper"
+classification = "Pastel"
+subjects = ["Dance", "Ballet", "Performance"]
+
+[[sub.degas.items]]
+museum = "wikimedia"
+object = "Edgar_Degas_-_The_Ballet_Class_-_Google_Art_Project.jpg"
+title = "The Ballet Class (La Classe de danse)"
+date = "1871–74"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Dance", "Ballet"]
+
+[[sub.degas.items]]
+museum = "wikimedia"
+object = "Edgar_Degas_-_The_Rehearsal_-_Google_Art_Project.jpg"
+title = "The Rehearsal"
+date = "c. 1873–78"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Dance", "Ballet"]
+
+[[sub.degas.items]]
+museum = "wikimedia"
+object = "Edgar_Degas_-_Dancers_at_The_Bar_-_Google_Art_Project.jpg"
+title = "Dancers at the Barre"
+date = "c. 1900"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Dance", "Ballet"]
+
+[[sub.degas.items]]
+museum = "wikimedia"
+object = "Edgar_Degas_-_Blue_Dancers_-_Google_Art_Project.jpg"
+title = "Blue Dancers (Danseuses bleues)"
+date = "c. 1899"
+medium = "Pastel on paper"
+classification = "Pastel"
+subjects = ["Dance", "Ballet"]
+
+[[sub.degas.items]]
+museum = "wikimedia"
+object = "Edgar_Degas_-_Two_Dancers_on_a_Stage_-_Google_Art_Project.jpg"
+title = "Two Dancers on a Stage"
+date = "c. 1874"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Dance", "Ballet", "Performance"]
+
+# ═════════════════════════════════════════════
+# MODERN LIFE — Cafés, Laundresses, Milliners
+# ═════════════════════════════════════════════
+
+[[sub.degas.items]]
+museum = "wikimedia"
+object = "Edgar_Degas_-_In_a_Café_-_Google_Art_Project_2.jpg"
+title = "L'Absinthe (In a Café)"
+date = "1875–76"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Genre", "Café", "Urban"]
+
+[[sub.degas.items]]
+museum = "aic"
+object = "14572"
+# The Millinery Shop, ca. 1879–86
+
+[[sub.degas.items]]
+museum = "nga"
+object = "53532"
+title = "Woman Ironing"
+date = "begun c. 1876, completed c. 1887"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Genre", "Labor", "Laundress"]
+
+[[sub.degas.items]]
+museum = "wikimedia"
+object = "Edgar_Germain_Hilaire_Degas_066.jpg"
+title = "Women Ironing (Les Repasseuses)"
+date = "c. 1884–86"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Genre", "Labor", "Laundress"]
+
+[[sub.degas.items]]
+museum = "met"
+object = "436162"
+# Sulking, ca. 1870
+
+[[sub.degas.items]]
+museum = "met"
+object = "436122"
+# The Collector of Prints, 1866
+
+# ═════════════════════════════════════════════
+# PORTRAITS & FAMILY
+# ═════════════════════════════════════════════
+
+[[sub.degas.items]]
+museum = "wikimedia"
+object = "Edgar_Degas_-_The_Bellelli_Family_-_Google_Art_Project.jpg"
+title = "The Bellelli Family (La Famille Bellelli)"
+date = "c. 1858–67"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Portrait", "Family"]
+
+[[sub.degas.items]]
+museum = "wikimedia"
+object = "Edgar_Degas_-_Place_de_la_Concorde_-_Google_Art_Project.jpg"
+title = "Place de la Concorde (Vicomte Lepic and His Daughters)"
+date = "1875"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Portrait", "Urban", "Genre"]
+persons = ["Vicomte Lepic"]
+
+[[sub.degas.items]]
+museum = "met"
+object = "436158"
+# Self-Portrait, ca. 1855–56
+
+# ═════════════════════════════════════════════
+# RACEHORSES & SPORT
+# ═════════════════════════════════════════════
+
+[[sub.degas.items]]
+museum = "nga"
+object = "1157"
+title = "The Races (Before the Race)"
+date = "c. 1871–72"
+medium = "Oil on panel"
+classification = "Painting"
+subjects = ["Horses", "Racing", "Sport"]
+
+[[sub.degas.items]]
+museum = "wikimedia"
+object = "Edgar_Degas_-_At_the_Races_-_Google_Art_Project.jpg"
+title = "At the Races"
+date = "c. 1877–80"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Horses", "Racing", "Sport"]
+
+[[sub.degas.items]]
+museum = "wikimedia"
+object = "Edgar_Degas_-_Racehorses_at_Longchamp_-_Google_Art_Project.jpg"
+title = "Racehorses at Longchamp"
+date = "1871"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Horses", "Racing", "Landscape"]
+
+# ═════════════════════════════════════════════
+# BATHERS & NUDES
+# ═════════════════════════════════════════════
+
+[[sub.degas.items]]
+museum = "wikimedia"
+object = "Edgar_Degas_-_The_Tub_-_Google_Art_Project.jpg"
+title = "The Tub"
+date = "1886"
+medium = "Pastel on card"
+classification = "Pastel"
+subjects = ["Nude", "Bather"]
+
+[[sub.degas.items]]
+museum = "wikimedia"
+object = "Edgar_Degas_-_After_the_Bath,_Woman_Drying_Herself_-_Google_Art_Project.jpg"
+title = "After the Bath, Woman Drying Herself"
+date = "c. 1890–95"
+medium = "Pastel on paper"
+classification = "Pastel"
+subjects = ["Nude", "Bather"]
+
+# ═════════════════════════════════════════════
+# THEATRE, MUSIC & PERFORMANCE
+# ═════════════════════════════════════════════
+
+[[sub.degas.items]]
+museum = "wikimedia"
+object = "Edgar_Degas_-_The_Orchestra_at_the_Opera_-_Google_Art_Project.jpg"
+title = "The Orchestra of the Opéra"
+date = "c. 1870"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Music", "Theatre", "Portrait"]
+
+[[sub.degas.items]]
+museum = "met"
+object = "436159"
+# The Singer in Green, ca. 1884
+
+[[sub.degas.items]]
+museum = "wikimedia"
+object = "Edgar_Degas_-_Miss_La_La_at_the_Cirque_Fernando_-_Google_Art_Project.jpg"
+title = "Miss La La at the Cirque Fernando"
+date = "1879"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Performance", "Circus", "Figure"]
+
+# ═════════════════════════════════════════════
+# COTTON OFFICE & NEW ORLEANS
+# ═════════════════════════════════════════════
+
+[[sub.degas.items]]
+museum = "wikimedia"
+object = "Edgar_Degas_-_A_Cotton_Office_in_New_Orleans_-_Google_Art_Project.jpg"
+title = "A Cotton Office in New Orleans"
+date = "1873"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Genre", "Commerce", "Portrait"]
+
+# ═════════════════════════════════════════════
+# SCULPTURE
+# ═════════════════════════════════════════════
+
+[[sub.degas.items]]
+museum = "nga"
+object = "110292"
+title = "Little Dancer Aged Fourteen"
+date = "1878–81"
+medium = "Pigmented beeswax, clay, metal armature, rope, human hair, silk ribbon, cotton faille bodice, cotton and silk tutu, linen slippers, on wooden base"
+classification = "Sculpture"
+subjects = ["Dance", "Ballet", "Sculpture", "Figure"]
+
+# ═════════════════════════════════════════════
+# LANDSCAPE
+# ═════════════════════════════════════════════
+
+[[sub.degas.items]]
+museum = "aic"
+object = "151507"
+# Landscape with Smokestacks, c. 1890
