@@ -23,7 +23,7 @@ We built Galerie to help people enjoy art on their own devices — not to collec
 
 ## What We Promise
 
-### Your Art never leaves your device
+### Your Art never leaves your control
 
 Your Art stays within your iCloud account. We never upload, transfer, copy, or store Your Art on our servers. The app works with Your Art on your devices and within your iCloud account.  
 
