@@ -1,81 +1,222 @@
 [collection]
-name = "cubism"
+name = "Cubism"
 description = "Objects from multiple viewpoints simultaneously in fragmented, geometric planes."
+
 # ─────────────────────────────────────────────
-# Camille Picasso
+# Pablo Picasso
+# NOTE: Picasso died 1973 — works under copyright until ~2043.
+# MET, AIC, and NGA images are NOT open access.
+# All MET object IDs verified as isPublicDomain = false.
+# Entries below are commented out for reference only.
 # ─────────────────────────────────────────────
 
 [sub.picasso]
 name = "Pablo Picasso"
-description = "Not used."
-default_artist = "Pable Picasso"
+description = "Co-inventor of Cubism, Picasso shattered representational tradition and redefined modern art."
+default_artist = "Pablo Picasso"
 
-# The Actor: 488690 (Accession: 52.175)
-#[[sub.picasso.items]]
-#museum = "met"
-#object = "488690"
-#style = "Cubism"
+# ── MET works — NOT public domain (verified via API) ──
+# 488690  The Actor, 1904–05
+# 486162  At the Lapin Agile, 1905
+# 488221  Gertrude Stein, 1905–06
+# 488214  The Blind Man's Meal, 1903
+# 488220  Woman in White, 1923
+# 489972  Reading at a Table, 1934
+# 488292  Woman in an Armchair, 1927
+# 333903  Jardin de Paris (Design for a Poster), 1901
 
-# At the Lapin Agile: 486162 (Accession: 1992.391)
-#[[sub.picasso.items]]
-#museum = "met"
-#object = "486162"
-#style = "Cubism"
+# ── AIC works — NOT open access (© Estate of Pablo Picasso / ARS) ──
+# 28067   The Old Guitarist, 1903–04
+# 111060  Daniel-Henry Kahnweiler, 1910
 
-# Gertrude Stein: 488221 (Accession: 47.106)
-#[[sub.picasso.items]]
-#museum = "met"
-#object = "488221"
-#style = "Cubism"
+# ─────────────────────────────────────────────
+# Juan Gris
+# Died 1927 — works fully in public domain.
+# ─────────────────────────────────────────────
 
-# The Blind Man's Meal: 488214 (Accession: 50.188)
-#[[sub.picasso.items]]
-#museum = "met"
-#object = "488214"
-#style = "Cubism"
+[sub.gris]
+name = "Juan Gris"
+description = "Synthetic Cubism's most rigorous voice — Gris refined Cubist fragmentation into luminous, architectonic still lifes."
+default_artist = "Juan Gris"
 
-# Woman in White: 488220 (Accession: 53.140)
-#[[sub.picasso.items]]
-#museum = "met"
-#object = "488220"
-#style = "Cubism"
+# ═════════════════════════════════════════════
+# STILL LIFE & TABLETOP
+# ═════════════════════════════════════════════
 
-#Reading at a Table: 489972 (Accession: 1994.405)
-#[[sub.picasso.items]]
-#museum = "met"
-#object = "489972"
-#style = "Cubism"
+[[sub.gris.items]]
+museum = "nga"
+# object = "56101"
+object = "dd10b4c4-bc3b-430f-8c6f-918a3ef2cb3b"
+title = "Fantômas"
+date = "1915"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Still Life", "Newspaper", "Tabletop"]
+style = ["Cubism"]
 
-# Woman in an Armchair: 488292 (Accession: 1996.403.5)
-#[[sub.picasso.items]]
-#museum = "met"
-#object = "488292"
-#style = "Cubism"
+[[sub.gris.items]]
+museum = "nga"
+# object = "163527"
+object = "cceba27f-17c0-4f1c-9cd1-620519c09342"
+title = "Ace of Clubs and Four of Diamonds"
+date = "1914"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Still Life", "Cards", "Tabletop"]
+style = ["Cubism"]
 
-# Still Life with a Bottle of Rum: 
-#[[sub.picasso.items]]
-#museum = "met"
+[[sub.gris.items]]
+museum = "nga"
+# object = "166491"
+object = "d4ca2b12-bdf1-4360-a3de-4fb2b1927481"
+title = "Glass and Checkerboard"
+date = "c. 1917"
+medium = "Graphite and wax crayon on wove paper"
+classification = "Drawing"
+subjects = ["Still Life", "Tabletop"]
+style = ["Cubism"]
 
-#style = "Cubism"
+[[sub.gris.items]]
+museum = "wikimedia"
+object = "Juan_Gris_-_Guitar_on_a_table_-_Google_Art_Project.jpg"
+title = "Guitar on a Table"
+date = "1915"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Still Life", "Guitar", "Tabletop"]
+style = ["Cubism"]
 
-# Jardin de Paris (1901): 333903
-[[sub.picasso.items]]
-museum = "met"
-object = "333903"
-style = "Cubism"
+[[sub.gris.items]]
+museum = "wikimedia"
+object = "Juan_Gris_-_Guitare_et_journal_-_Google_Art_Project.jpg"
+title = "Guitar and Newspaper (Guitare et journal)"
+date = "1925"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Still Life", "Guitar", "Newspaper"]
+style = ["Cubism"]
 
-#Carles Casagemas (1900): 488211
+[[sub.gris.items]]
+museum = "wikimedia"
+object = "Juan_Gris_-_Glass_and_Water_Bottle_-_Google_Art_Project.jpg"
+title = "Glass and Water Bottle"
+date = "1914"
+medium = "Oil, charcoal, and collage on canvas"
+classification = "Painting"
+subjects = ["Still Life", "Tabletop"]
+style = ["Cubism"]
 
-#Hermen Anglada-Camarasa (1900): 488212
+[[sub.gris.items]]
+museum = "wikimedia"
+object = "Juan_Gris_-_Abstraction_-_Google_Art_Project.jpg"
+title = "Abstraction"
+date = "1915"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Abstract", "Still Life"]
+style = ["Cubism"]
 
-#Woman in Green (1901): 488215
+[[sub.gris.items]]
+museum = "wikimedia"
+object = "Juan_Gris_-_Damier_et_cartes_à_jouer_(Checkerboard_and_playing_cards)_-_Google_Art_Project.jpg"
+title = "Checkerboard and Playing Cards"
+date = "1915"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Still Life", "Cards", "Tabletop"]
+style = ["Cubism"]
 
-#Mother and Child by a Fountain (1901): 488217
+[[sub.gris.items]]
+museum = "wikimedia"
+object = "Juan_Gris_-_Frutero_y_periódico_-_Google_Art_Project.jpg"
+title = "Fruit Bowl and Newspaper (Frutero y periódico)"
+date = "1916"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Still Life", "Fruit", "Newspaper"]
+style = ["Cubism"]
 
-#Jardin de Paris (Poster Design) (1901): 333903
+# ═════════════════════════════════════════════
+# FIGURES & PORTRAITS
+# ═════════════════════════════════════════════
 
-#Mother and Child on a Bench (1901): 488216
+[[sub.gris.items]]
+museum = "aic"
+object = "8624"
+# Portrait of Pablo Picasso, 1912
+style = ["Cubism"]
 
-#The Frugal Repast (1904): 360057
+[[sub.gris.items]]
+museum = "wikimedia"
+object = "Juan_Gris_-_Portrait_of_Pablo_Picasso_-_Google_Art_Project.jpg"
+title = "Portrait of Pablo Picasso"
+date = "1912"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Portrait", "Figure"]
+style = ["Cubism"]
 
+[[sub.gris.items]]
+museum = "nga"
+# object = "52878"
+object = "797c26f2-139e-4518-8f54-2668b163f791"
+title = "Man and Woman on Bench"
+date = "c. 1914"
+medium = "Charcoal, gouache, and watercolor on wove paper"
+classification = "Drawing"
+subjects = ["Figure", "Genre"]
+style = ["Cubism"]
 
+# ═════════════════════════════════════════════
+# WINDOW & INTERIOR
+# ═════════════════════════════════════════════
+
+[[sub.gris.items]]
+museum = "wikimedia"
+object = "Juan_Gris_(José_Victoriano_González_Pérez),_Spanish_-_Still_Life_before_an_Open_Window,_Place_Ravignan_-_Google_Art_Project.jpg"
+title = "Still Life before an Open Window, Place Ravignan"
+date = "1915"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Still Life", "Window", "Interior"]
+style = ["Cubism"]
+
+# ─────────────────────────────────────────────
+# Robert Delaunay
+# Died 1941 — works in public domain.
+# ─────────────────────────────────────────────
+
+[sub.delaunay]
+name = "Robert Delaunay"
+description = "Pioneer of Orphism — Delaunay pushed Cubism toward pure color and rhythmic abstraction."
+default_artist = "Robert Delaunay"
+
+[[sub.delaunay.items]]
+museum = "wikimedia"
+object = "Robert_Delaunay_-_Nude_woman_reading_-_Google_Art_Project.jpg"
+title = "Nude Woman Reading"
+date = "1915"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Nude", "Figure", "Interior"]
+style = ["Orphism", "Cubism"]
+
+[[sub.delaunay.items]]
+museum = "wikimedia"
+object = "Robert_Delaunay,_1906,_L'homme_à_la_tulipe_(Portrait_de_Jean_Metzinger),_oil_on_canvas,_72.4_x_48.5_cm,_Museum_of_Fine_Arts,_Houston.jpg"
+title = "L'homme à la tulipe (Portrait de Jean Metzinger)"
+date = "1906"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Portrait", "Figure"]
+style = ["Proto Cubism"]
+
+[[sub.delaunay.items]]
+museum = "wikimedia"
+object = "Robert_Delaunay_-_Champs_de_Mars,_La_Tour_Rouge.jpg"
+title = "Champs de Mars: The Red Tower"
+date = "1911–23"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Eiffel Tower", "Urban", "Landscape"]
+style = ["Orphism", "Cubism"]
