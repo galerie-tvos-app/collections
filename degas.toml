@@ -351,8 +351,9 @@ title = "Little Dancer Aged Fourteen"
 date = "1878–81"
 medium = "Pigmented beeswax, clay, metal armature, rope, human hair, silk ribbon, cotton faille bodice, cotton and silk tutu, linen slippers, on wooden base"
 classification = "Sculpture"
-subjects = ["Dance", "Ballet", "Sculpture", "Figure"]
+subjects = ["Dance", "Ballet", "Sculpture", "Figure", "Girl"]
 style = ["Realism", "Impressionism"]
+focusY = 42
 
 # ═════════════════════════════════════════════
 # LANDSCAPE
