@@ -183,15 +183,6 @@ subjects = ["Genre", "Domestic", "Music"]
 
 [[sub.renoir.items]]
 museum = "wikimedia"
-object = "Auguste_Renoir_-_A_Girl_with_a_Watering_Can_-_Google_Art_Project.jpg"
-title = "A Girl with a Watering Can"
-date = "1876"
-medium = "Oil on canvas"
-classification = "Painting"
-subjects = ["Portrait", "Childhood", "Garden"]
-
-[[sub.renoir.items]]
-museum = "wikimedia"
 # object = "Pierre-Auguste_Renoir_-_The_Large_Bathers.jpg"
 object = "Pierre-Auguste_Renoir,_French_-_The_Large_Bathers_-_Google_Art_Project.jpg"
 title = "The Large Bathers (Les Grandes Baigneuses)"
