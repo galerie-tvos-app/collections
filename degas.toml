@@ -19,60 +19,74 @@ default_artist = "Edgar Degas"
 museum = "met"
 object = "438817"
 # The Dance Class, 1874
+# MET Open Access — Public Domain (CC0)
+style = ["Impressionism"]
 
-# Bundled with the app
-#[[sub.degas.items]]
-#museum = "met"
-#object = "436155"
+[[sub.degas.items]]
+museum = "met"
+object = "436155"
 # The Rehearsal of the Ballet Onstage, ca. 1874
+# MET Open Access — Public Domain (CC0)
+style = ["Impressionism"]
 
 [[sub.degas.items]]
 museum = "met"
 object = "436140"
 # Dancers, Pink and Green, ca. 1890
+# MET Open Access — Public Domain (CC0)
+style = ["Impressionism"]
 
 [[sub.degas.items]]
 museum = "met"
 object = "436139"
 # Dancers Practicing at the Barre, 1877
+# MET Open Access — Public Domain (CC0)
+style = ["Impressionism", "Realism"]
 
 [[sub.degas.items]]
 museum = "nga"
-#object = "46597"
+# object = "46597"
 object = "8677586b-668f-42c9-b76c-f4ab7bdac80d"
 title = "Four Dancers"
 date = "c. 1899"
 medium = "Oil on canvas"
 classification = "Painting"
 subjects = ["Dance", "Ballet"]
+style = ["Impressionism"]
 
 [[sub.degas.items]]
 museum = "nga"
-object = "165300"
+# object = "165300"
+object = "5aabd016-748d-4f81-855d-7963dc5a62b4"
 title = "The Dance Class"
 date = "c. 1873"
 medium = "Oil on canvas"
 classification = "Painting"
 subjects = ["Dance", "Ballet"]
+style = ["Impressionism"]
 
 [[sub.degas.items]]
 museum = "nga"
-object = "93045"
+# object = "93045"
+object = "fd747ab9-ce9d-41d9-b8d4-9004ec37ee82"
 title = "The Dance Lesson"
 date = "c. 1879"
 medium = "Oil on panel"
 classification = "Painting"
 subjects = ["Dance", "Ballet"]
+style = ["Impressionism"]
 
 [[sub.degas.items]]
 museum = "aic"
 object = "81531"
 # On the Stage, 1876–77
+style = ["Impressionism"]
 
 [[sub.degas.items]]
 museum = "aic"
 object = "14574"
 # Henri Degas and His Niece Lucie Degas, 1875–76
+style = ["Impressionism", "Realism"]
 
 [[sub.degas.items]]
 museum = "wikimedia"
@@ -82,6 +96,7 @@ date = "c. 1876–77"
 medium = "Pastel over monotype on paper"
 classification = "Pastel"
 subjects = ["Dance", "Ballet", "Performance"]
+style = ["Impressionism"]
 
 [[sub.degas.items]]
 museum = "wikimedia"
@@ -91,6 +106,7 @@ date = "1871–74"
 medium = "Oil on canvas"
 classification = "Painting"
 subjects = ["Dance", "Ballet"]
+style = ["Impressionism"]
 
 [[sub.degas.items]]
 museum = "wikimedia"
@@ -100,6 +116,7 @@ date = "c. 1873–78"
 medium = "Oil on canvas"
 classification = "Painting"
 subjects = ["Dance", "Ballet"]
+style = ["Impressionism"]
 
 [[sub.degas.items]]
 museum = "wikimedia"
@@ -109,6 +126,7 @@ date = "c. 1900"
 medium = "Oil on canvas"
 classification = "Painting"
 subjects = ["Dance", "Ballet"]
+style = ["Impressionism"]
 
 [[sub.degas.items]]
 museum = "wikimedia"
@@ -118,6 +136,7 @@ date = "c. 1899"
 medium = "Pastel on paper"
 classification = "Pastel"
 subjects = ["Dance", "Ballet"]
+style = ["Impressionism"]
 
 [[sub.degas.items]]
 museum = "wikimedia"
@@ -127,6 +146,7 @@ date = "c. 1874"
 medium = "Oil on canvas"
 classification = "Painting"
 subjects = ["Dance", "Ballet", "Performance"]
+style = ["Impressionism"]
 
 # ═════════════════════════════════════════════
 # MODERN LIFE — Cafés, Laundresses, Milliners
@@ -140,20 +160,24 @@ date = "1875–76"
 medium = "Oil on canvas"
 classification = "Painting"
 subjects = ["Genre", "Café", "Urban"]
+style = ["Impressionism", "Realism"]
 
 [[sub.degas.items]]
 museum = "aic"
 object = "14572"
 # The Millinery Shop, ca. 1879–86
+style = ["Impressionism"]
 
 [[sub.degas.items]]
 museum = "nga"
-object = "53532"
+# object = "53532"
+object = "05a612fd-23ad-4862-8ba2-84811c563c5a"
 title = "Woman Ironing"
 date = "begun c. 1876, completed c. 1887"
 medium = "Oil on canvas"
 classification = "Painting"
 subjects = ["Genre", "Labor", "Laundress"]
+style = ["Impressionism", "Realism"]
 
 [[sub.degas.items]]
 museum = "wikimedia"
@@ -163,16 +187,21 @@ date = "c. 1884–86"
 medium = "Oil on canvas"
 classification = "Painting"
 subjects = ["Genre", "Labor", "Laundress"]
+style = ["Impressionism", "Realism"]
 
 [[sub.degas.items]]
 museum = "met"
 object = "436162"
 # Sulking, ca. 1870
+# MET Open Access — Public Domain (CC0)
+style = ["Impressionism", "Realism"]
 
 [[sub.degas.items]]
 museum = "met"
 object = "436122"
 # The Collector of Prints, 1866
+# MET Open Access — Public Domain (CC0)
+style = ["Realism"]
 
 # ═════════════════════════════════════════════
 # PORTRAITS & FAMILY
@@ -186,6 +215,7 @@ date = "c. 1858–67"
 medium = "Oil on canvas"
 classification = "Painting"
 subjects = ["Portrait", "Family"]
+style = ["Realism"]
 
 [[sub.degas.items]]
 museum = "wikimedia"
@@ -196,11 +226,14 @@ medium = "Oil on canvas"
 classification = "Painting"
 subjects = ["Portrait", "Urban", "Genre"]
 persons = ["Vicomte Lepic"]
+style = ["Impressionism", "Realism"]
 
 [[sub.degas.items]]
 museum = "met"
 object = "436158"
 # Self-Portrait, ca. 1855–56
+# MET Open Access — Public Domain (CC0)
+style = ["Realism"]
 
 # ═════════════════════════════════════════════
 # RACEHORSES & SPORT
@@ -208,12 +241,14 @@ object = "436158"
 
 [[sub.degas.items]]
 museum = "nga"
-object = "1157"
+# object = "1157"
+object = "365b5dfe-d315-4c52-9fed-e68b307f9ac0"
 title = "The Races (Before the Race)"
 date = "c. 1871–72"
 medium = "Oil on panel"
 classification = "Painting"
 subjects = ["Horses", "Racing", "Sport"]
+style = ["Impressionism"]
 
 [[sub.degas.items]]
 museum = "wikimedia"
@@ -223,6 +258,7 @@ date = "c. 1877–80"
 medium = "Oil on canvas"
 classification = "Painting"
 subjects = ["Horses", "Racing", "Sport"]
+style = ["Impressionism"]
 
 [[sub.degas.items]]
 museum = "wikimedia"
@@ -232,6 +268,7 @@ date = "1871"
 medium = "Oil on canvas"
 classification = "Painting"
 subjects = ["Horses", "Racing", "Landscape"]
+style = ["Impressionism"]
 
 # ═════════════════════════════════════════════
 # BATHERS & NUDES
@@ -245,6 +282,7 @@ date = "1886"
 medium = "Pastel on card"
 classification = "Pastel"
 subjects = ["Nude", "Bather"]
+style = ["Impressionism"]
 
 [[sub.degas.items]]
 museum = "wikimedia"
@@ -254,6 +292,7 @@ date = "c. 1890–95"
 medium = "Pastel on paper"
 classification = "Pastel"
 subjects = ["Nude", "Bather"]
+style = ["Impressionism"]
 
 # ═════════════════════════════════════════════
 # THEATRE, MUSIC & PERFORMANCE
@@ -267,11 +306,14 @@ date = "c. 1870"
 medium = "Oil on canvas"
 classification = "Painting"
 subjects = ["Music", "Theatre", "Portrait"]
+style = ["Realism", "Impressionism"]
 
 [[sub.degas.items]]
 museum = "met"
 object = "436159"
 # The Singer in Green, ca. 1884
+# MET Open Access — Public Domain (CC0)
+style = ["Impressionism"]
 
 [[sub.degas.items]]
 museum = "wikimedia"
@@ -281,6 +323,7 @@ date = "1879"
 medium = "Oil on canvas"
 classification = "Painting"
 subjects = ["Performance", "Circus", "Figure"]
+style = ["Impressionism", "Realism"]
 
 # ═════════════════════════════════════════════
 # COTTON OFFICE & NEW ORLEANS
@@ -294,6 +337,7 @@ date = "1873"
 medium = "Oil on canvas"
 classification = "Painting"
 subjects = ["Genre", "Commerce", "Portrait"]
+style = ["Realism"]
 
 # ═════════════════════════════════════════════
 # SCULPTURE
@@ -301,12 +345,14 @@ subjects = ["Genre", "Commerce", "Portrait"]
 
 [[sub.degas.items]]
 museum = "nga"
-object = "110292"
+# object = "110292"
+object = "7653abc0-4ae1-4f47-a10c-e58182106c4a"
 title = "Little Dancer Aged Fourteen"
 date = "1878–81"
 medium = "Pigmented beeswax, clay, metal armature, rope, human hair, silk ribbon, cotton faille bodice, cotton and silk tutu, linen slippers, on wooden base"
 classification = "Sculpture"
 subjects = ["Dance", "Ballet", "Sculpture", "Figure"]
+style = ["Realism", "Impressionism"]
 
 # ═════════════════════════════════════════════
 # LANDSCAPE
@@ -316,3 +362,4 @@ subjects = ["Dance", "Ballet", "Sculpture", "Figure"]
 museum = "aic"
 object = "151507"
 # Landscape with Smokestacks, c. 1890
+style = ["Impressionism"]
