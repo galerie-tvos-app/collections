@@ -35,6 +35,7 @@ museum = "met"
 object = "13211"
 title = "Arrangement in Flesh Colour and Black: Portrait of Theodore Duret"
 artist = "James McNeill Whistler"
+focusY = 24
 
 [sub.american-symbolism]
 name = "American Symbolism"
