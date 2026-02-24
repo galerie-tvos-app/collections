@@ -1,0 +1,205 @@
+[collection]
+name = "Storms"
+description = "The sublime terror and beauty of nature unleashed — shipwrecks, crashing waves, howling winds, and the fragile human presence against overwhelming elemental force."
+
+# ─────────────────────────────────────────────
+# J.M.W. Turner
+# Died 1851 — works fully in public domain.
+# ─────────────────────────────────────────────
+
+[sub.turner]
+name = "J.M.W. Turner"
+description = "Light dissolving into atmosphere — Turner transformed seascapes into visions of raw, luminous power."
+default_artist = "Joseph Mallord William Turner"
+
+[[sub.turner.items]]
+museum = "nga"
+# object = "1225"
+object = "c1e33e8d-ffe4-4d20-a267-87ffcf94f7ce"
+title = "Keelmen Heaving in Coals by Moonlight"
+date = "1835"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Sea", "Ships", "Moonlight", "Industry"]
+style = ["Romanticism"]
+
+[[sub.turner.items]]
+museum = "nga"
+# object = "46064"
+object = "4dc1a054-675f-4efa-bfcc-60d51bc3465d"
+title = "The Evening of the Deluge"
+date = "c. 1843"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Storm", "Deluge", "Biblical"]
+style = ["Romanticism"]
+
+[[sub.turner.items]]
+museum = "nga"
+# object = "1226"
+object = "4c91e476-adc9-4dbd-be17-0d81069af41b"
+title = "The Junction of the Thames and the Medway"
+date = "1807"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Sea", "Ships", "Storm"]
+style = ["Romanticism"]
+
+[[sub.turner.items]]
+museum = "wikimedia"
+object = "Joseph_Mallord_William_Turner_-_Staffa,_Fingal's_Cave_-_Google_Art_Project.jpg"
+title = "Staffa, Fingal's Cave"
+date = "1832"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Sea", "Storm", "Cave", "Steamship"]
+style = ["Romanticism"]
+
+[[sub.turner.items]]
+museum = "wikimedia"
+object = "Joseph_Mallord_William_Turner_-_A_Paddle-steamer_in_a_Storm_-_Google_Art_Project.jpg"
+title = "A Paddle-steamer in a Storm"
+date = "c. 1841"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Sea", "Storm", "Steamship"]
+style = ["Romanticism"]
+
+[[sub.turner.items]]
+museum = "wikimedia"
+object = "Slave-ship.jpg"
+title = "The Slave Ship (Slavers Throwing Overboard the Dead and Dying)"
+date = "1840"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Sea", "Storm", "Ships", "History"]
+style = ["Romanticism"]
+
+# ─────────────────────────────────────────────
+# Ivan Aivazovsky
+# Died 1900 — works fully in public domain.
+# ─────────────────────────────────────────────
+
+[sub.aivazovsky]
+name = "Ivan Aivazovsky"
+description = "Supreme master of the painted sea — Aivazovsky rendered waves, light, and tempests with breathtaking virtuosity."
+default_artist = "Ivan Aivazovsky"
+
+# MET 435570 (A Ship in a Stormy Sea) removed — 1×2 inch miniature, only 1665×967 px
+# MET 437979 (Ship by Moonlight) removed — 6×9 inches, only 3523×2291 px
+
+[[sub.aivazovsky.items]]
+museum = "wikimedia"
+object = "Hovhannes_Aivazovsky_-_The_Ninth_Wave_-_Google_Art_Project.jpg"
+title = "The Ninth Wave"
+date = "1850"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Sea", "Storm", "Shipwreck", "Survivors"]
+style = ["Romanticism"]
+# 5121×3356 px — Frame TV ready
+
+[[sub.aivazovsky.items]]
+museum = "wikimedia"
+object = "Aivazovsky_-_Wave.jpg"
+title = "Among the Waves"
+date = "1898"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Sea", "Storm", "Waves"]
+style = ["Romanticism"]
+
+[[sub.aivazovsky.items]]
+museum = "wikimedia"
+object = "Ivan_Constantinovich_Aivazovsky_-_The_Black_Sea_-_Google_Art_Project.jpg"
+title = "The Black Sea"
+date = "1881"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Sea", "Storm", "Waves"]
+style = ["Romanticism"]
+# 4000×2870 px — Frame TV ready
+
+# ─────────────────────────────────────────────
+# Winslow Homer
+# Died 1910 — works fully in public domain.
+# ─────────────────────────────────────────────
+
+[sub.homer]
+name = "Winslow Homer"
+description = "The raw Atlantic coast — Homer pits human endurance against the relentless, indifferent sea."
+default_artist = "Winslow Homer"
+
+[[sub.homer.items]]
+museum = "met"
+object = "11122"
+# The Gulf Stream, 1899 (reworked 1906)
+# MET Open Access — Public Domain (CC0)
+style = ["Realism"]
+
+[[sub.homer.items]]
+museum = "met"
+object = "11130"
+# Northeaster, 1895 (reworked 1901)
+# MET Open Access — Public Domain (CC0)
+style = ["Realism"]
+
+# ─────────────────────────────────────────────
+# Gustave Courbet
+# Died 1877 — works fully in public domain.
+# ─────────────────────────────────────────────
+
+[sub.courbet]
+name = "Gustave Courbet"
+description = "Brute materiality of the sea — Courbet painted waves as if sculpting them with a palette knife."
+default_artist = "Gustave Courbet"
+
+[[sub.courbet.items]]
+museum = "wikimedia"
+object = "Gustave_Courbet_-_The_Etretat_Cliffs_after_the_Storm_-_Google_Art_Project.jpg"
+title = "The Étretat Cliffs after the Storm"
+date = "1870"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Sea", "Cliffs", "Storm", "Coast"]
+style = ["Realism"]
+
+[[sub.courbet.items]]
+museum = "wikimedia"
+object = "Gustave_Courbet_-_The_Wave_-_Google_Art_Project.jpg"
+title = "The Wave"
+date = "c. 1869"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Sea", "Waves", "Storm"]
+style = ["Realism"]
+
+# ─────────────────────────────────────────────
+# Claude-Joseph Vernet
+# Died 1789 — works fully in public domain.
+# ─────────────────────────────────────────────
+
+[sub.vernet]
+name = "Claude-Joseph Vernet"
+description = "Theatrical grandeur of nature — Vernet staged storms as dramatic spectacles of divine power."
+default_artist = "Claude-Joseph Vernet"
+
+[[sub.vernet.items]]
+museum = "wikimedia"
+object = "Claude-Joseph_Vernet_-_A_Storm_on_a_Mediterranean_Coast_-_Google_Art_Project.jpg"
+title = "A Storm on a Mediterranean Coast"
+date = "1767"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Sea", "Storm", "Coast", "Ships"]
+style = ["Romanticism"]
+
+[[sub.vernet.items]]
+museum = "wikimedia"
+object = "A_Mountain_Landscape_With_An_Approaching_Storm_by_Claude-Joseph_Vernet.jpg"
+title = "A Mountain Landscape with an Approaching Storm"
+date = "1775"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Storm", "Mountain", "Landscape"]
+style = ["Romanticism"]
