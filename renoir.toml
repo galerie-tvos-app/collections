@@ -90,7 +90,7 @@ title = "By the Seashore"
 date = "1883"
 medium = "Oil on canvas"
 classification = "Painting"
-subjects = ["Portrait", "Seascape"]
+subjects = ["Portrait", "Seascape". "Woman"]
 
 [[sub.renoir.items]]
 museum = "wikimedia"
