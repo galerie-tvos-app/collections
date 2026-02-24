@@ -110,7 +110,7 @@ style = ["Impressionism"]
 
 [[sub.degas.items]]
 museum = "wikimedia"
-object = "Edgar_Degas_-_The_Rehearsal_-_Google_Art_Project.jpg"
+object = "Edgar_Germain_Hilaire_Degas_004.jpg"
 title = "The Rehearsal"
 date = "c. 1873–78"
 medium = "Oil on canvas"
@@ -120,7 +120,7 @@ style = ["Impressionism"]
 
 [[sub.degas.items]]
 museum = "wikimedia"
-object = "Edgar_Degas_-_Dancers_at_The_Bar_-_Google_Art_Project.jpg"
+object = "Edgar_Degas_-_Dancers_at_the_Barre_-_Google_Art_Project.jpg"
 title = "Dancers at the Barre"
 date = "c. 1900"
 medium = "Oil on canvas"
@@ -130,7 +130,7 @@ style = ["Impressionism"]
 
 [[sub.degas.items]]
 museum = "wikimedia"
-object = "Edgar_Degas_-_Blue_Dancers_-_Google_Art_Project.jpg"
+object = "Edgar_Germain_Hilaire_Degas_076.jpg"
 title = "Blue Dancers (Danseuses bleues)"
 date = "c. 1899"
 medium = "Pastel on paper"
@@ -140,7 +140,7 @@ style = ["Impressionism"]
 
 [[sub.degas.items]]
 museum = "wikimedia"
-object = "Edgar_Degas_-_Two_Dancers_on_a_Stage_-_Google_Art_Project.jpg"
+object = "Degas_-_Two_Dancers_on_a_Stage.jpg"
 title = "Two Dancers on a Stage"
 date = "c. 1874"
 medium = "Oil on canvas"
@@ -219,7 +219,7 @@ style = ["Realism"]
 
 [[sub.degas.items]]
 museum = "wikimedia"
-object = "Edgar_Degas_-_Place_de_la_Concorde_-_Google_Art_Project.jpg"
+object = "Edgar_Degas_Place_de_la_Concorde.jpg"
 title = "Place de la Concorde (Vicomte Lepic and His Daughters)"
 date = "1875"
 medium = "Oil on canvas"
@@ -252,7 +252,7 @@ style = ["Impressionism"]
 
 [[sub.degas.items]]
 museum = "wikimedia"
-object = "Edgar_Degas_-_At_the_Races_-_Google_Art_Project.jpg"
+object = "Edgar_Degas_-_At_the_Races.jpg"
 title = "At the Races"
 date = "c. 1877–80"
 medium = "Oil on canvas"
@@ -262,7 +262,7 @@ style = ["Impressionism"]
 
 [[sub.degas.items]]
 museum = "wikimedia"
-object = "Edgar_Degas_-_Racehorses_at_Longchamp_-_Google_Art_Project.jpg"
+object = "Edgar_Germain_Hilaire_Degas_059.jpg"
 title = "Racehorses at Longchamp"
 date = "1871"
 medium = "Oil on canvas"
@@ -317,7 +317,7 @@ style = ["Impressionism"]
 
 [[sub.degas.items]]
 museum = "wikimedia"
-object = "Edgar_Degas_-_Miss_La_La_at_the_Cirque_Fernando_-_Google_Art_Project.jpg"
+object = "Edgar_Degas,_Miss_La_La_at_the_Cirque_Fernando,_1879.jpg"
 title = "Miss La La at the Cirque Fernando"
 date = "1879"
 medium = "Oil on canvas"
@@ -331,7 +331,7 @@ style = ["Impressionism", "Realism"]
 
 [[sub.degas.items]]
 museum = "wikimedia"
-object = "Edgar_Degas_-_A_Cotton_Office_in_New_Orleans_-_Google_Art_Project.jpg"
+object = "Edgar_Germain_Hilaire_Degas_016.jpg"
 title = "A Cotton Office in New Orleans"
 date = "1873"
 medium = "Oil on canvas"
