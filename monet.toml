@@ -115,7 +115,7 @@ subjects = ["European", "Building"]
 [[sub.monet.items]]
 museum = "nga"
 #object = "46523"
-object = "9eae6258-ec1c-442f-b353-a89cff510113
+object = "9eae6258-ec1c-442f-b353-a89cff510113"
 title = "The Houses of Parliament, Sunset"
 date = "1903"
 medium = "Oil on canvas"
