@@ -1,0 +1,221 @@
+[collection]
+name = "Cassatt"
+description = "Tender intimacy and quiet radicalism — Cassatt elevates the private world of women and children into luminous, unflinching art, bridging American ambition with French Impressionism."
+
+# ─────────────────────────────────────────────
+# Mary Cassatt
+# ─────────────────────────────────────────────
+
+[sub.cassatt]
+name = "Mary Cassatt"
+description = "Tender observation, luminous color, and the poetry of intimacy — Cassatt redefines the domestic sphere as high art."
+default_artist = "Mary Cassatt"
+
+# ═════════════════════════════════════════════
+# MOTHER & CHILD
+# ═════════════════════════════════════════════
+
+[[sub.cassatt.items]]
+museum = "aic"
+object = "111442"
+# The Child's Bath, 1893
+style = ["Impressionism", "Japonism"]
+
+[[sub.cassatt.items]]
+museum = "met"
+object = "10425"
+# Young Mother Sewing, 1900
+# MET Open Access — Public Domain (CC0)
+style = ["Impressionism"]
+
+[[sub.cassatt.items]]
+museum = "met"
+object = "10400"
+# Mother and Child (Baby Getting Up from His Nap), c. 1899
+# MET Open Access — Public Domain (CC0)
+style = ["Impressionism"]
+
+[[sub.cassatt.items]]
+museum = "wikimedia"
+object = "Cassat1.jpg"
+title = "Mother and Child (The Oval Mirror)"
+date = "c. 1899"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Mother", "Child", "Domestic"]
+style = ["Impressionism"]
+
+[[sub.cassatt.items]]
+museum = "wikimedia"
+object = "Mary_Cassatt_-_Breakfast_in_Bed_-_Huntington_Library.jpg"
+title = "Breakfast in Bed"
+date = "1897"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Mother", "Child", "Domestic"]
+style = ["Impressionism"]
+
+[[sub.cassatt.items]]
+museum = "nga"
+# object = "46573"
+object = "6ee124da-972a-4f02-83b8-7dc09c33f17c"
+title = "Woman with a Sunflower"
+date = "c. 1905"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Mother", "Child", "Portrait"]
+style = ["Impressionism"]
+
+[[sub.cassatt.items]]
+museum = "nga"
+# object = "97663"
+object = "11262392-5f97-4c84-89b1-2239b14a20d0"
+title = "Young Girl at a Window"
+date = "c. 1883–84"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Portrait", "Domestic"]
+style = ["Impressionism"]
+
+# ═════════════════════════════════════════════
+# DOMESTIC LIFE & TEA
+# ═════════════════════════════════════════════
+
+[[sub.cassatt.items]]
+museum = "met"
+object = "10388"
+# The Cup of Tea, c. 1880–81
+# MET Open Access — Public Domain (CC0)
+style = ["Impressionism"]
+
+[[sub.cassatt.items]]
+museum = "met"
+object = "10391"
+# Lady at the Tea Table, 1883–85
+# MET Open Access — Public Domain (CC0)
+style = ["Impressionism"]
+
+# ═════════════════════════════════════════════
+# OPERA & THEATRE
+# ═════════════════════════════════════════════
+
+[[sub.cassatt.items]]
+museum = "wikimedia"
+object = "Mary_Stevenson_Cassatt_-_In_the_Loge_-_Google_Art_Project.jpg"
+title = "In the Loge (At the Opera)"
+date = "1878"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Theatre", "Opera", "Portrait"]
+style = ["Impressionism"]
+
+[[sub.cassatt.items]]
+museum = "wikimedia"
+object = "Mary_Stevenson_Cassatt,_American_-_Woman_with_a_Pearl_Necklace_in_a_Loge_-_Google_Art_Project.jpg"
+title = "Woman with a Pearl Necklace in a Loge"
+date = "1879"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Theatre", "Opera", "Portrait"]
+style = ["Impressionism"]
+
+# ═════════════════════════════════════════════
+# PORTRAITS
+# ═════════════════════════════════════════════
+
+[[sub.cassatt.items]]
+museum = "met"
+object = "10409"
+# Portrait of the Artist (Self-Portrait), 1878
+# MET Open Access — Public Domain (CC0)
+style = ["Impressionism"]
+
+[[sub.cassatt.items]]
+museum = "nga"
+# object = "33348"
+object = "d58c9873-5ed3-4205-9444-a239c54a1ab2"
+title = "Portrait of the Artist's Mother"
+date = "c. 1889"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Portrait", "Family"]
+style = ["Impressionism"]
+
+[[sub.cassatt.items]]
+museum = "nga"
+# object = "46572"
+object = "ab4c9497-a07d-4ea1-ae85-f0bd984ae36d"
+title = "Girl Arranging Her Hair"
+date = "1886"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Portrait", "Figure"]
+style = ["Impressionism", "Realism"]
+
+[[sub.cassatt.items]]
+museum = "nga"
+# object = "61368"
+object = "6dc9ca49-ea8c-4314-985a-ba2cfc3965cd"
+title = "Little Girl in a Blue Armchair"
+date = "1878"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Portrait", "Domestic", "Child"]
+style = ["Impressionism"]
+
+# ═════════════════════════════════════════════
+# OUTDOOR SCENES
+# ═════════════════════════════════════════════
+
+[[sub.cassatt.items]]
+museum = "nga"
+# object = "46569"
+object = "f8b6727d-6998-4f2a-9708-8694b9c69f54"
+title = "The Boating Party"
+date = "1893–94"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Leisure", "Boating", "Mother", "Child"]
+style = ["Impressionism", "Japonism"]
+
+[[sub.cassatt.items]]
+museum = "wikimedia"
+object = "Mary_Cassatt_-_Summertime_-_TFAA_1988.25.jpg"
+title = "Summertime"
+date = "c. 1894"
+medium = "Oil on canvas"
+classification = "Painting"
+subjects = ["Leisure", "Boating", "Outdoor"]
+style = ["Impressionism"]
+
+# ═════════════════════════════════════════════
+# PRINTS & WORKS ON PAPER
+# ═════════════════════════════════════════════
+
+[[sub.cassatt.items]]
+museum = "nga"
+# object = "5933"
+object = "35edd95b-3563-4550-be2e-70253cf2181b"
+title = "The Coiffure"
+date = "c. 1890–91"
+medium = "Drypoint and aquatint on laid paper"
+classification = "Print"
+subjects = ["Figure", "Nude", "Domestic"]
+style = ["Impressionism", "Japonism"]
+
+[[sub.cassatt.items]]
+museum = "aic"
+object = "13508"
+# The Letter, 1890–91
+style = ["Impressionism", "Japonism"]
+
+[[sub.cassatt.items]]
+museum = "nga"
+# object = "33364"
+object = "0d5ba756-9fa8-47b3-8951-879c25329f99"
+title = "Mary Cassatt at the Louvre: The Paintings Gallery"
+date = "c. 1879–80"
+medium = "Etching, aquatint, drypoint, and crayon électrique on laid paper"
+classification = "Print"
+subjects = ["Museum", "Portrait", "Urban"]
+style = ["Impressionism", "Realism"]
