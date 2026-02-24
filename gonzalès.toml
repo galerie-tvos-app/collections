@@ -43,7 +43,8 @@ subjects = ["Interior", "Reading", "Window light"]
 # ——— 4. Nanny and Child (1877–78) — Impressionism
 [[sub.gonzales.items]]
 museum = "nga"
-object = "2006.72.1"
+#object = "2006.72.1"
+onject = "8bffe28f-ef5b-4098-9356-ff5a5d70cbb1"
 title = "Nanny and Child"
 date = "1877–1878"
 medium = "Oil on canvas"
