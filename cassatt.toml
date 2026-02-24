@@ -22,19 +22,19 @@ object = "111442"
 style = ["Impressionism", "Japonism"]
 subjects = ["Nude", "Woman", "Child"]
 
-[[sub.cassatt.items]]
-museum = "met"
-object = "10425"
+#[[sub.cassatt.items]]
+#museum = "met"
+#object = "10425"
 # Young Mother Sewing, 1900
 # MET Open Access — Public Domain (CC0)
-style = ["Impressionism"]
+#style = ["Impressionism"]
 
-[[sub.cassatt.items]]
-museum = "met"
-object = "10400"
+#[[sub.cassatt.items]]
+#museum = "met"
+#object = "10400"
 # Mother and Child (Baby Getting Up from His Nap), c. 1899
 # MET Open Access — Public Domain (CC0)
-style = ["Impressionism"]
+#style = ["Impressionism"]
 
 [[sub.cassatt.items]]
 museum = "wikimedia"
@@ -82,19 +82,19 @@ style = ["Impressionism"]
 # DOMESTIC LIFE & TEA
 # ═════════════════════════════════════════════
 
-[[sub.cassatt.items]]
-museum = "met"
-object = "10388"
+#[[sub.cassatt.items]]
+#museum = "met"
+#object = "10388"
 # The Cup of Tea, c. 1880–81
 # MET Open Access — Public Domain (CC0)
-style = ["Impressionism"]
+#style = ["Impressionism"]
 
-[[sub.cassatt.items]]
-museum = "met"
-object = "10391"
+#[[sub.cassatt.items]]
+#museum = "met"
+#object = "10391"
 # Lady at the Tea Table, 1883–85
 # MET Open Access — Public Domain (CC0)
-style = ["Impressionism"]
+#style = ["Impressionism"]
 
 # ═════════════════════════════════════════════
 # OPERA & THEATRE
@@ -124,12 +124,12 @@ style = ["Impressionism"]
 # PORTRAITS
 # ═════════════════════════════════════════════
 
-[[sub.cassatt.items]]
-museum = "met"
-object = "10409"
+#[[sub.cassatt.items]]
+#museum = "met"
+#object = "10409"
 # Portrait of the Artist (Self-Portrait), 1878
 # MET Open Access — Public Domain (CC0)
-style = ["Impressionism"]
+#style = ["Impressionism"]
 
 [[sub.cassatt.items]]
 museum = "nga"
