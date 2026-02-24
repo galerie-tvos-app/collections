@@ -160,6 +160,7 @@ medium = "Oil on canvas"
 classification = "Painting"
 subjects = ["Portrait", "Fashion"]
 persons = ["Henriette Henriot"]
+focusY = 20
 
 [[sub.renoir.items]]
 museum = "wikimedia"
