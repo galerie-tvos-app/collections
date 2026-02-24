@@ -20,6 +20,7 @@ museum = "aic"
 object = "111442"
 # The Child's Bath, 1893
 style = ["Impressionism", "Japonism"]
+subjects = ["Nude", "Woman", "Child"]
 
 [[sub.cassatt.items]]
 museum = "met"
