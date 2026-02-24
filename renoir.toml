@@ -120,7 +120,7 @@ title = "Dance in the City (Danse à la ville)"
 date = "1883"
 medium = "Oil on canvas"
 classification = "Painting"
-subjects = ["Genre", "Dance"]
+subjects = ["Genre", "Dance", "Man", "Woman"]
 
 [[sub.renoir.items]]
 museum = "wikimedia"
@@ -129,7 +129,7 @@ title = "Dance in the Country (Danse à la campagne)"
 date = "1883"
 medium = "Oil on canvas"
 classification = "Painting"
-subjects = ["Genre", "Dance"]
+subjects = ["Genre", "Dance", "Man", "Woman"]
 
 [[sub.renoir.items]]
 museum = "met"
