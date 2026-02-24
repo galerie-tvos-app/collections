@@ -201,15 +201,15 @@ classification = "Painting"
 subjects = ["Nude", "Figure", "Interior"]
 style = ["Orphism", "Cubism"]
 
-[[sub.delaunay.items]]
-museum = "wikimedia"
-object = "Robert_Delaunay,_1906,_L'homme_à_la_tulipe_(Portrait_de_Jean_Metzinger),_oil_on_canvas,_72.4_x_48.5_cm,_Museum_of_Fine_Arts,_Houston.jpg"
-title = "L'homme à la tulipe (Portrait de Jean Metzinger)"
-date = "1906"
-medium = "Oil on canvas"
-classification = "Painting"
-subjects = ["Portrait", "Figure"]
-style = ["Proto Cubism"]
+#[[sub.delaunay.items]]
+#museum = "wikimedia"
+#object = "Robert_Delaunay,_1906,_L'homme_à_la_tulipe_(Portrait_de_Jean_Metzinger),_oil_on_canvas,_72.4_x_48.5_cm,_Museum_of_Fine_Arts,_Houston.jpg"
+#title = "L'homme à la tulipe (Portrait de Jean Metzinger)"
+#date = "1906"
+#medium = "Oil on canvas"
+#classification = "Painting"
+#subjects = ["Portrait", "Figure"]
+#style = ["Proto Cubism"]
 
 [[sub.delaunay.items]]
 museum = "wikimedia"
