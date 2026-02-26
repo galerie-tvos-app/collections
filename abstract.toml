@@ -2,183 +2,331 @@
 name = "Abstract & Modern"
 description = "A journey through the birth of Abstraction — from Kandinsky's explosive color to Mondrian's serene geometry."
 
+# ─────────────────────────────────────────────
+# Wassily Kandinsky
+# ─────────────────────────────────────────────
 [sub.kandinsky]
 name = "Kandinsky & Der Blaue Reiter"
 description = "The pioneer of pure Abstraction — color as music, form as feeling."
 default_artist = "Vasily Kandinsky"
 
-[[sub.kandinsky.items]]
-museum = "aic"
-object = "8983"
-title = "Painting with Troika"
-style = "Abstract"
-
-[[sub.kandinsky.items]]
-museum = "aic"
-object = "8980"
-title = "Landscape with Two Poplars"
-style = "Abstract"
+# ═════════════════════════════════════════════
+# AIC
+# ═════════════════════════════════════════════
 
 [[sub.kandinsky.items]]
 museum = "aic"
 object = "8991"
-title = "Improvisation No. 30 (Cannons)"
-style = "Abstract"
+# Improvisation No. 30 (Cannons), 1913
+style = ["Abstract", "Expressionism"]
+subjects = ["Abstract", "War"]
+
+[[sub.kandinsky.items]]
+museum = "aic"
+object = "8983"
+# Painting with Troika, 1911
+style = ["Abstract", "Expressionism"]
+subjects = ["Abstract", "Horses"]
 
 [[sub.kandinsky.items]]
 museum = "aic"
 object = "8987"
-title = "Painting with Green Center"
-style = "Abstract"
+# Painting with Green Center, 1913
+style = ["Abstract", "Expressionism"]
+subjects = ["Abstract", "Color"]
+
+[[sub.kandinsky.items]]
+museum = "aic"
+object = "8980"
+# Landscape with Two Poplars, 1912
+style = ["Abstract", "Expressionism"]
+subjects = ["Landscape", "Trees"]
 
 [[sub.kandinsky.items]]
 museum = "aic"
 object = "129849"
-title = "Houses at Murnau"
-style = "Abstract"
+# Houses at Murnau, 1909
+style = ["Abstract", "Expressionism"]
+subjects = ["Landscape", "Houses"]
 
-[sub.mondrian-de-stijl]
+# ═════════════════════════════════════════════
+# NGA
+# ═════════════════════════════════════════════
+
+[[sub.kandinsky.items]]
+museum = "nga"
+# object = 56670 # Improvisation 31 (Sea Battle)
+object = "34ab32a3-8457-4060-acaf-98d1afa79b92"
+title = "Improvisation 31 (Sea Battle)"
+date = "1913"
+medium = "Oil on linen"
+classification = "Painting"
+style = ["Abstract", "Expressionism"]
+subjects = ["Abstract", "Sea", "Battle"]
+
+# ─────────────────────────────────────────────
+# Piet Mondrian
+# ─────────────────────────────────────────────
+[sub.mondrian]
 name = "Mondrian & De Stijl"
 description = "Pure lines, primary colors, perfect balance — from early Dutch landscape to the serene geometry of Neo-Plasticism."
 default_artist = "Piet Mondrian"
 
-[[sub.mondrian-de-stijl.items]]
+# ═════════════════════════════════════════════
+# AIC
+# ═════════════════════════════════════════════
+
+[[sub.mondrian.items]]
 museum = "aic"
 object = "109819"
-title = "Lozenge Composition with Yellow, Black, Blue, Red, and Gray"
-style = "Abstract"
+# Lozenge Composition with Yellow, Black, Blue, Red, and Gray, 1921
+style = ["Abstract", "De Stijl"]
+subjects = ["Geometric", "Abstract"]
 
-[[sub.mondrian-de-stijl.items]]
+[[sub.mondrian.items]]
 museum = "aic"
 object = "65821"
-title = "Composition (No. 1) Gray-Red"
-style = "Abstract"
+# Composition (No. 1) Gray-Red, 1935
+style = ["Abstract", "De Stijl"]
+subjects = ["Geometric", "Abstract"]
 
-[[sub.mondrian-de-stijl.items]]
+[[sub.mondrian.items]]
 museum = "aic"
 object = "144467"
-title = "Farm near Duivendrecht"
-style = "Abstract"
+# Farm near Duivendrecht, c. 1916
+style = ["Abstract", "De Stijl"]
+subjects = ["Landscape", "Farm"]
 
-[[sub.mondrian-de-stijl.items]]
+# ═════════════════════════════════════════════
+# NGA
+# ═════════════════════════════════════════════
+
+[[sub.mondrian.items]]
+museum = "nga"
+# object = 52614 # Tableau No. IV; Lozenge Composition with Red, Gray, Blue, Yellow, and Black
+object = "262b6aad-9869-45af-b33c-d3d41964203a"
+title = "Tableau No. IV; Lozenge Composition with Red, Gray, Blue, Yellow, and Black"
+date = "c. 1924/1925"
+medium = "Oil on canvas"
+classification = "Painting"
+style = ["Abstract", "De Stijl"]
+subjects = ["Geometric", "Abstract"]
+
+# ─────────────────────────────────────────────
+# Paul Klee
+# ─────────────────────────────────────────────
+[sub.klee]
+name = "Paul Klee"
+description = "Playful color, dreamlike geometry, and the poetry of line — Klee's abstractions inhabit a world between music and painting."
+default_artist = "Paul Klee"
+
+# ═════════════════════════════════════════════
+# AIC
+# ═════════════════════════════════════════════
+
+[[sub.klee.items]]
 museum = "aic"
-object = "142570"
-title = "Study for a Composition"
-style = "Abstract"
+object = "61608"
+# Sunset, 1930
+style = ["Abstract", "Expressionism"]
+subjects = ["Sunset", "Abstract"]
 
-[sub.orphism-cubism]
-name = "Orphism & Cubism"
-description = "Where Cubism meets pure prismatic color — the fragmentary energy of early modernism breaks the world into dazzling geometric rhythms."
+[[sub.klee.items]]
+museum = "aic"
+object = "111666"
+# In the Magic Mirror, 1934
+style = ["Abstract", "Surrealism"]
+subjects = ["Portrait", "Abstract"]
+
+[[sub.klee.items]]
+museum = "aic"
+object = "17540"
+# Architecture, 1921
+style = ["Abstract", "Expressionism"]
+subjects = ["Architecture", "Geometric"]
+
+# ═════════════════════════════════════════════
+# NGA
+# ═════════════════════════════════════════════
+
+[[sub.klee.items]]
+museum = "nga"
+# object = 71551 # Persische Nachtigallen (Persian Nightingales)
+object = "e3c67705-58e9-494e-a57e-d1ad8640abb1"
+title = "Persische Nachtigallen (Persian Nightingales)"
+date = "1917"
+medium = "Watercolor and gouache on paper"
+classification = "Drawing"
+style = ["Abstract", "Expressionism"]
+subjects = ["Abstract", "Birds"]
+
+[[sub.klee.items]]
+museum = "nga"
+# object = 8106 # The Tight Rope Walker (Seiltänzer)
+object = "00a16e1a-d1b7-4d83-8e81-669a68bb2fcc"
+title = "The Tight Rope Walker (Seiltänzer)"
+date = "1923"
+medium = "Watercolor and ink transfer on paper"
+classification = "Drawing"
+style = ["Abstract", "Expressionism"]
+subjects = ["Figure", "Abstract"]
+
+[[sub.klee.items]]
+museum = "nga"
+# object = 61372 # New House in the Suburbs
+object = "77e4755d-229e-4d6e-a3b6-60e6e1d99fb2"
+title = "New House in the Suburbs"
+date = "1924"
+medium = "Watercolor on paper"
+classification = "Drawing"
+style = ["Abstract", "Expressionism"]
+subjects = ["Architecture", "Abstract"]
+
+# ─────────────────────────────────────────────
+# František Kupka
+# ─────────────────────────────────────────────
+[sub.kupka]
+name = "František Kupka"
+description = "A Czech pioneer of pure abstraction — prismatic color and cosmic form, bridging Orphism and the absolute."
+default_artist = "František Kupka"
+
+[[sub.kupka.items]]
+museum = "nga"
+# object = 64541 # Localization of Graphic Motifs II
+object = "65deae11-5eab-4006-9fbb-39d307bf270c"
+title = "Localization of Graphic Motifs II"
+date = "1912–1913"
+medium = "Oil on canvas"
+classification = "Painting"
+style = ["Abstract", "Orphism"]
+subjects = ["Geometric", "Abstract", "Color"]
+
+# ─────────────────────────────────────────────
+# Arthur Dove
+# ─────────────────────────────────────────────
+[sub.dove]
+name = "Arthur Dove"
+description = "America's first abstract painter — nature distilled into pure rhythm, color, and light."
+default_artist = "Arthur Dove"
+
+# ═════════════════════════════════════════════
+# AIC
+# ═════════════════════════════════════════════
+
+[[sub.dove.items]]
+museum = "aic"
+object = "65868"
+# Silver Sun, 1929
+style = ["Abstract"]
+subjects = ["Sun", "Nature"]
+
+[[sub.dove.items]]
+museum = "aic"
+object = "90205"
+# Nature Symbolized No. 2, c. 1911
+style = ["Abstract"]
+subjects = ["Nature", "Abstract"]
+
+# ═════════════════════════════════════════════
+# NGA
+# ═════════════════════════════════════════════
+
+[[sub.dove.items]]
+museum = "nga"
+# object = 105561 # Moon
+object = "3be11a31-8053-44fd-8fec-3bf9c57c68a6"
+title = "Moon"
+date = "1935"
+medium = "Oil on canvas"
+classification = "Painting"
+style = ["Abstract"]
+subjects = ["Moon", "Nature", "Night"]
+
+[[sub.dove.items]]
+museum = "nga"
+# object = 195821 # Space Divided by Line Motive
+object = "4d5fb2e4-c0ec-4e0f-921f-f3e66961e6e5"
+title = "Space Divided by Line Motive"
+date = "1943"
+medium = "Oil on canvas"
+classification = "Painting"
+style = ["Abstract"]
+subjects = ["Geometric", "Abstract", "Color"]
+
+# ─────────────────────────────────────────────
+# Robert Delaunay
+# ─────────────────────────────────────────────
+[sub.delaunay]
+name = "Robert Delaunay"
+description = "Where Cubism meets pure prismatic color — fragmentary energy breaks the world into dazzling geometric rhythms."
 default_artist = "Robert Delaunay"
-style = "Abstract"
 
-[[sub.orphism-cubism.items]]
+[[sub.delaunay.items]]
 museum = "aic"
 object = "9503"
-title = "Champs de Mars: The Red Tower"
-style = "Abstract"
+# Champs de Mars: The Red Tower, 1911–23
+style = ["Orphism", "Cubism"]
+subjects = ["Eiffel Tower", "Urban", "Landscape"]
 
-[[sub.orphism-cubism.items]]
+[[sub.delaunay.items]]
 museum = "aic"
 object = "9505"
-title = "Saint-Séverin"
-style = "Abstract"
+# Saint-Séverin No. 1, 1909
+style = ["Orphism", "Cubism"]
+subjects = ["Architecture", "Church"]
 
-[sub.met-modern]
-name = "The Met: Modern Visions"
-description = "Masterworks from the Metropolitan Museum of Art's Stieglitz Collection."
+# ─────────────────────────────────────────────
+# Marsden Hartley
+# ─────────────────────────────────────────────
+[sub.hartley]
+name = "Marsden Hartley"
+description = "Bold color, symbolic abstraction, and raw American modernism — Hartley channels German Expressionism into deeply personal visions."
+default_artist = "Marsden Hartley"
 
-[[sub.met-modern.items]]
-# met is public domain false
-# museum = "met"
-# object = "488319"
-museum = "wikimedia"
-object = "Vassily_Kandinsky,_1912_-_Improvisation_27,_Garden_of_Love_II.jpg"
-title = "Improvisation 27 (Garden of Love II)"
-artist = "Vasily Kandinsky"
-date = "1912"
+[[sub.hartley.items]]
+museum = "nga"
+# object = 52382 # The Aero
+object = "1f778ca6-82a0-470f-82d3-9cea2a6fdcc7"
+title = "The Aero"
+date = "1914"
 medium = "Oil on canvas"
 classification = "Painting"
-style = "Abstract"
-subjects = ["Leisure", "Mood"]
+style = ["Abstract", "Expressionism"]
+subjects = ["Abstract", "Aviation"]
 
-[[sub.met-modern.items]]
-# met is public domain false
-#museum = "met"
-#object = "484870"
-museum = "wikimedia"
-object = "Paul_Klee_-_Tempelgärten.jpg"
-title = "Temple Gardens"
-style = "Abstract"
-artist = "Paul Klee"
-
-[[sub.met-modern.items]]
-# met is public domain false
-# museum = "met"
-# object = "490012"
-museum = "wikimedia"
-object = "Mondrian,_Compositie_1921.jpg"
-title = "Composition"
-artist = "Piet Mondrian"
-style = "Abstract"
-
-[[sub.met-modern.items]]
-# met is public domain false
-# museum = "met"
-# object = "488410"
-museum = "wikimedia"
-object = "Suprematist_Composition_-_Airplane_Flying_(Malevich,_1915).jpg"
-title = "Suprematist Composition: Airplane Flying"
-date = "1915"
-artist = "Kazimir Malevich"
-style = "Abstract"
-medium = "Oil on canvas"
-
-[[sub.met-modern.items]]
-museum = "wikimedia"
-object = "Fire_in_the_Evening_by_Paul_Klee_in_the_MOMA.jpg"
-title = "Fire in the Evening"
-artist = "Paul Klee"
-date = "1929"
-medium = "Oil on cardboard"
-style = "Abstract"
-subjects = ["Abstract", "Color Field", "Modernism"]
-
-
-[[sub.met-modern.items]]
-# met is public domain false
-# museum = "met"
-# object = "489079"
-museum = "wikimedia"
-object = "Hauptweg_und_Nebenwege_-_Paul_Klee_-_Museum_Ludwig-7026_(cropped).jpg"
-title = "Highway and Byways"
-artist = "Paul Klee"
-style = "Abstract"
-date = "1929"
-subjects = ["Abstract", "Geometry"]
-medium = "Oil on canvas"
-
-[sub.hilma-af-klint]
-name = "Hilma af Klint"
-description = "Spiritual visions rendered in monumental abstract form"
-default_artist = "Hilma af Klint"
-
-[[sub.hilma-af-klint.items]]
-museum = "wikimedia"
-object = "Hilma af Klint — The Ten Largest — Number 7 Adulthood.jpg"
-title = "Group IV, The Ten Largest, No. 7, Adulthood"
-date = "1907"
-medium = "Tempera on paper mounted on canvas"
-classification = "Painting"
-subjects = ["Abstract", "Spiritualism", "Life Cycle"]
-style = "Abstract"
-
-[[sub.hilma-af-klint.items]]
-museum = "wikimedia"
-object = "Hilma af Klint - Group IX UW No. 25, The Dove, No. 1 (13912).jpg"
-title = "Group IX/UW, The Dove, No. 1"
-date = "1915"
+[[sub.hartley.items]]
+museum = "nga"
+# object = 166451 # Berlin Abstraction
+object = "d8193793-aa3f-4815-bbd9-59f8d2b0867e"
+title = "Berlin Abstraction"
+date = "1914/1915"
 medium = "Oil on canvas"
 classification = "Painting"
-subjects = ["Abstract", "Spiritualism", "Duality"]
-style = "Abstract"
+style = ["Abstract", "Expressionism"]
+subjects = ["Abstract", "Geometric"]
+
+[[sub.hartley.items]]
+museum = "nga"
+# object = 52376 # Mount Katahdin, Maine
+object = "698e0623-0448-4506-8e72-0ad58162087e"
+title = "Mount Katahdin, Maine"
+date = "1942"
+medium = "Oil on hardboard"
+classification = "Painting"
+style = ["Abstract", "Expressionism"]
+subjects = ["Landscape", "Mountain"]
+
+# ─────────────────────────────────────────────
+# Kazimir Malevich
+# ─────────────────────────────────────────────
+[sub.malevich]
+name = "Kazimir Malevich"
+description = "The father of Suprematism — pure geometric abstraction reduced to its absolute essence."
+default_artist = "Kazimir Malevich"
+
+[[sub.malevich.items]]
+museum = "aic"
+object = "207293"
+# Painterly Realism of a Football Player — Color Masses in the 4th Dimension, 1915
+style = ["Abstract", "Suprematism"]
+subjects = ["Geometric", "Abstract"]
