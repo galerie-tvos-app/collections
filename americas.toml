@@ -6,35 +6,17 @@ description = "From the unflinching gaze of American Realism to the moonlit visi
 name = "American Realism"
 description = "Uncompromising truth — Homer's untamed seas, Eakins' athletes, Sargent's society, and Whistler's elegant arrangements."
 
-[[sub.american-realism.items]]
-museum = "met"
-object = "11122"
-title = "The Gulf Stream"
-artist = "Winslow Homer"
-
-[[sub.american-realism.items]]
-museum = "met"
-object = "10819"
-title = "The Champion Single Sculls (Max Schmitt in a Single Scull)"
-artist = "Thomas Eakins"
-
-[[sub.american-realism.items]]
-# met is public domain false
-# museum = "met"
-# object = "12127"
-museum = "wikimedia"
-object = "Madame_X_(Madame_Pierre_Gautreau),_John_Singer_Sargent,_1884_(unfree_frame_crop).jpg"
-title = "Madame X (Madame Pierre Gautreau)"
-date = "1884"
-artist = "John Singer Sargent"
-style = "Realism"
-subjects = ["Virginie Amélie Avegno Gautreau", "American", "Modernism"]
+# Homer Gulf Stream (MET 11122) → moved to storms.toml
+# Eakins Max Schmitt (MET 10819) → moved to realism.toml
+# Sargent Madame X (MET 12127) → bundled with app
 
 [[sub.american-realism.items]]
 museum = "met"
 object = "13211"
 title = "Arrangement in Flesh Colour and Black: Portrait of Theodore Duret"
 artist = "James McNeill Whistler"
+style = ["Realism"]
+subjects = ["Portrait"]
 focusY = 24
 
 [sub.american-symbolism]
