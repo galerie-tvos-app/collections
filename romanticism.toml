@@ -1,0 +1,342 @@
+[collection]
+name = "Romanticism"
+description = "Sublime landscapes, dramatic passions, and the awesome power of nature — from Turner's luminous seas to the grand vistas of the Hudson River School."
+
+# ─────────────────────────────────────────────
+# J.M.W. Turner
+# ─────────────────────────────────────────────
+[sub.turner]
+name = "J.M.W. Turner"
+description = "Light, atmosphere, and the dissolving world — the painter who turned the sky into feeling."
+default_artist = "Joseph Mallord William Turner"
+
+# ═════════════════════════════════════════════
+# MET — Open Access (CC0)
+# ═════════════════════════════════════════════
+
+[[sub.turner.items]]
+museum = "met"
+object = 437854 # Whalers, c. 1845 — CC0
+style = ["Romanticism"]
+subjects = ["Sea", "Whaling", "Ships"]
+
+[[sub.turner.items]]
+museum = "met"
+object = 437853 # Venice, from the Porch of Madonna della Salute, c. 1835 — CC0
+style = ["Romanticism"]
+subjects = ["Venice", "Architecture", "Light"]
+
+[[sub.turner.items]]
+museum = "met"
+object = 437852 # Saltash with the Water Ferry, Cornwall, 1811 — CC0
+style = ["Romanticism"]
+subjects = ["Landscape", "River", "Cornwall"]
+
+# ─────────────────────────────────────────────
+# Thomas Cole
+# ─────────────────────────────────────────────
+[sub.cole]
+name = "Thomas Cole"
+description = "The founder of the Hudson River School — wild American nature as moral allegory and sublime spectacle."
+default_artist = "Thomas Cole"
+
+# ═════════════════════════════════════════════
+# MET — Open Access (CC0)
+# ═════════════════════════════════════════════
+
+[[sub.cole.items]]
+museum = "met"
+object = 10497 # View from Mount Holyoke (The Oxbow), 1836 — CC0
+style = ["Romanticism", "Hudson River School"]
+subjects = ["Landscape", "River", "Storm"]
+
+# ═════════════════════════════════════════════
+# NGA — The Voyage of Life series
+# ═════════════════════════════════════════════
+
+[[sub.cole.items]]
+museum = "nga"
+# object = 52450 # The Voyage of Life: Childhood
+object = "5b94c264-aaea-4f4b-bbdc-5c04bfd353b4"
+title = "The Voyage of Life: Childhood"
+date = "1842"
+medium = "Oil on canvas"
+classification = "Painting"
+style = ["Romanticism", "Hudson River School"]
+subjects = ["Allegory", "River", "Child", "Angel"]
+
+[[sub.cole.items]]
+museum = "nga"
+# object = 52451 # The Voyage of Life: Youth
+object = "1c3a0c23-3926-4475-b9b8-59cb1d72b410"
+title = "The Voyage of Life: Youth"
+date = "1842"
+medium = "Oil on canvas"
+classification = "Painting"
+style = ["Romanticism", "Hudson River School"]
+subjects = ["Allegory", "River", "Youth", "Castle"]
+
+[[sub.cole.items]]
+museum = "nga"
+# object = 52452 # The Voyage of Life: Manhood
+object = "242acea8-e32b-4119-bd4c-2d8d87675f4b"
+title = "The Voyage of Life: Manhood"
+date = "1842"
+medium = "Oil on canvas"
+classification = "Painting"
+style = ["Romanticism", "Hudson River School"]
+subjects = ["Allegory", "River", "Storm", "Angel"]
+
+[[sub.cole.items]]
+museum = "nga"
+# object = 52453 # The Voyage of Life: Old Age
+object = "4db3a919-839b-4813-b159-09bab60be497"
+title = "The Voyage of Life: Old Age"
+date = "1842"
+medium = "Oil on canvas"
+classification = "Painting"
+style = ["Romanticism", "Hudson River School"]
+subjects = ["Allegory", "River", "Angel", "Light"]
+
+# ═════════════════════════════════════════════
+# AIC
+# ═════════════════════════════════════════════
+
+[[sub.cole.items]]
+museum = "aic"
+object = "90048"
+# Distant View of Niagara Falls, 1830
+style = ["Romanticism", "Hudson River School"]
+subjects = ["Landscape", "Waterfall", "Niagara"]
+
+# ─────────────────────────────────────────────
+# Albert Bierstadt
+# ─────────────────────────────────────────────
+[sub.bierstadt]
+name = "Albert Bierstadt"
+description = "Monumental grandeur of the American West — towering peaks, golden light, and landscapes of breathtaking scale."
+default_artist = "Albert Bierstadt"
+
+# ═════════════════════════════════════════════
+# NGA
+# ═════════════════════════════════════════════
+
+[[sub.bierstadt.items]]
+museum = "nga"
+# object = 124525 # The Last of the Buffalo
+object = "d5d978ed-61c4-4c14-8c5d-1c2444d76301"
+title = "The Last of the Buffalo"
+date = "1888"
+medium = "Oil on canvas"
+classification = "Painting"
+style = ["Romanticism", "Hudson River School"]
+subjects = ["Buffalo", "Plains", "West"]
+# 6 × 10 feet — monumental canvas
+
+[[sub.bierstadt.items]]
+museum = "nga"
+# object = 71503 # Lake Lucerne
+object = "5f1692b3-d8ed-4a65-a4f5-281387550c8d"
+title = "Lake Lucerne"
+date = "1858"
+medium = "Oil on canvas"
+classification = "Painting"
+style = ["Romanticism"]
+subjects = ["Lake", "Mountains", "Alps"]
+
+[[sub.bierstadt.items]]
+museum = "nga"
+# object = 166428 # Mount Corcoran
+object = "b5657933-52bc-4bfa-9bb9-12ea235e7198"
+title = "Mount Corcoran"
+date = "c. 1876–1877"
+medium = "Oil on canvas"
+classification = "Painting"
+style = ["Romanticism", "Hudson River School"]
+subjects = ["Mountains", "Lake", "West"]
+
+[[sub.bierstadt.items]]
+museum = "nga"
+# object = 166427 # Buffalo Trail: The Impending Storm
+object = "8681fef5-68c8-4449-9a71-4722f0bc2899"
+title = "Buffalo Trail: The Impending Storm"
+date = "1869"
+medium = "Oil on canvas"
+classification = "Painting"
+style = ["Romanticism", "Hudson River School"]
+subjects = ["Buffalo", "Plains", "Storm"]
+
+# ═════════════════════════════════════════════
+# MET — Open Access (CC0)
+# ═════════════════════════════════════════════
+
+[[sub.bierstadt.items]]
+museum = "met"
+object = 10158 # Sunrise on the Matterhorn, c. 1870s — CC0
+style = ["Romanticism"]
+subjects = ["Mountains", "Alps", "Sunrise"]
+
+# ═════════════════════════════════════════════
+# AIC
+# ═════════════════════════════════════════════
+
+[[sub.bierstadt.items]]
+museum = "aic"
+object = "146701"
+# Mountain Brook, 1863
+style = ["Romanticism", "Hudson River School"]
+subjects = ["Mountains", "Stream", "Forest"]
+
+# ─────────────────────────────────────────────
+# Frederic Edwin Church
+# ─────────────────────────────────────────────
+[sub.church]
+name = "Frederic Edwin Church"
+description = "The sublime made visible — volcanoes, icebergs, and waterfalls painted with scientific precision and Romantic awe."
+default_artist = "Frederic Edwin Church"
+
+[[sub.church.items]]
+museum = "nga"
+# object = 166436 # Niagara
+object = "4d6a4fa1-db74-4586-a753-9951bc5945a3"
+title = "Niagara"
+date = "1857"
+medium = "Oil on canvas"
+classification = "Painting"
+style = ["Romanticism", "Hudson River School"]
+subjects = ["Waterfall", "Niagara", "Water"]
+
+# ─────────────────────────────────────────────
+# Eugène Delacroix
+# ─────────────────────────────────────────────
+[sub.delacroix]
+name = "Eugène Delacroix"
+description = "Violent color, dramatic passion, and Romantic fire — the great champion of emotion over line."
+default_artist = "Eugène Delacroix"
+
+# ═════════════════════════════════════════════
+# MET — Open Access (CC0)
+# ═════════════════════════════════════════════
+
+[[sub.delacroix.items]]
+museum = "met"
+object = 436180 # The Natchez, 1835 — CC0
+style = ["Romanticism"]
+subjects = ["Narrative", "Figure", "Landscape"]
+
+# ═════════════════════════════════════════════
+# NGA
+# ═════════════════════════════════════════════
+
+[[sub.delacroix.items]]
+museum = "nga"
+# object = 50686 # Arabs Skirmishing in the Mountains
+object = "87ece172-f4cb-4a1c-9439-3f29ef085665"
+title = "Arabs Skirmishing in the Mountains"
+date = "1863"
+medium = "Oil on canvas"
+classification = "Painting"
+style = ["Romanticism"]
+subjects = ["Battle", "Mountains", "Horses"]
+
+# ═════════════════════════════════════════════
+# AIC
+# ═════════════════════════════════════════════
+
+[[sub.delacroix.items]]
+museum = "aic"
+object = "81505"
+# Lion Hunt, 1861
+style = ["Romanticism"]
+subjects = ["Lion", "Hunt", "Horses"]
+
+[[sub.delacroix.items]]
+museum = "aic"
+object = "110663"
+# The Combat of the Giaour and Hassan, 1826
+style = ["Romanticism"]
+subjects = ["Battle", "Horses", "Literature"]
+
+# ─────────────────────────────────────────────
+# John Constable
+# ─────────────────────────────────────────────
+[sub.constable]
+name = "John Constable"
+description = "The English countryside made eternal — skies, meadows, and waterways painted with radical naturalism."
+default_artist = "John Constable"
+
+# ═════════════════════════════════════════════
+# NGA
+# ═════════════════════════════════════════════
+
+[[sub.constable.items]]
+museum = "nga"
+# object = 1147 # Wivenhoe Park, Essex
+object = "5b623c90-fe9d-4d7d-81b6-1536abd6cbee"
+title = "Wivenhoe Park, Essex"
+date = "1816"
+medium = "Oil on canvas"
+classification = "Painting"
+style = ["Romanticism"]
+subjects = ["Landscape", "Park", "Pastoral"]
+
+[[sub.constable.items]]
+museum = "nga"
+# object = 1146 # The White Horse
+object = "32445810-6c6d-40e9-9dda-8c3a388cfdf0"
+title = "The White Horse"
+date = "1818–1819"
+medium = "Oil on canvas"
+classification = "Painting"
+style = ["Romanticism"]
+subjects = ["Landscape", "River", "Horse"]
+# Six-foot-wide canvas
+
+[[sub.constable.items]]
+museum = "nga"
+# object = 115 # Salisbury Cathedral from Lower Marsh Close
+object = "644bd0f2-3a24-4971-a234-3a3a0c76d3ba"
+title = "Salisbury Cathedral from Lower Marsh Close"
+date = "1820"
+medium = "Oil on canvas"
+classification = "Painting"
+style = ["Romanticism"]
+subjects = ["Architecture", "Cathedral", "Landscape"]
+
+# ─────────────────────────────────────────────
+# Caspar David Friedrich
+# ─────────────────────────────────────────────
+[sub.friedrich]
+name = "Caspar David Friedrich"
+description = "Solitude, the infinite, and the spiritual sublime — nature as a mirror of the inner soul."
+default_artist = "Caspar David Friedrich"
+
+[[sub.friedrich.items]]
+museum = "nga"
+# object = 130555 # Northern Landscape, Spring
+object = "40bb6453-0326-4377-8ffd-872226a0e5d8"
+title = "Northern Landscape, Spring"
+date = "c. 1825"
+medium = "Oil on canvas"
+classification = "Painting"
+style = ["Romanticism"]
+subjects = ["Landscape", "Trees", "Spring"]
+
+# ─────────────────────────────────────────────
+# Francisco Goya
+# ─────────────────────────────────────────────
+[sub.goya]
+name = "Francisco Goya"
+description = "From court painter to dark visionary — the bridge between the Old Masters and the modern world."
+default_artist = "Francisco de Goya y Lucientes"
+
+[[sub.goya.items]]
+museum = "nga"
+# object = 92 # The Marquesa de Pontejos
+object = "299ddaef-0a69-4a23-96dc-71d7f1ee6112"
+title = "The Marquesa de Pontejos"
+date = "c. 1786"
+medium = "Oil on canvas"
+classification = "Painting"
+style = ["Romanticism"]
+subjects = ["Portrait", "Woman", "Aristocracy"]

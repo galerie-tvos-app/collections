@@ -1,0 +1,314 @@
+[collection]
+name = "Realism"
+description = "Unflinching observation and masterful technique — from Courbet's revolutionary naturalism to Homer's epic seas and Sargent's shimmering portraits."
+
+# ─────────────────────────────────────────────
+# Winslow Homer
+# ─────────────────────────────────────────────
+[sub.homer]
+name = "Winslow Homer"
+description = "America's great painter of sea and shore — heroic figures against the raw power of nature."
+default_artist = "Winslow Homer"
+
+# ═════════════════════════════════════════════
+# NGA
+# ═════════════════════════════════════════════
+
+[[sub.homer.items]]
+museum = "nga"
+# object = 30228 # Breezing Up (A Fair Wind)
+object = "406b5d56-d196-4bb0-b2e0-5a2f6fd52d0a"
+title = "Breezing Up (A Fair Wind)"
+date = "1873–1876"
+medium = "Oil on canvas"
+classification = "Painting"
+style = ["Realism"]
+subjects = ["Sea", "Boating", "Youth"]
+
+[[sub.homer.items]]
+museum = "nga"
+# object = 39763 # Right and Left
+object = "9ef2a890-2516-4f5a-bcc7-cc70a22125b5"
+title = "Right and Left"
+date = "1909"
+medium = "Oil on canvas"
+classification = "Painting"
+style = ["Realism"]
+subjects = ["Birds", "Sea", "Hunting"]
+
+# ═════════════════════════════════════════════
+# MET — Open Access (CC0)
+# ═════════════════════════════════════════════
+
+[[sub.homer.items]]
+museum = "met"
+object = 11130 # Northeaster, 1895 — CC0
+style = ["Realism"]
+subjects = ["Sea", "Storm", "Waves"]
+
+[[sub.homer.items]]
+museum = "met"
+object = 11140 # Snap the Whip, 1872 — CC0
+style = ["Realism"]
+subjects = ["Children", "Rural", "Play"]
+
+# ═════════════════════════════════════════════
+# AIC
+# ═════════════════════════════════════════════
+
+[[sub.homer.items]]
+museum = "aic"
+object = "25865"
+# The Herring Net, 1885
+style = ["Realism"]
+subjects = ["Sea", "Fishermen", "Labor"]
+
+# ─────────────────────────────────────────────
+# Thomas Eakins
+# ─────────────────────────────────────────────
+[sub.eakins]
+name = "Thomas Eakins"
+description = "Uncompromising truth in paint — anatomy, sport, and the human figure rendered with scientific precision and deep empathy."
+default_artist = "Thomas Eakins"
+
+# ═════════════════════════════════════════════
+# MET — Open Access (CC0)
+# ═════════════════════════════════════════════
+
+[[sub.eakins.items]]
+museum = "met"
+object = 10819 # The Champion Single Sculls (Max Schmitt in a Single Scull), 1871 — CC0
+style = ["Realism"]
+subjects = ["Sport", "Rowing", "River"]
+
+[[sub.eakins.items]]
+museum = "met"
+object = 10828 # The Writing Master, 1882 — CC0
+style = ["Realism"]
+subjects = ["Portrait", "Domestic"]
+
+[[sub.eakins.items]]
+museum = "met"
+object = 10813 # The Chess Players, 1881 — CC0
+style = ["Realism"]
+subjects = ["Portrait", "Leisure", "Chess"]
+
+# ═════════════════════════════════════════════
+# NGA
+# ═════════════════════════════════════════════
+
+[[sub.eakins.items]]
+museum = "nga"
+# object = 61251 # Baby at Play
+object = "81fe0da8-b374-4749-90f1-d39b9c3d80b6"
+title = "Baby at Play"
+date = "1876"
+medium = "Oil on canvas"
+classification = "Painting"
+style = ["Realism"]
+subjects = ["Child", "Domestic", "Family"]
+
+# ─────────────────────────────────────────────
+# John Singer Sargent
+# ─────────────────────────────────────────────
+[sub.sargent]
+name = "John Singer Sargent"
+description = "Dazzling brushwork and penetrating psychology — the supreme portraitist of the Gilded Age."
+default_artist = "John Singer Sargent"
+
+# ═════════════════════════════════════════════
+# NGA
+# ═════════════════════════════════════════════
+
+[[sub.sargent.items]]
+museum = "nga"
+# object = 35080 # Nonchaloir (Repose)
+object = "718e014f-fb5f-4702-a95a-db496abefeb7"
+title = "Nonchaloir (Repose)"
+date = "1911"
+medium = "Oil on canvas"
+classification = "Painting"
+style = ["Realism", "Impressionism"]
+subjects = ["Portrait", "Figure", "Woman"]
+
+[[sub.sargent.items]]
+museum = "nga"
+# object = 166470 # Margaret Stuyvesant Rutherfurd White (Mrs. Henry White)
+object = "65f8a676-7e7a-4b1d-9e38-569fe9c8b29e"
+title = "Margaret Stuyvesant Rutherfurd White (Mrs. Henry White)"
+date = "1883"
+medium = "Oil on canvas"
+classification = "Painting"
+style = ["Realism"]
+subjects = ["Portrait", "Woman", "Society"]
+
+[[sub.sargent.items]]
+museum = "nga"
+# object = 166471 # Simplon Pass
+object = "482e9978-5e15-4947-bf8b-67275347b13d"
+title = "Simplon Pass"
+date = "c. 1911"
+medium = "Oil on canvas"
+classification = "Painting"
+style = ["Realism", "Impressionism"]
+subjects = ["Landscape", "Mountains"]
+
+# ═════════════════════════════════════════════
+# MET — Open Access (CC0)
+# ═════════════════════════════════════════════
+
+# NOTE: Madame X (MET 12127) excluded — bundled with app
+# NOTE: El Jaleo is at the Gardner Museum, not MET
+
+[[sub.sargent.items]]
+museum = "met"
+object = 12460 # Venice, c. 1903 — CC0
+style = ["Realism", "Impressionism"]
+subjects = ["Venice", "Cityscape", "Water"]
+
+# ─────────────────────────────────────────────
+# Gustave Courbet
+# ─────────────────────────────────────────────
+[sub.courbet]
+name = "Gustave Courbet"
+description = "The father of Realism — bold, unidealized truth that shocked the art world and changed painting forever."
+default_artist = "Gustave Courbet"
+
+# ═════════════════════════════════════════════
+# MET — Open Access (CC0)
+# ═════════════════════════════════════════════
+
+[[sub.courbet.items]]
+museum = "met"
+object = 436002 # Woman with a Parrot, 1866 — CC0
+style = ["Realism"]
+subjects = ["Nude", "Woman", "Animal"]
+
+[[sub.courbet.items]]
+museum = "met"
+object = 436022 # The Source, 1862 — CC0
+style = ["Realism"]
+subjects = ["Nude", "Woman", "Water"]
+
+[[sub.courbet.items]]
+museum = "met"
+object = 436004 # The Woman in the Waves, 1868 — CC0
+style = ["Realism"]
+subjects = ["Nude", "Woman", "Sea"]
+
+[[sub.courbet.items]]
+museum = "met"
+object = 436021 # The Sea, 1865 — CC0
+style = ["Realism"]
+subjects = ["Sea", "Landscape"]
+
+[[sub.courbet.items]]
+museum = "met"
+object = 438820 # Young Ladies of the Village, 1851–52 — CC0
+style = ["Realism"]
+subjects = ["Rural", "Women", "Landscape"]
+
+# ═════════════════════════════════════════════
+# NGA
+# ═════════════════════════════════════════════
+
+[[sub.courbet.items]]
+museum = "nga"
+# object = 66408 # The Calm Sea (La Mer calme)
+object = "c790c1ba-9b5f-4275-9f7d-7f501e30992c"
+title = "The Calm Sea (La Mer calme)"
+date = "1866"
+medium = "Oil on canvas"
+classification = "Painting"
+style = ["Realism"]
+subjects = ["Sea", "Landscape"]
+
+[[sub.courbet.items]]
+museum = "nga"
+# object = 46485 # Beach in Normandy
+object = "388d34c4-2515-480f-8184-424ed1a758a7"
+title = "Beach in Normandy"
+date = "c. 1872–1875"
+medium = "Oil on canvas"
+classification = "Painting"
+style = ["Realism"]
+subjects = ["Sea", "Beach", "Landscape"]
+
+[[sub.courbet.items]]
+museum = "nga"
+# object = 43681 # La Grotte de la Loue
+object = "d29a9fab-00cd-4f39-868c-69cbe2d61c72"
+title = "La Grotte de la Loue"
+date = "1864"
+medium = "Oil on canvas"
+classification = "Painting"
+style = ["Realism"]
+subjects = ["Landscape", "Water", "Cave"]
+
+# ─────────────────────────────────────────────
+# Jean-François Millet
+# ─────────────────────────────────────────────
+[sub.millet]
+name = "Jean-François Millet"
+description = "The poet of peasant life — monumental dignity in the labor of the land."
+default_artist = "Jean-François Millet"
+
+# ═════════════════════════════════════════════
+# MET — Open Access (CC0)
+# ═════════════════════════════════════════════
+
+[[sub.millet.items]]
+museum = "met"
+object = 437099 # Woman with a Rake, 1856–57 — CC0
+style = ["Realism"]
+subjects = ["Rural", "Woman", "Labor"]
+
+# ═════════════════════════════════════════════
+# NGA
+# ═════════════════════════════════════════════
+
+[[sub.millet.items]]
+museum = "nga"
+# object = 168820 # Calling Home the Cows
+object = "52ad5e63-c62a-4386-bcde-dd68e285c20a"
+title = "Calling Home the Cows"
+date = "c. 1866"
+medium = "Oil on panel"
+classification = "Painting"
+style = ["Realism"]
+subjects = ["Rural", "Animals", "Landscape"]
+
+# ─────────────────────────────────────────────
+# Joaquín Sorolla
+# ─────────────────────────────────────────────
+[sub.sorolla]
+name = "Joaquín Sorolla"
+description = "Sun-drenched Mediterranean luminism — light and color captured with breathtaking spontaneity."
+default_artist = "Joaquín Sorolla y Bastida"
+
+# ═════════════════════════════════════════════
+# AIC
+# ═════════════════════════════════════════════
+
+[[sub.sorolla.items]]
+museum = "aic"
+object = "90903"
+# Two Sisters, Valencia, 1909
+style = ["Realism", "Impressionism"]
+subjects = ["Children", "Beach", "Family"]
+
+# ═════════════════════════════════════════════
+# MET — Open Access (CC0)
+# ═════════════════════════════════════════════
+
+[[sub.sorolla.items]]
+museum = "met"
+object = 437706 # Señora de Sorolla in Black, 1906 — CC0
+style = ["Realism"]
+subjects = ["Portrait", "Woman"]
+
+[[sub.sorolla.items]]
+museum = "met"
+object = 437705 # Castle of San Servando, Toledo, 1906 — CC0
+style = ["Realism", "Impressionism"]
+subjects = ["Landscape", "Architecture", "Spain"]
