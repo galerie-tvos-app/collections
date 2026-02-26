@@ -11,32 +11,37 @@ name = "Camille Pissarro"
 description = "Village streets, soft light, and the poetry of everyday life."
 default_artist = "Camille Pissarro"
 
-[[sub.pissarro.items]]
-museum = "nga"
-object = "e291058c-0769-493c-a5f3-8e0e64e9ea46"
-title = "The Artist's Garden at Eragny"
-date = "1898"
-medium = "Oil on canvas"
-classification = "Painting"
-subjects = ["Landscape", "Garden"]
+# ═════════════════════════════════════════════
+# PARIS CITYSCAPES
+# ═════════════════════════════════════════════
 
 [[sub.pissarro.items]]
 museum = "nga"
+# object = 46673 # Boulevard des Italiens, Morning, Sunlight
 object = "1921981a-82c4-46ee-8cec-185aa18e2538"
 title = "Boulevard des Italiens, Morning, Sunlight"
 date = "1897"
 medium = "Oil on canvas"
 classification = "Painting"
-subjects = ["Cityscape", "Paris"]
+style = ["Impressionism"]
+subjects = ["Cityscape", "Paris", "Boulevard"]
+
+[[sub.pissarro.items]]
+museum = "met"
+object = 437310 # The Boulevard Montmartre on a Winter Morning, 1897 — CC0
+style = ["Impressionism"]
+subjects = ["Cityscape", "Paris", "Boulevard", "Winter"]
 
 [[sub.pissarro.items]]
 museum = "nga"
-object = "b4419dc5-cea3-4a69-9c48-60a896901ca1"
-title = "Charing Cross Bridge, London"
-date = "1890"
+# object = 52199 # Place du Carrousel, Paris
+object = "2f61c3b8-00ff-41d4-941a-9d639c291472"
+title = "Place du Carrousel, Paris"
+date = "1900"
 medium = "Oil on canvas"
 classification = "Painting"
-subjects = ["Cityscape", "London"]
+style = ["Impressionism"]
+subjects = ["Cityscape", "Paris"]
 
 [[sub.pissarro.items]]
 museum = "nga"
@@ -45,16 +50,123 @@ title = "The Louvre, Afternoon, Rainy Weather"
 date = "1900"
 medium = "Oil on canvas"
 classification = "Painting"
-subjects = ["Cityscape", "Paris"]
+style = ["Impressionism"]
+subjects = ["Cityscape", "Paris", "Rain"]
+
+[[sub.pissarro.items]]
+museum = "met"
+object = 437314 # The Garden of the Tuileries on a Winter Afternoon, 1899 — CC0
+style = ["Impressionism"]
+subjects = ["Cityscape", "Paris", "Garden", "Winter"]
+
+# ═════════════════════════════════════════════
+# BOULEVARD MONTMARTRE SERIES (wikimedia — not at MET/AIC/NGA)
+# ═════════════════════════════════════════════
+
+[[sub.pissarro.items]]
+museum = "wikimedia"
+object = "Camille_Pissarro_-_Boulevard_Montmartre,_Spring_-_Google_Art_Project.jpg"
+title = "Boulevard Montmartre, Spring"
+date = "1897"
+medium = "Oil on canvas"
+classification = "Painting"
+style = ["Impressionism"]
+subjects = ["Cityscape", "Paris", "Boulevard", "Spring"]
+# Held at Hermitage Museum / Israel Museum
+
+[[sub.pissarro.items]]
+museum = "wikimedia"
+object = "Camille_Pissarro_-_Boulevard_Montmartre_-_Eremitage.jpg"
+title = "Boulevard Montmartre, Afternoon Sun"
+date = "1897"
+medium = "Oil on canvas"
+classification = "Painting"
+style = ["Impressionism"]
+subjects = ["Cityscape", "Paris", "Boulevard", "Autumn"]
+# Held at Hermitage Museum, Saint Petersburg
+
+# ═════════════════════════════════════════════
+# ROUEN & LONDON
+# ═════════════════════════════════════════════
+
+[[sub.pissarro.items]]
+museum = "met"
+object = 437308 # Morning, An Overcast Day, Rouen, 1896 — CC0
+style = ["Impressionism"]
+subjects = ["Cityscape", "Rouen", "Bridge", "River"]
 
 [[sub.pissarro.items]]
 museum = "nga"
-object = "2f61c3b8-00ff-41d4-941a-9d639c291472"
-title = "Place du Carrousel, Paris"
-date = "1900"
+object = "b4419dc5-cea3-4a69-9c48-60a896901ca1"
+title = "Charing Cross Bridge, London"
+date = "1890"
 medium = "Oil on canvas"
 classification = "Painting"
-subjects = ["Cityscape", "Paris"]
+style = ["Impressionism"]
+subjects = ["Cityscape", "London", "Bridge"]
+
+[[sub.pissarro.items]]
+museum = "aic"
+object = "110541"
+# The Crystal Palace, 1871
+style = ["Impressionism"]
+subjects = ["Cityscape", "London", "Architecture"]
+
+# ═════════════════════════════════════════════
+# RURAL LANDSCAPES — PONTOISE & LOUVECIENNES
+# ═════════════════════════════════════════════
+
+[[sub.pissarro.items]]
+museum = "aic"
+object = "6005"
+# The Banks of the Marne in Winter, 1866
+style = ["Impressionism", "Realism"]
+subjects = ["Landscape", "River", "Winter"]
+
+[[sub.pissarro.items]]
+museum = "met"
+object = 437301 # The Public Garden at Pontoise — CC0
+style = ["Impressionism"]
+subjects = ["Landscape", "Garden", "Pontoise"]
+
+[[sub.pissarro.items]]
+museum = "met"
+object = 437316 # Côte des Grouettes, near Pontoise — CC0
+style = ["Impressionism"]
+subjects = ["Landscape", "Hillside", "Pontoise"]
+
+[[sub.pissarro.items]]
+museum = "nga"
+# object = 72886 # Landscape at Les Pâtis, Pontoise
+object = "39a9ac6c-8098-491f-8a9f-b517567275d5"
+title = "Landscape at Les Pâtis, Pontoise"
+date = "1868"
+medium = "Oil on canvas"
+classification = "Painting"
+style = ["Impressionism", "Realism"]
+subjects = ["Landscape", "Pontoise", "Houses"]
+
+[[sub.pissarro.items]]
+museum = "nga"
+# object = 52195 # Orchard in Bloom, Louveciennes
+object = "73f10a5d-7d60-4d8f-916e-1ad76ef25421"
+title = "Orchard in Bloom, Louveciennes"
+date = "1872"
+medium = "Oil on canvas"
+classification = "Painting"
+style = ["Impressionism"]
+subjects = ["Landscape", "Orchard", "Spring"]
+
+[[sub.pissarro.items]]
+museum = "nga"
+# object = 164950 # Landscape, Île-de-France
+object = "30176908-83b2-4f53-9e84-1af98c8db759"
+title = "Landscape, Île-de-France"
+date = "1873"
+medium = "Oil on canvas"
+classification = "Painting"
+style = ["Impressionism"]
+subjects = ["Landscape", "Haystacks", "Field"]
 
 [[sub.pissarro.items]]
 museum = "nga"
@@ -63,65 +175,95 @@ title = "The Fence"
 date = "1872"
 medium = "Oil on canvas"
 classification = "Painting"
-subjects = ["Landscape"]
+style = ["Impressionism"]
+subjects = ["Landscape", "Rural"]
+
+# ═════════════════════════════════════════════
+# SNOW SCENES
+# ═════════════════════════════════════════════
+
+[[sub.pissarro.items]]
+museum = "aic"
+object = "20530"
+# Rabbit Warren at Pontoise, Snow, 1879
+style = ["Impressionism"]
+subjects = ["Landscape", "Snow", "Winter", "Pontoise"]
+
+[[sub.pissarro.items]]
+museum = "wikimedia"
+object = "Camille_Pissarro,_La_Maison_de_la_Piette,_Montfoucault,_effet_de_neige,_1874,_PD.10-1966,_The_Fitzwilliam_Museum.jpg"
+title = "Piette's House at Montfoucault, Snow Effect"
+date = "1874"
+medium = "Oil on canvas"
+classification = "Painting"
+style = ["Impressionism"]
+subjects = ["Landscape", "Snow", "Winter"]
+# Held at Fitzwilliam Museum, Cambridge
+
+# ═════════════════════════════════════════════
+# GARDENS & ERAGNY
+# ═════════════════════════════════════════════
+
+[[sub.pissarro.items]]
+museum = "nga"
+# object = 52198 # The Artist's Garden at Eragny
+object = "e291058c-0769-493c-a5f3-8e0e64e9ea46"
+title = "The Artist's Garden at Eragny"
+date = "1898"
+medium = "Oil on canvas"
+classification = "Painting"
+style = ["Impressionism"]
+subjects = ["Landscape", "Garden", "Eragny"]
+
+[[sub.pissarro.items]]
+museum = "met"
+object = 437307 # Poplars, Eragny, 1895 — CC0
+style = ["Impressionism"]
+subjects = ["Landscape", "Trees", "Eragny"]
+
+# ═════════════════════════════════════════════
+# FIGURES & RURAL LIFE
+# ═════════════════════════════════════════════
+
+[[sub.pissarro.items]]
+museum = "aic"
+object = "81552"
+# Woman and Child at the Well, 1882
+style = ["Impressionism"]
+subjects = ["Figure", "Rural", "Woman", "Child"]
+
+[[sub.pissarro.items]]
+museum = "nga"
+# object = 46674 # Peasant Woman
+object = "9cc79c1d-3e5d-4531-9bea-0462449a8abc"
+title = "Peasant Woman"
+date = "c. 1880"
+medium = "Oil on canvas"
+classification = "Painting"
+style = ["Impressionism"]
+subjects = ["Figure", "Portrait", "Rural"]
+
+[[sub.pissarro.items]]
+museum = "nga"
+# object = 89683 # The Gardener — Old Peasant with Cabbage
+object = "6e323b85-74c2-4c6c-9ae2-ff74b3ad05a2"
+title = "The Gardener — Old Peasant with Cabbage"
+date = "1883–1895"
+medium = "Oil on canvas"
+classification = "Painting"
+style = ["Impressionism"]
+subjects = ["Figure", "Portrait", "Rural", "Garden"]
+
+# ═════════════════════════════════════════════
+# ST. THOMAS — EARLY WORK
+# ═════════════════════════════════════════════
 
 [[sub.pissarro.items]]
 museum = "nga"
 object = "fdfa01c4-7334-4a34-a1fa-64429773e96e"
 title = "Two Women Chatting by the Sea, St. Thomas"
-date = "1897"
+date = "1856"
 medium = "Oil on canvas"
 classification = "Painting"
-subjects = ["Landscape", "St. Thomas"]
-
-
-# Items to add:
-# The Avenue, Sydenham (1871)
-# National Gallery, London UK PID NG6493
-
-# Pissarro's Hyde Park (1890)
-# Tokyo Fuji Art Museum
-
-[[sub.pissarro.items]]
-#Piette’s House at Montfoucault: Snow Effect (1874)
-#Fitzwilliam Museum, Cambridge
-museum = "wikimedia"
-object = "Pissarro_-_Piette's_House_at_Montfoucault,_1874.jpg"
-title = "Piette’s House at Montfoucault: Snow Effect"
-style = "Impressionism"
-subjects = ["Snow", "Winter"]
-
-[[sub.pissarro.items]]
-museum = "wikimedia"
-object = "Camille_Pissarro,_La_Maison_de_la_Piette,_Montfoucault,_effet_de_neige,_1874,_PD.10-1966,_The_Fitzwilliam_Museum.jpg"
-title = "La Maison de la Piette, Montfoucault, effet de neige"
-style = "Impressionism"
-subjects = ["Snow", "Winter"]
-
-[[sub.pissarro.items]]
-# Boulevard Montmartre on a winter morning (1897)
-# met ID 437310
-# https://collectionapi.metmuseum.org/public/collection/v1/objects/[objectID]
-museum = "met"
-object = "437310"
-
-[[sub.pissarro.items]]
-#Boulevard Montmartre in springtime.
-museum = "wikimedia"
-object = "Camille_Pissarro_-_Boulevard_Montmartre,_Spring_-_Google_Art_Project.jpg"
-title = "Boulevard Montmartre in Springtime"
-style = "Impressionism"
-subjects = ["Street", "Spring", "Cityscape"]
-
-[[sub.pissarro.items]]
-museum = "wikimedia"
-object = "Camille_Pissarro_-_Boulevard_Montmartre_-_Eremitage.jpg"
-style = "Impressionism"
-title = "Boulevard Montmartre"
-subjects = ["Street", "Fall", "Cityscape"]
-
-[[sub.pissarro.items]]
-# Tuileries Gardens (Winter Afternoon) (1899)
-# MET ID 437314
-museum = "met"
-object = "437314"
+style = ["Realism"]
+subjects = ["Figure", "Sea", "St. Thomas"]

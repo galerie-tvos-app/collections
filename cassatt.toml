@@ -64,7 +64,7 @@ title = "Woman with a Sunflower"
 date = "c. 1905"
 medium = "Oil on canvas"
 classification = "Painting"
-subjects = ["Mother", "Child", "Portrait"]
+subjects = ["Mother", "Child", "Portrait", "Nude"]
 style = ["Impressionism"]
 
 [[sub.cassatt.items]]
@@ -220,3 +220,4 @@ medium = "Etching, aquatint, drypoint, and crayon électrique on laid paper"
 classification = "Print"
 subjects = ["Museum", "Portrait", "Urban"]
 style = ["Impressionism", "Realism"]
+focusY = 35
